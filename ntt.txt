@@ -1,0 +1,1504 @@
+
+
+N1475		ae-1.r06.chcgil09.us.bb.gin.ntt.net
+N1475		ae-2.r06.chcgil09.us.bb.gin.ntt.net
+N1475		ae-3.r06.chcgil09.us.bb.gin.ntt.net
+N1475		ae-8.r06.chcgil09.us.bb.gin.ntt.net
+N1475		d1-3-1-0-7.r04.chcgil09.us.bb.gin.ntt.net
+N1475		xe-0-3-0-9.r06.chcgil09.us.bb.gin.ntt.net
+N1475		xe-0-6-0-17.r06.chcgil09.us.bb.gin.ntt.net
+
+
+N1518		ae-4.r02.chwahk02.hk.bb.gin.ntt.net
+N1518		ae-6.r02.chwahk02.hk.bb.gin.ntt.net
+N1518		ae-7.r02.chwahk02.hk.bb.gin.ntt.net
+
+
+N1554		xe-0-1-0-4.r00.sngpsi02.sg.ce.gin.ntt.net
+
+
+N1845		ae-0.netflix.nycmny01.us.bb.gin.ntt.net
+
+
+N1935		dimensiondata-xe.r00.londen03.uk.bb.gin.ntt.net
+
+
+N2104		ae-1.r06.nycmny01.us.bb.gin.ntt.net
+N2104		ae-15.r06.nycmny01.us.bb.gin.ntt.net
+N2104		ae-2.r06.nycmny01.us.bb.gin.ntt.net
+N2104		ae-20.r06.nycmny01.us.bb.gin.ntt.net
+N2104		ae-3.r06.nycmny01.us.bb.gin.ntt.net
+N2104		xe-0-2-0-6.r06.nycmny01.us.bb.gin.ntt.net
+N2104		xe-0-5-0-8.r06.nycmny01.us.bb.gin.ntt.net
+
+
+N2145		dimensiondata-0.r02.londen03.uk.bb.gin.ntt.net
+
+
+N2266		ae-0.ua.sttlwa01.us.bb.gin.ntt.net
+
+
+N2330		rosetelecom-0.r02.frnkge04.de.bb.gin.ntt.net
+
+
+N2439		ae-0.sprint.miamfl02.us.bb.gin.ntt.net
+
+
+N2511		ae-5.amazon.asbnva02.us.bb.gin.ntt.net
+
+
+N2624		ae-1.r05.miamfl02.us.bb.gin.ntt.net
+N2624		ae-13.r05.miamfl02.us.bb.gin.ntt.net
+N2624		ae-2.r05.miamfl02.us.bb.gin.ntt.net
+N2624		ae-4.r05.miamfl02.us.bb.gin.ntt.net
+N2624		xe-0-0-0-10.r05.miamfl02.us.bb.gin.ntt.net
+N2624		xe-0-0-0-19.r05.miamfl02.us.bb.gin.ntt.net
+N2624		xe-0-4-0-2.r05.miamfl02.us.bb.gin.ntt.net
+
+
+N2824		ae-0.sprint.nycmny01.us.bb.gin.ntt.net
+
+
+N2845		xe-0-5-0-3.r02.amstnl02.nl.ce.gin.ntt.net
+
+
+N2983		ae-2.r02.frnkge04.de.bb.gin.ntt.net
+N2983		ae-3.r02.frnkge04.de.bb.gin.ntt.net
+N2983		ae-7.r02.frnkge04.de.bb.gin.ntt.net
+
+
+N3058		ae-1.r08.dllstx09.us.bb.gin.ntt.net
+N3058		ae-12.r08.dllstx09.us.bb.gin.ntt.net
+N3058		ae-13.r08.dllstx09.us.bb.gin.ntt.net
+N3058		ae-2.r08.dllstx09.us.bb.gin.ntt.net
+N3058		ae-5.r08.dllstx09.us.bb.gin.ntt.net
+N3058		ae-7.r08.dllstx09.us.bb.gin.ntt.net
+N3058		ge-0-7-0-9.r08.dllstx09.us.bb.gin.ntt.net
+N3058		te-1-3.r03.dllstx09.us.bb.gin.ntt.net
+
+
+N3139		canar-telecom-0.r23.londen03.uk.gin.ntt.net
+N3139		p1-2-0-0.r03.londen03.uk.ce.gin.ntt.net
+N3139		p1-2-2-0.r03.londen03.uk.ce.gin.ntt.net
+N3139		p1-3-2-2.r03.londen03.uk.ce.gin.ntt.net
+
+
+N3157		p16-4-2-3.r22.tokyjp01.jp.ce.gin.ntt.net
+
+
+N3252		ae-12.r00.tokyjp03.jp.bb.gin.ntt.net
+N3252		ae-2.r00.tokyjp03.jp.bb.gin.ntt.net
+N3252		ae-3.r00.tokyjp03.jp.bb.gin.ntt.net
+N3252		ae-4.r00.tokyjp03.jp.bb.gin.ntt.net
+N3252		ae-5.r00.tokyjp03.jp.bb.gin.ntt.net
+N3252		ae-8.r00.tokyjp03.jp.bb.gin.ntt.net
+N3252		xe-0-1-0-2.r00.tokyjp03.jp.bb.gin.ntt.net
+
+
+N3313		xe-0-4-0-10.r04.lsanca03.us.ce.gin.ntt.net
+N3313		xe-0-5-0-30.r05.lsanca03.us.ce.gin.ntt.net
+
+
+N3335		ae-1.r03.amstnl02.nl.bb.gin.ntt.net
+N3335		ae-15.r03.amstnl02.nl.bb.gin.ntt.net
+N3335		ae-2.r03.amstnl02.nl.bb.gin.ntt.net
+N3335		ae-20.r03.amstnl02.nl.bb.gin.ntt.net
+N3335		ae-5.r03.amstnl02.nl.bb.gin.ntt.net
+
+
+N3433		ge-3-0-2.r00.sngpsi03.sg.ce.gin.ntt.net
+N3433		ge-4-0-2.r00.sngpsi03.sg.ce.gin.ntt.net
+
+
+N3603		ae-1.netflix.asbnva02.us.bb.gin.ntt.net
+
+
+N3619		ae-2.amazon.asbnva02.us.bb.gin.ntt.net
+
+
+N3645		xe-0-1-0-3.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N3718		xe-0-5-0-10.r00.tokyjp01.jp.ce.gin.ntt.net
+
+
+N3732		ae-2.r01.mdrdsp03.es.bb.gin.ntt.net
+N3732		ae-6.r01.mdrdsp03.es.bb.gin.ntt.net
+N3732		ge-0-0-0-25.r01.mdrdsp03.es.bb.gin.ntt.net
+N3732		xe-0-1-0-3.r01.mdrdsp03.es.bb.gin.ntt.net
+
+
+N3740		xe-0-0-0-10.r05.nycmny01.us.ce.gin.ntt.net
+N3740		xe-0-0-0-9.r05.nycmny01.us.ce.gin.ntt.net
+N3740		xe-0-3-0-16.r06.nycmny01.us.ce.gin.ntt.net
+N3740		xe-0-6-0-2.r06.nycmny01.us.ce.gin.ntt.net
+
+
+N3749		xe-0-3-0-0.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N3767		xe-0-1-0-17.r08.dllstx09.us.ce.gin.ntt.net
+
+
+N3787		xe-0.francetelecom.chcgil09.us.bb.gin.ntt.net
+
+
+N3832		ae-1.r01.dllstx04.us.bb.gin.ntt.net
+N3832		ae-2.r01.dllstx04.us.bb.gin.ntt.net
+N3832		ae-3.r01.dllstx04.us.bb.gin.ntt.net
+N3832		ae-5.r01.dllstx04.us.bb.gin.ntt.net
+N3832		ae-9.r01.dllstx04.us.bb.gin.ntt.net
+
+
+N3866		ae-1.r04.parsfr01.fr.bb.gin.ntt.net
+N3866		ae-2.r04.parsfr01.fr.bb.gin.ntt.net
+N3866		ae-4.r04.parsfr01.fr.bb.gin.ntt.net
+N3866		ae-7.r04.parsfr01.fr.bb.gin.ntt.net
+N3866		ae-8.r04.parsfr01.fr.bb.gin.ntt.net
+N3866		xe-0-0-0-2.r04.parsfr01.fr.bb.gin.ntt.net
+
+
+N3930		as-0.r00.sngpsi03.sg.bb.gin.ntt.net
+N3930		as-1.r00.sngpsi03.sg.bb.gin.ntt.net
+N3930		ge-3-0-2.r00.sngpsi03.sg.bb.gin.ntt.net
+N3930		ge-4-0-2.r00.sngpsi03.sg.bb.gin.ntt.net
+N3930		xe-4-1-0.r00.sngpsi03.sg.bb.gin.ntt.net
+
+
+N4097		ae-0.embratel.miamfl02.us.bb.gin.ntt.net
+
+
+N4099		ae-1.embratel.miamfl02.us.bb.gin.ntt.net
+
+
+N4103		p16-5-3-3.r22.tokyjp01.jp.ce.gin.ntt.net
+
+
+N4117		ae-1.amazon.asbnva02.us.bb.gin.ntt.net
+
+
+N4243		ge-2-1-6.r03.kslrml01.my.ce.gin.ntt.net
+N4243		ge-2-1-7.r03.kslrml01.my.ce.gin.ntt.net
+
+
+N4305		ae-3.amazon.asbnva02.us.bb.gin.ntt.net
+
+
+N4306		ae-4.amazon.asbnva02.us.bb.gin.ntt.net
+
+
+N4373		p16-1.chinanet.tokyjp01.jp.bb.gin.ntt.net
+N4373		p16-4.chinanet.tokyjp01.jp.bb.gin.ntt.net
+
+
+N4374		ae-0.pccw.lsanca03.us.bb.gin.ntt.net
+
+
+N4390		xe-0-0-0-10.r05.sttlwa01.us.ce.gin.ntt.net
+
+
+N4403		ae-0.comcast.asbnva02.us.bb.gin.ntt.net
+
+
+N4426		ae-0.cox-comm.chcgil09.us.bb.gin.ntt.net
+
+
+N4451		ae-0.gtt.lsanca03.us.bb.gin.ntt.net
+
+
+N4452		ae-1.r03.atlnga05.us.bb.gin.ntt.net
+N4452		ae-4.r03.atlnga05.us.bb.gin.ntt.net
+N4452		ae-5.r03.atlnga05.us.bb.gin.ntt.net
+N4452		ae-6.r03.atlnga05.us.bb.gin.ntt.net
+N4452		te-2-1.r00.atlnga05.us.bb.gin.ntt.net
+N4452		xe-0-5-0-21.r03.atlnga05.us.bb.gin.ntt.net
+
+
+N4609		ae-2.r02.londen05.uk.bb.gin.ntt.net
+N4609		ae-3.r02.londen05.uk.bb.gin.ntt.net
+N4609		xe-0-1-0-6.r02.londen05.uk.bb.gin.ntt.net
+N4609		xe-4-3.r00.londen05.uk.bb.gin.ntt.net
+
+
+N4736		xe-0-0-0-12.r07.snjsca04.us.ce.gin.ntt.net
+
+
+N4949		xe-3-0-1.r22.tokyjp01.jp.ce.gin.ntt.net
+
+
+N4950		ae-1.netflix.nycmny01.us.bb.gin.ntt.net
+
+
+N4958		xe-0.kpn.snjsca04.us.bb.gin.ntt.net
+
+
+N4975		ae-0.ua.nycmny01.us.bb.gin.ntt.net
+
+
+N5035		xe-0-0-0-3.r01.tokyjp03.jp.ce.gin.ntt.net
+
+
+N5155		p16-0.chinanet.tokyjp01.jp.bb.gin.ntt.net
+N5155		p16-5.chinanet.tokyjp01.jp.bb.gin.ntt.net
+
+
+N5215		xe-0-2-0-11.r05.lsanca03.us.ce.gin.ntt.net
+N5215		xe-0-2-0-12.r04.lsanca03.us.ce.gin.ntt.net
+N5215		xe-0-2-0-12.r05.lsanca03.us.ce.gin.ntt.net
+N5215		xe-0-2-0-19.r04.lsanca03.us.ce.gin.ntt.net
+N5215		xe-0-3-0-6.r04.lsanca03.us.ce.gin.ntt.net
+N5215		xe-0-5-0-5.r04.lsanca03.us.ce.gin.ntt.net
+N5215		xe-0-5-0-6.r04.lsanca03.us.ce.gin.ntt.net
+
+
+N5222		xe-0-1-0-30.r05.nycmny01.us.ce.gin.ntt.net
+N5222		xe-0-1-0-31.r05.nycmny01.us.ce.gin.ntt.net
+N5222		xe-0-6-0-21.r06.nycmny01.us.ce.gin.ntt.net
+N5222		xe-0-6-0-22.r06.nycmny01.us.ce.gin.ntt.net
+
+
+N5253		xe-0.centurylink.atlnga05.us.bb.gin.ntt.net
+
+
+N5254		xe-1.verizonbusiness.snjsca04.us.bb.gin.ntt.net
+
+
+N5280		xe-1.globalcrossing.miamfl02.us.bb.gin.ntt.net
+
+
+N5283		xe-0.globalcrossing.chcgil09.us.bb.gin.ntt.net
+
+
+N5299		xe-0-3-0-12.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N5341		xe-0-5-0-8.r06.nycmny01.us.ce.gin.ntt.net
+
+
+N5354		xe-0-0-0-4.r08.dllstx09.us.ce.gin.ntt.net
+N5354		xe-0-0-0-5.r08.dllstx09.us.ce.gin.ntt.net
+N5354		xe-0-1-0-21.r08.dllstx09.us.ce.gin.ntt.net
+N5354		xe-0-4-0-13.r07.dllstx09.us.ce.gin.ntt.net
+
+
+N5416		ae-1.r00.londen10.uk.bb.gin.ntt.net
+N5416		ae-3.r00.londen10.uk.bb.gin.ntt.net
+N5416		ae-6.r00.londen10.uk.bb.gin.ntt.net
+N5416		ae-7.r00.londen10.uk.bb.gin.ntt.net
+
+
+N5569		ae-1.r03.chwahk02.hk.bb.gin.ntt.net
+N5569		ae-3.r03.chwahk02.hk.bb.gin.ntt.net
+N5569		ae-7.r03.chwahk02.hk.bb.gin.ntt.net
+
+
+N5799		ae-1.ua.nycmny01.us.bb.gin.ntt.net
+
+
+N5850		ae-1.akamai.nycmny01.us.bb.gin.ntt.net
+
+
+N5852		ae-3.akamai.miamfl02.us.bb.gin.ntt.net
+
+
+N5902		xe-0-0-0-15.r05.nycmny01.us.ce.gin.ntt.net
+
+
+N5909		ge-101-0-0-16.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N5973		xe-0-3-0-4.r07.snjsca04.us.ce.gin.ntt.net
+N5973		xe-0-5-0-16.r06.snjsca04.us.ce.gin.ntt.net
+N5973		xe-0-5-0-21.r07.snjsca04.us.ce.gin.ntt.net
+N5973		xe-0-6-0-8.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N6082		xe-0-0-0-6.r00.tokyjp01.jp.ce.gin.ntt.net
+N6082		xe-0-0-0-7.r00.tokyjp01.jp.ce.gin.ntt.net
+N6082		xe-0-1-0-3.r00.tokyjp01.jp.ce.gin.ntt.net
+N6082		xe-0-5-0-7.r00.tokyjp01.jp.ce.gin.ntt.net
+
+
+N6153		xe-0-0-0-4.r00.tokyjp03.jp.ce.gin.ntt.net
+N6153		xe-0-1-0-18.r00.tokyjp03.jp.ce.gin.ntt.net
+N6153		xe-0-1-0-19.r00.tokyjp03.jp.ce.gin.ntt.net
+N6153		xe-0-1-0-4.r00.tokyjp03.jp.ce.gin.ntt.net
+N6153		xe-0-1-0-9.r00.tokyjp03.jp.ce.gin.ntt.net
+
+
+N6249		xe-0-1-0-19.r00.londen10.uk.ce.gin.ntt.net
+
+
+N6251		xe-0-4-0-12.r05.miamfl02.us.ce.gin.ntt.net
+
+
+N6275		flagtelecom-0.r02.londen03.uk.bb.gin.ntt.net
+
+
+N6337		xe-0-4-0-14.r05.nycmny01.us.ce.gin.ntt.net
+
+
+N6352		p16-6.chinanet.tokyjp01.jp.bb.gin.ntt.net
+
+
+N6355		xe-0.savvis.snjsca04.us.bb.gin.ntt.net
+
+
+N6371		xe-0-3-0-5.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N6372		xe-0-3-0-7.r06.chcgil09.us.ce.gin.ntt.net
+
+
+N6425		ae-0.cox-comm.asbnva02.us.bb.gin.ntt.net
+
+
+N6454		ae-0.comcast.chcgil09.us.bb.gin.ntt.net
+
+
+N6640		i3d.r02.amstnl02.nl.ce.gin.ntt.net
+
+
+N6693		ae-1.r00.sofibu01.bg.bb.gin.ntt.net
+N6693		ae-2.r00.sofibu01.bg.bb.gin.ntt.net
+N6693		xe-0-2-0-2.r00.sofibu01.bg.bb.gin.ntt.net
+
+
+N6696		skyvision-0.r01.frnkge03.de.bb.gin.ntt.net
+
+
+N7080		xe-0-5-0-7.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N7234		xe-0-1-0-11.r00.lsanca19.us.ce.gin.ntt.net
+
+
+N7644		p64-1-1-3.r20.snjsca04.us.ce.gin.ntt.net
+N7644		xe-0-4-0-8.r00.tokyjp01.jp.ce.gin.ntt.net
+
+
+N7663		xe-0-1-0-18.r00.lsanca19.us.ce.gin.ntt.net
+
+
+N7664		ae-0.cox-comm.atlnga05.us.bb.gin.ntt.net
+
+
+N7674		xe-0-5-0-15.r04.sttlwa01.us.ce.gin.ntt.net
+
+
+N7703		edgecast-0.r01.frnkge03.de.bb.gin.ntt.net
+N7703		edgecast-0.r02.frnkge03.de.bb.gin.ntt.net
+
+
+N7716		xe-0-0-0-15.r07.dllstx09.us.ce.gin.ntt.net
+
+
+N7760		ae-0.pccw.tokyjp05.jp.bb.gin.ntt.net
+
+
+N7782		naukanet-gw.ntt.net
+
+
+N7795		xe-0-4-0-2.r05.miamfl02.us.ce.gin.ntt.net
+N7795		xe-0-7-0-22.r04.miamfl02.us.ce.gin.ntt.net
+
+
+N7804		xe-0-3-0-6.r06.chcgil09.us.ce.gin.ntt.net
+
+
+N7808		xe-0-7-0-20-53.r04.miamfl02.us.ce.gin.ntt.net
+
+
+N7995		xe-0-2-0-15.r00.tokyjp05.jp.ce.gin.ntt.net
+
+
+N7996		p4-2.chinanet.tokyjp01.jp.bb.gin.ntt.net
+
+
+N7998		xe-0-0-0-6.r01.tokyjp01.jp.ce.gin.ntt.net
+N7998		xe-0-0-0-7.r01.tokyjp01.jp.ce.gin.ntt.net
+N7998		xe-0-1-0-3.r01.tokyjp01.jp.ce.gin.ntt.net
+N7998		xe-0-5-0-7.r01.tokyjp01.jp.ce.gin.ntt.net
+
+
+N8072		ae-1.r23.osakjp02.jp.bb.gin.ntt.net
+N8072		ae-3.r23.osakjp02.jp.bb.gin.ntt.net
+N8072		ae-4.r23.osakjp02.jp.bb.gin.ntt.net
+N8072		ae-5.r23.osakjp02.jp.bb.gin.ntt.net
+N8072		ae-6.r23.osakjp02.jp.bb.gin.ntt.net
+N8072		ae-8.r23.osakjp02.jp.bb.gin.ntt.net
+N8072		p64-6-0-2.r23.osakjp02.jp.bb.gin.ntt.net
+
+
+N8086		ae-3-52.r03.seolko01.kr.ce.gin.ntt.net
+N8086		ae-3-61.r03.seolko01.kr.ce.gin.ntt.net
+
+
+N8112		edgecast-0.r01.mdrdsp03.es.bb.gin.ntt.net
+
+
+N8123		xe-0-3-0-15.r04.asbnva02.us.ce.gin.ntt.net
+N8123		xe-0-3-0-16.r04.asbnva02.us.ce.gin.ntt.net
+N8123		xe-0-3-0-29.r00.asbnva02.us.ce.gin.ntt.net
+N8123		xe-0-3-0-30.r00.asbnva02.us.ce.gin.ntt.net
+
+
+N8132		ge-0-7-0-3-51.r06.chcgil09.us.ce.gin.ntt.net
+
+
+N8189		p16-3.chinanet.tokyjp01.jp.bb.gin.ntt.net
+
+
+N8205		ae-0.tata-communications.miamfl02.us.bb.gin.ntt.net
+
+
+N8217		xe-0-0-0-15.r05.chcgil09.us.ce.gin.ntt.net
+
+
+N8218		xe-0-1-0-12.r04.atlnga05.us.ce.gin.ntt.net
+
+
+N8233		xe-0-0-0-15.r06.nycmny01.us.ce.gin.ntt.net
+
+
+N8245		xe-0.globalcrossing.frnkge03.de.bb.gin.ntt.net
+N8245		xe-1.globalcrossing.frnkge03.de.bb.gin.ntt.net
+
+
+N8253		ae-13.akamai.asbnva02.us.bb.gin.ntt.net
+
+
+N8255		xe-0-1-0-10.r05.miamfl02.us.ce.gin.ntt.net
+N8255		xe-0-4-0-1.r05.miamfl02.us.ce.gin.ntt.net
+
+
+N8256		ae-0.tata-communications.dllstx09.us.bb.gin.ntt.net
+
+
+N8272		xe-0-0-0-22.r07.snjsca04.us.ce.gin.ntt.net
+
+
+N8289		ae-0.telmex-colombia.miamfl02.us.bb.gin.ntt.net
+N8289		xe-0-7-0-8.r05.miamfl02.us.ce.gin.ntt.net
+
+
+N8302		ge-0.aol.snjsca04.us.bb.gin.ntt.net
+
+
+N8307		xe-0-0-0-28.r05.sttlwa01.us.ce.gin.ntt.net
+N8307		xe-0-5-0-4.r04.sttlwa01.us.ce.gin.ntt.net
+N8307		xe-0-6-0-5.r04.sttlwa01.us.ce.gin.ntt.net
+
+
+N8313		xe-0.globalcrossing.parsfr01.fr.bb.gin.ntt.net
+
+
+N8316		netvision-0.r02.frnkge04.de.bb.gin.ntt.net
+
+
+N8344		ae-0.comcast.snjsca04.us.bb.gin.ntt.net
+
+
+N8365		xe-0-0-0-12.r06.chcgil09.us.ce.gin.ntt.net
+
+
+N8366		ae-0.server-central.chcgil09.us.bb.gin.ntt.net
+N8366		xe-0-6-0-5.r06.chcgil09.us.ce.gin.ntt.net
+
+
+N8440		ae-0.atrato.chcgil09.us.bb.gin.ntt.net
+
+
+N8442		xe-0-1-0-5.r05.miamfl02.us.ce.gin.ntt.net
+
+
+N8615		xe-0-4-0-16-57.r05.miamfl02.us.ce.gin.ntt.net
+N8615		xe-0-7-0-20-54.r04.miamfl02.us.ce.gin.ntt.net
+
+
+N8660		xe-0-0-0-19.r05.miamfl02.us.ce.gin.ntt.net
+
+
+N8710		ge-100-0-0-38.r00.sngpsi02.sg.ce.gin.ntt.net
+
+
+N8786		p16-0.koreatelecom.tokyjp01.jp.bb.gin.ntt.net
+N8786		p64-1.koreatelecom.tokyjp05.jp.bb.gin.ntt.net
+
+
+N8882		ae-0.r20.sngpsi05.sg.bb.gin.ntt.net
+N8882		ae-1.r20.sngpsi05.sg.bb.gin.ntt.net
+N8882		ae-2.r20.sngpsi05.sg.bb.gin.ntt.net
+N8882		ae-3.r20.sngpsi05.sg.bb.gin.ntt.net
+N8882		ae-4.r20.sngpsi05.sg.bb.gin.ntt.net
+N8882		ae-5.r20.sngpsi05.sg.bb.gin.ntt.net
+N8882		as-0.r20.sngpsi05.sg.bb.gin.ntt.net
+
+
+N8883		ae-2.r05.plalca01.us.bb.gin.ntt.net
+N8883		ae-4.r05.plalca01.us.bb.gin.ntt.net
+N8883		xe-0-4-0-3.r05.plalca01.us.bb.gin.ntt.net
+
+
+N8884		ae-1.r04.atlnga05.us.bb.gin.ntt.net
+N8884		ae-10.r04.atlnga05.us.bb.gin.ntt.net
+N8884		ae-3.r04.atlnga05.us.bb.gin.ntt.net
+
+
+N8885		xe-0-3-0-15.r06.nycmny01.us.ce.gin.ntt.net
+N8885		xe-0-3-0-6.r06.nycmny01.us.ce.gin.ntt.net
+N8885		xe-0-4-0-10.r05.nycmny01.us.ce.gin.ntt.net
+N8885		xe-0-4-0-8.r05.nycmny01.us.ce.gin.ntt.net
+
+
+N9137		ge-0-0-6.a06.sydnau01.au.ra.gin.ntt.net
+N9137		ge-1-0-6.a06.sydnau01.au.ra.gin.ntt.net
+N9137		xe-0-1-0.a06.sydnau01.au.ra.gin.ntt.net
+N9137		xe-4-1-0.a06.sydnau01.au.ra.gin.ntt.net
+
+
+N9409		xe-0-7-0-7-64.r00.asbnva02.us.ce.gin.ntt.net
+
+
+N9411		xe-0-0-0-5.r05.plalca01.us.ce.gin.ntt.net
+
+
+N9432		ae-1.twitter.snjsca04.us.bb.gin.ntt.net
+
+
+N9441		ae-0.level3.sttlwa01.us.bb.gin.ntt.net
+
+
+N9456		xe-0-5-0-20.r07.snjsca04.us.ce.gin.ntt.net
+
+
+N9457		te-0-7-0-3.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N9459		ge-102-0-0-11.r07.snjsca04.us.ce.gin.ntt.net
+
+
+N9473		xe-0-1-0-25.r05.nycmny01.us.ce.gin.ntt.net
+
+
+N9486		ae-0.nforce-entertainment-bv.amstnl02.nl.bb.gin.ntt.net
+N9486		ae-1.nforce-entertainment-bv.amstnl02.nl.bb.gin.ntt.net
+
+
+N9511		p64-1-1-0.r20.snjsca04.us.ce.gin.ntt.net
+N9511		p64-7-0-1.r21.snjsca04.us.ce.gin.ntt.net
+
+
+N9579		ae-0.amazon.tokyjp03.jp.bb.gin.ntt.net
+
+
+N9639		xe-0-1-0-5.r04.lsanca03.us.ce.gin.ntt.net
+
+
+N9641		xe-0-0-0-19.r05.lsanca03.us.ce.gin.ntt.net
+
+
+N9741		ae-0.comcast.sttlwa01.us.bb.gin.ntt.net
+
+
+N9743		ae-0.amazon.miamfl02.us.bb.gin.ntt.net
+N9743		ae-4.amazon.miamfl02.us.bb.gin.ntt.net
+
+
+N9959		ae-3-50.r01.newthk03.hk.ce.gin.ntt.net
+
+
+N9978		ge-0-1-3.r00.taiptw01.tw.ce.gin.ntt.net
+
+
+N9979		fa-7-2-1.r00.taiptw01.tw.ce.gin.ntt.net
+
+
+N10230		rackmarket-0.r01.mdrdsp03.es.bb.gin.ntt.net
+
+
+N10248		xe-0-4-0-29-51.r05.nycmny01.us.ce.gin.ntt.net
+
+
+N10363		xe-0-3-0-5.r02.chwahk02.hk.ce.gin.ntt.net
+
+
+N10372		xe-0-3-0-13.r04.miamfl02.us.ce.gin.ntt.net
+N10372		xe-0-7-0-21.r04.miamfl02.us.ce.gin.ntt.net
+N10372		xe-0-7-0-29.r05.miamfl02.us.ce.gin.ntt.net
+
+
+N10394		xe-0-4-0-7.r05.lsanca03.us.ce.gin.ntt.net
+
+
+N10399		xe-0-0-0-12.r05.nycmny01.us.ce.gin.ntt.net
+
+
+N10428		xe-0-5-0-1.r04.sttlwa01.us.ce.gin.ntt.net
+
+
+N10485		xe-0-4-0-14.r05.lsanca03.us.ce.gin.ntt.net
+
+
+N10504		ae-2.akamai.nycmny01.us.bb.gin.ntt.net
+
+
+N10526		ae-11.akamai.asbnva02.us.bb.gin.ntt.net
+
+
+N10625		ae-0.comcast.dllstx09.us.bb.gin.ntt.net
+
+
+N10657		ae-2.r06.plalca01.us.bb.gin.ntt.net
+N10657		ae-4.r06.plalca01.us.bb.gin.ntt.net
+N10657		xe-0-4-0-3.r06.plalca01.us.bb.gin.ntt.net
+
+
+N10743		ge-100-0-0-1.r06.nycmny01.us.ce.gin.ntt.net
+
+
+N10753		internetconnections-0.r01.londen05.uk.bb.gin.ntt.net
+N10753		pokerstars-0.r01.londen05.uk.bb.gin.ntt.net
+
+
+N10857		xe-0-0-0-5.r00.sngpsi02.sg.ce.gin.ntt.net
+
+
+N10957		c2internet-0.r01.londen03.uk.bb.gin.ntt.net
+
+
+N11128		xe-0-1-0-15.r08.dllstx09.us.ce.gin.ntt.net
+
+
+N11234		xe-0-3-0-11.r04.lsanca03.us.ce.gin.ntt.net
+N11234		xe-0-3-0-13.r05.lsanca03.us.ce.gin.ntt.net
+N11234		xe-0-3-0-9.r05.lsanca03.us.ce.gin.ntt.net
+
+
+N11603		ge-0-7-0-4.r06.chcgil09.us.ce.gin.ntt.net
+
+
+N11613		ae-0.r22.londen03.uk.bb.gin.ntt.net
+N11613		ae-2.r22.londen03.uk.bb.gin.ntt.net
+N11613		ae-6.r22.londen03.uk.bb.gin.ntt.net
+N11613		as-0.r22.londen03.uk.bb.gin.ntt.net
+N11613		ge-0.linx.london03.uk.bb.gin.ntt.net
+N11613		xe-1-0-9.r22.londen03.uk.bb.gin.ntt.net
+
+
+N11614		ae-0.r23.amstnl02.nl.bb.gin.ntt.net
+N11614		ae-1.r23.amstnl02.nl.bb.gin.ntt.net
+N11614		ae-2.r23.amstnl02.nl.bb.gin.ntt.net
+N11614		ae-3.r23.amstnl02.nl.bb.gin.ntt.net
+N11614		ae-4.r23.amstnl02.nl.bb.gin.ntt.net
+N11614		ae-5.r23.amstnl02.nl.bb.gin.ntt.net
+
+
+N11615		as-1.r05.sydnau01.au.bb.gin.ntt.net
+N11615		as-2.r05.sydnau01.au.bb.gin.ntt.net
+N11615		p16-6-0-3.r05.sydnau01.au.bb.gin.ntt.net
+N11615		xe-1-0-0.r05.sydnau01.au.bb.gin.ntt.net
+N11615		xe-5-1-0.r05.sydnau01.au.bb.gin.ntt.net
+
+
+N11616		xe-0.savvis.nycmny01.us.bb.gin.ntt.net
+N11616		xe-1.savvis.nycmny01.us.bb.gin.ntt.net
+
+
+N11617		ge-0.sprint.tokyjp01.jp.bb.gin.ntt.net
+
+
+N11618		ae-0.sprint.atlnga05.us.bb.gin.ntt.net
+
+
+N11619		ge-8-3.r00.nycmny12.us.ce.gin.ntt.net
+
+
+N11620		ae-0.twitter.snjsca04.us.bb.gin.ntt.net
+
+
+N11992		twitter-0.r02.londen03.uk.bb.gin.ntt.net
+
+
+N12071		ge-0-0-6.a00.sydnau02.au.ra.gin.ntt.net
+N12071		xe-1-1-0.a00.sydnau02.au.ra.gin.ntt.net
+N12071		xe-2-1-0.a00.sydnau02.au.ra.gin.ntt.net
+N12071		xe-3-0-0-16.a00.sydnau02.au.ra.gin.ntt.net
+N12071		xe-3-1-0.a00.sydnau02.au.ra.gin.ntt.net
+
+
+N12574		xe-0-0-0-5-51.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N12605		xe-0-6-0-32.r07.snjsca04.us.ce.gin.ntt.net
+
+
+N12611		ge-102-0-0-21.r07.snjsca04.us.ce.gin.ntt.net
+
+
+N12655		xe-0-5-0-20.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N12756		xe-0-3-0-11.r07.snjsca04.us.ce.gin.ntt.net
+
+
+N12790		ge-1-0-0.r00.jktajk02.id.ce.gin.ntt.net
+
+
+N12814		ae-0.facebook.tokyjp03.jp.bb.gin.ntt.net
+
+
+N12997		evolink-0.r00.sofibu01.bg.bb.gin.ntt.net
+
+
+N13001		xe-0-5-0-10.r00.sngpsi02.sg.ce.gin.ntt.net
+
+
+N13038		propalin-0.r01.mdrdsp03.es.bb.gin.ntt.net
+
+
+N13046		xe-0-0-0-30.r01.tokyjp03.jp.ce.gin.ntt.net
+
+
+N13078		ae-1.akamai.chcgil09.us.bb.gin.ntt.net
+
+
+N13371		ae-1.r00.taiptw01.tw.bb.gin.ntt.net
+N13371		as-0.r00.taiptw01.tw.bb.gin.ntt.net
+N13371		as-1.r00.taiptw01.tw.bb.gin.ntt.net
+N13371		fa-7-2-1.r00.taiptw01.tw.bb.gin.ntt.net
+N13371		p64-0-0-0.r00.taiptw01.tw.bb.gin.ntt.net
+
+
+N13372		fa-7-2-2.r00.taiptw01.tw.ce.gin.ntt.net
+N13372		xe-4-0-0.r00.taiptw01.tw.ce.gin.ntt.net
+
+
+N13392		xe-0-5-0-21.r01.tokyjp01.jp.ce.gin.ntt.net
+
+
+N13393		p4-0.chinanet.tokyjp01.jp.bb.gin.ntt.net
+N13393		p4-1.chinanet.tokyjp01.jp.bb.gin.ntt.net
+
+
+N13394		ae-10.a21.tokyjp01.jp.ra.gin.ntt.net
+N13394		ae-4.a21.tokyjp01.jp.ra.gin.ntt.net
+N13394		ae-5.a21.tokyjp01.jp.ra.gin.ntt.net
+N13394		xe-6-0-3.a21.tokyjp01.jp.ra.gin.ntt.net
+
+
+N13396		xe-0-5-0-22.r01.tokyjp01.jp.ce.gin.ntt.net
+
+
+N13552		ae-1.a20.osakjp01.jp.ra.gin.ntt.net
+N13552		ae-2.a20.osakjp01.jp.ra.gin.ntt.net
+N13552		ae-6.a20.osakjp01.jp.ra.gin.ntt.net
+N13552		ae-8.a20.osakjp01.jp.ra.gin.ntt.net
+
+
+N13560		xe-0-6-0-6.r00.tokyjp01.jp.ce.gin.ntt.net
+
+
+N13563		xe-0-3-0-4.r00.tokyjp01.jp.ce.gin.ntt.net
+
+
+N13619		tenet-0.r02.londen05.uk.bb.gin.ntt.net
+
+
+N13645		interoute-0.r01.mdrdsp03.es.bb.gin.ntt.net
+
+
+N13670		ae-0.amazon.lsanca03.us.bb.gin.ntt.net
+N13670		ae-1.amazon.lsanca03.us.bb.gin.ntt.net
+
+
+N13680		ae-4.amazon.sttlwa01.us.bb.gin.ntt.net
+
+
+N13682		xe-0-2-0-2-200.r02.chwahk02.hk.ce.gin.ntt.net
+
+
+N13684		ge-0-7-0-6-51.r04.lsanca03.us.ce.gin.ntt.net
+
+
+N13769		te-data-0.r21.frnkge03.de.bb.gin.ntt.net
+
+
+N13811		ae-1.r00.tkokhk01.hk.bb.gin.ntt.net
+N13811		ae-2.r00.tkokhk01.hk.bb.gin.ntt.net
+N13811		ae-5-51.r00.tkokhk01.hk.bb.gin.ntt.net
+N13811		ae-7.r00.tkokhk01.hk.bb.gin.ntt.net
+
+
+N13861		xe-0-1-0-19.r05.nycmny01.us.ce.gin.ntt.net
+
+
+N13870		xe-0-6-0-29.r07.snjsca04.us.ce.gin.ntt.net
+
+
+N13881		ae-0.verizonbusiness.lsanca03.us.bb.gin.ntt.net
+
+
+N13903		ge-0-7-0-28.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N13910		xe-0-7-0-26.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N13929		xe-0-3-0-6.r04.miamfl02.us.ce.gin.ntt.net
+N13929		xe-0-6-0-11.r04.miamfl02.us.ce.gin.ntt.net
+
+
+N13980		xe-0-5-0-6-65.r04.sttlwa01.us.ce.gin.ntt.net
+
+
+N13990		ae-0.akamai.asbnva02.us.bb.gin.ntt.net
+
+
+N14041		xe-0-4-0-12.r05.lsanca03.us.ce.gin.ntt.net
+
+
+N14253		ae-3.amazon.sttlwa01.us.bb.gin.ntt.net
+
+
+N14315		atom86-gw.ipv4.ntt.net
+
+
+N14479		edgecast-0.r02.amstnl02.nl.bb.gin.ntt.net
+N14479		edgecast-0.r03.amstnl02.nl.bb.gin.ntt.net
+
+
+N14482		xe-0-0-0-5.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N14505		xe-3-2.r00.barcsp01.es.ce.gin.ntt.net
+
+
+N14507		bit-0.r01.amstnl02.nl.bb.gin.ntt.net
+
+
+N14613		ae-2.r00.buchro01.ro.bb.gin.ntt.net
+N14613		ae-3.r00.buchro01.ro.bb.gin.ntt.net
+
+
+N14616		ae-4.r00.stocse01.se.bb.gin.ntt.net
+N14616		xe-0-0-0-0.r00.stocse01.se.bb.gin.ntt.net
+
+
+N14617		niig-0.r02.londen03.uk.bb.gin.ntt.net
+
+
+N15061		ae-2-53.r00.jktajk02.id.ce.gin.ntt.net
+
+
+N15106		ge-100-0-0-1.r00.sngpsi02.sg.ce.gin.ntt.net
+N15106		xe-0.ntt-inet.sngpsi02.sg.bb.gin.ntt.net
+
+
+N15107		ge-100-0-0-23.r00.sngpsi02.sg.ce.gin.ntt.net
+
+
+N15407		ae-0.r20.parsfr01.fr.bb.gin.ntt.net
+N15407		ae-1.r20.parsfr01.fr.bb.gin.ntt.net
+N15407		ae-2.r20.parsfr01.fr.bb.gin.ntt.net
+N15407		ae-3.r20.parsfr01.fr.bb.gin.ntt.net
+N15407		as-0.r20.parsfr01.fr.bb.gin.ntt.net
+
+
+N15408		ae-0.r21.tokyjp05.jp.bb.gin.ntt.net
+N15408		ae-2.r21.tokyjp05.jp.bb.gin.ntt.net
+N15408		ae-3.r21.tokyjp05.jp.bb.gin.ntt.net
+N15408		ae-4.r21.tokyjp05.jp.bb.gin.ntt.net
+N15408		p64-7-0-3.r21.tokyjp05.jp.bb.gin.ntt.net
+
+
+N15409		ae-0.r21.chcgil09.us.bb.gin.ntt.net
+N15409		ae-4.r21.chcgil09.us.bb.gin.ntt.net
+N15409		ae-5.r21.chcgil09.us.bb.gin.ntt.net
+N15409		ae-6.r21.chcgil09.us.bb.gin.ntt.net
+N15409		ae-7.r21.chcgil09.us.bb.gin.ntt.net
+
+
+N15410		ae-1.r01.mdrdsp04.es.bb.gin.ntt.net
+N15410		ae-2.r01.mdrdsp04.es.bb.gin.ntt.net
+N15410		xe-0-0-0-4.r01.mdrdsp04.es.bb.gin.ntt.net
+
+
+N15411		ae-11.r22.tkokhk01.hk.bb.gin.ntt.net
+N15411		ae-4.r22.tkokhk01.hk.bb.gin.ntt.net
+N15411		ae-6.r22.tkokhk01.hk.bb.gin.ntt.net
+N15411		ae-8.r22.tkokhk01.hk.bb.gin.ntt.net
+
+
+N15412		ae-2.r20.miamfl02.us.bb.gin.ntt.net
+N15412		ae-3.r20.miamfl02.us.bb.gin.ntt.net
+N15412		ae-4.r20.miamfl02.us.bb.gin.ntt.net
+N15412		ae-5.r20.miamfl02.us.bb.gin.ntt.net
+N15412		xe-4-1-3.r20.miamfl02.us.bb.gin.ntt.net
+
+
+N15413		ae-1.r21.miamfl02.us.bb.gin.ntt.net
+N15413		ae-2.r21.miamfl02.us.bb.gin.ntt.net
+N15413		ae-3.r21.miamfl02.us.bb.gin.ntt.net
+N15413		ae-4.r21.miamfl02.us.bb.gin.ntt.net
+N15413		ae-5.r21.miamfl02.us.bb.gin.ntt.net
+
+
+N15414		as-0.r00.sydnau02.au.bb.gin.ntt.net
+N15414		as-1.r00.sydnau02.au.bb.gin.ntt.net
+N15414		xe-0-1-0.r00.sydnau02.au.bb.gin.ntt.net
+N15414		xe-2-0-0.r00.sydnau02.au.bb.gin.ntt.net
+N15414		xe-3-1-0.r00.sydnau02.au.bb.gin.ntt.net
+
+
+N15415		p16-0.cnc-h.tokyjp01.jp.bb.gin.ntt.net
+
+
+N15416		p64-0.cnc-g.tokyjp05.jp.bb.gin.ntt.net
+
+
+N15417		xe-0-2-0-15.r01.tokyjp05.jp.ce.gin.ntt.net
+
+
+N15418		xe-0-3-0-5.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N15609		ge-100-0-0-2.r01.dllstx04.us.ce.gin.ntt.net
+
+
+N16805		ge-100-0-0-1.r07.dllstx09.us.ce.gin.ntt.net
+
+
+N16837		ge-100-0-0-16.r04.lsanca03.us.ce.gin.ntt.net
+N16837		ge-100-0-0-17.r04.lsanca03.us.ce.gin.ntt.net
+
+
+N16867		ge-100-0-0-21.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N16871		ae-0.amazon.chcgil09.us.bb.gin.ntt.net
+N16871		xe-0-0-0-5.r05.chcgil09.us.ce.gin.ntt.net
+
+
+N16876		xe-0-1-0-13.r04.asbnva02.us.ce.gin.ntt.net
+N16876		xe-0-3-0-7.r00.asbnva02.us.ce.gin.ntt.net
+
+
+N16877		xe-0-4-0-14.r00.asbnva02.us.ce.gin.ntt.net
+
+
+N16878		ge-101-0-0-21.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N16880		xe-0-0-0-10.r06.plalca01.us.ce.gin.ntt.net
+
+
+N16894		xe-0-0-0-6.r00.lsanca19.us.ce.gin.ntt.net
+N16894		xe-0-0-0-9.r00.lsanca19.us.ce.gin.ntt.net
+
+
+N16901		ge-100-0-0-26-52.r06.plalca01.us.ce.gin.ntt.net
+
+
+N16905		ge-0-7-0-2.r04.lsanca03.us.ce.gin.ntt.net
+
+
+N16910		ae-0.amazon.nycmny01.us.bb.gin.ntt.net
+N16910		ae-4.amazon.nycmny01.us.bb.gin.ntt.net
+
+
+N16925		xe-0-5-0-10.r05.sttlwa01.us.ce.gin.ntt.net
+
+
+N16929		xe-0-7-0-3.r04.miamfl02.us.ce.gin.ntt.net
+
+
+N16980		xe-0-1-0-16.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N17158		ae-1.akamai.tokyjp03.jp.bb.gin.ntt.net
+
+
+N17460		ae-0.ntta-facebook.chwahk02.hk.bb.gin.ntt.net
+
+
+N17521		ge-7-48.r02.parsfr01.fr.ce.gin.ntt.net
+
+
+N17522		xe-0-1-0-4.r04.parsfr01.fr.ce.gin.ntt.net
+
+
+N17683		xe-0-2-0-3.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N17876		xe-0-5-0-10.r04.sttlwa01.us.ce.gin.ntt.net
+
+
+N18618		xe-4-0-4.a21.osakjp01.jp.ra.gin.ntt.net
+
+
+N18620		ge-0-7-0-2.r00.tokyjp01.jp.ce.gin.ntt.net
+
+
+N18621		ge-0-3-0-33.r00.tokyjp03.jp.ce.gin.ntt.net
+
+
+N18622		ge-0-7-0-0.r01.tokyjp01.jp.ce.gin.ntt.net
+
+
+N19031		xe-2-1-10.r23.osakjp02.jp.ce.gin.ntt.net
+
+
+N19064		ae-1.r01.tokyjp03.jp.bb.gin.ntt.net
+N19064		ae-2.r01.tokyjp03.jp.bb.gin.ntt.net
+N19064		xe-0-0-0-13.r01.tokyjp03.jp.bb.gin.ntt.net
+N19064		xe-0-0-0-31.r01.tokyjp03.jp.bb.gin.ntt.net
+
+
+N19065		xe-0-0-0-13.r01.tokyjp03.jp.ce.gin.ntt.net
+
+
+N19555		xe-0-5-0-3-52.r03.atlnga05.us.ce.gin.ntt.net
+
+
+N19572		ae-2-50.r00.jktajk02.id.ce.gin.ntt.net
+
+
+N19590		ge-100-0-0-2.r00.sngpsi02.sg.ce.gin.ntt.net
+
+
+N19607		xe-0-0-0-13.r04.sttlwa01.us.ce.gin.ntt.net
+N19607		xe-0-5-0-30.r04.sttlwa01.us.ce.gin.ntt.net
+
+
+N19949		ae-0.akamai.dllstx04.us.bb.gin.ntt.net
+
+
+N19990		xe-0-0-0-7.r05.sttlwa01.us.ce.gin.ntt.net
+
+
+N20139		xe-0-6-0-0-128.r06.nycmny01.us.ce.gin.ntt.net
+
+
+N20280		ae-0.cox-comm.nycmny01.us.bb.gin.ntt.net
+
+
+N20530		ae-1.akamai.dllstx09.us.bb.gin.ntt.net
+
+
+N21009		isc.r00.londen03.uk.bb.gin.ntt.net
+
+
+N21015		sofiaconnect-0.r00.sofibu01.bg.bb.gin.ntt.net
+
+
+N21114		comcolo-0.r01.londen03.uk.bb.gin.ntt.net
+
+
+N21136		xe-0-1-0-2.r04.sttlwa01.us.ce.gin.ntt.net
+
+
+N21365		xe-6-1.r00.barcsp01.es.ce.gin.ntt.net
+
+
+N21370		ge-100-0-0-39.r03.amstnl02.nl.ce.gin.ntt.net
+
+
+N21376		ge-5-1.c00.parsfr02.fr.wh.gin.ntt.net
+
+
+N21377		ge-5-1.c01.parsfr02.fr.wh.gin.ntt.net
+
+
+N21380		c4l-0.r02.londen03.uk.bb.gin.ntt.net
+
+
+N21392		ae-1.r02.parsfr02.fr.bb.gin.ntt.net
+N21392		ae-5.r02.parsfr02.fr.bb.gin.ntt.net
+N21392		xe-0-1-0-14.r02.parsfr02.fr.bb.gin.ntt.net
+
+
+N21516		tu-darmstadt-0.r02.frnkge03.de.bb.gin.ntt.net
+
+
+N21517		secura-0.r01.londen03.uk.bb.gin.ntt.net
+N21517		secura-0.r01.londen05.uk.bb.gin.ntt.net
+
+
+N21586		po-1.r00.londen03.uk.bb.gin.ntt.net
+N21586		po-2.r00.londen03.uk.bb.gin.ntt.net
+N21586		po-5.r00.londen03.uk.bb.gin.ntt.net
+N21586		xe-7-3.r00.londen03.uk.bb.gin.ntt.net
+
+
+N21587		internap-0.r00.londen05.uk.bb.gin.ntt.net
+
+
+N21906		a1telecom-0.r01.frnkge04.de.bb.gin.ntt.net
+
+
+N22358		i3d.r02.frnkge03.de.ce.gin.ntt.net
+
+
+N22757		ge-2-1-7-52.r20.sngpsi02.sg.ce.gin.ntt.net
+
+
+N22760		ae-0.r20.sngpsi02.sg.bb.gin.ntt.net
+N22760		ae-2.r20.sngpsi02.sg.bb.gin.ntt.net
+N22760		as-0.r20.sngpsi02.sg.bb.gin.ntt.net
+
+
+N22948		ae-0.r00.jktajk02.id.bb.gin.ntt.net
+N22948		ae-1.r00.jktajk02.id.bb.gin.ntt.net
+N22948		ge-1-0-0.r00.jktajk02.id.bb.gin.ntt.net
+N22948		ge-1-0-3.r00.jktajk02.id.bb.gin.ntt.net
+
+
+N23555		ae-0.r20.chcgil09.us.bb.gin.ntt.net
+N23555		ae-3.r20.chcgil09.us.bb.gin.ntt.net
+N23555		ae-6.r20.chcgil09.us.bb.gin.ntt.net
+N23555		ae-7.r20.chcgil09.us.bb.gin.ntt.net
+
+
+N23556		ae-0.r22.amstnl02.nl.bb.gin.ntt.net
+N23556		ae-1.r22.amstnl02.nl.bb.gin.ntt.net
+N23556		ae-2.r22.amstnl02.nl.bb.gin.ntt.net
+N23556		ae-4.r22.amstnl02.nl.bb.gin.ntt.net
+
+
+N23557		ae-6.r21.osakjp02.jp.bb.gin.ntt.net
+N23557		ae-7.r21.osakjp02.jp.bb.gin.ntt.net
+N23557		ae-8.r21.osakjp02.jp.bb.gin.ntt.net
+N23557		ae-9.r21.osakjp02.jp.bb.gin.ntt.net
+
+
+N23558		ae-6.r20.osakjp02.jp.bb.gin.ntt.net
+N23558		ae-7.r20.osakjp02.jp.bb.gin.ntt.net
+N23558		ae-8.r20.osakjp02.jp.bb.gin.ntt.net
+N23558		ae-9.r20.osakjp02.jp.bb.gin.ntt.net
+
+
+N23559		ae-0.r21.parsfr01.fr.bb.gin.ntt.net
+N23559		ae-2.r21.parsfr01.fr.bb.gin.ntt.net
+N23559		ae-4.r21.parsfr01.fr.bb.gin.ntt.net
+N23559		as-0.r21.parsfr01.fr.bb.gin.ntt.net
+
+
+N23560		ae-4.r00.lsanca19.us.bb.gin.ntt.net
+N23560		ae-5.r00.lsanca19.us.bb.gin.ntt.net
+N23560		ae-8.r00.lsanca19.us.bb.gin.ntt.net
+
+
+N23563		ae-0.ntt.sngpsi02.sg.bb.gin.ntt.net
+
+
+N23564		ge-1-1-5.r03.kslrml01.my.ce.gin.ntt.net
+
+
+N23567		xe-0-5-0-5.r06.nycmny01.us.ce.gin.ntt.net
+
+
+N23571		xe-0-4-0-23.r05.chcgil09.us.ce.gin.ntt.net
+
+
+N23621		ge-101-0-0-11.r00.mlpsca01.us.ce.gin.ntt.net
+N23621		ge-101-0-0-12.r00.mlpsca01.us.ce.gin.ntt.net
+N23621		ge-101-0-0-13.r00.mlpsca01.us.ce.gin.ntt.net
+N23621		ge-9-9.r02.mlpsca01.us.ce.gin.ntt.net
+
+
+N24137		ae-0.carpathia-hosting.asbnva02.us.bb.gin.ntt.net
+
+
+N24216		xe-0-0-0-31.r01.tokyjp03.jp.ce.gin.ntt.net
+
+
+N24757		ge-0-0-0-9.r00.saplbr01.br.ce.gin.ntt.net
+
+
+N25151		ae-5-55.r00.tkokhk01.hk.ce.gin.ntt.net
+
+
+N25907		skyvision-0.r02.frnkge03.de.bb.gin.ntt.net
+
+
+N26962		xe-0-2-0-6.r07.snjsca04.us.ce.gin.ntt.net
+
+
+N26971		xe-0-4-0-11.r05.lsanca03.us.ce.gin.ntt.net
+
+
+N27015		xe-0-1-0-14.r06.chcgil09.us.ce.gin.ntt.net
+
+
+N27065		xe-0-6-0-7.r06.chcgil09.us.ce.gin.ntt.net
+
+
+N27103		xe-0-3-0-8.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N27105		xe-0-3-0-22.r04.asbnva02.us.ce.gin.ntt.net
+N27105		xe-0-4-0-7.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N27108		ge-100-0-0-20.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N27133		xe-0-0-0-11.r06.snjsca04.us.ce.gin.ntt.net
+N27133		xe-0-3-0-11.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N27138		xe-0-0-0-33.r00.lsanca19.us.ce.gin.ntt.net
+
+
+N27145		xe-0-0-0-17.r01.dllstx04.us.ce.gin.ntt.net
+
+
+N27150		ge-0-7-0-27-128.r04.lsanca03.us.ce.gin.ntt.net
+
+
+N27187		ge-102-0-0-24.r07.snjsca04.us.ce.gin.ntt.net
+
+
+N27190		xe-0-5-0-6-58.r04.sttlwa01.us.ce.gin.ntt.net
+
+
+N27279		ge-103-0-0-0.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N27281		ge-100-0-0-37.r01.dllstx04.us.ce.gin.ntt.net
+
+
+N27293		ge-0-7-0-8.r04.lsanca03.us.ce.gin.ntt.net
+
+
+N27295		xe-0-5-0-6-66.r05.sttlwa01.us.ce.gin.ntt.net
+
+
+N27307		p4-0-4-1-0.r00.sngpsi02.sg.ce.gin.ntt.net
+
+
+N27311		xe-0-0-0-11.r05.nycmny01.us.ce.gin.ntt.net
+
+
+N27321		ge-100-0-0-27-52.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N27324		xe-0-3-0-2.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N27861		ae-3-59.r02.chwahk02.hk.ce.gin.ntt.net
+
+
+N29550		xe-0-2-0-23.r00.tokyjp03.jp.ce.gin.ntt.net
+
+
+N29552		xe-0-0-0-5.r00.tokyjp01.jp.ce.gin.ntt.net
+
+
+N29553		ae-0.highwinds.tokyjp03.jp.bb.gin.ntt.net
+
+
+N29931		ae-1.a21.osakjp01.jp.ra.gin.ntt.net
+N29931		ae-2.a21.osakjp01.jp.ra.gin.ntt.net
+N29931		ae-6.a21.osakjp01.jp.ra.gin.ntt.net
+
+
+N29956		xe-0-1-0-2.r00.tokyjp03.jp.ce.gin.ntt.net
+
+
+N29961		ge-0-3-0-11.r00.tokyjp03.jp.ce.gin.ntt.net
+N29961		ge-0-3-0-22.r00.tokyjp03.jp.ce.gin.ntt.net
+
+
+N29966		ae-1.r00.tokyjp01.jp.bb.gin.ntt.net
+N29966		ae-2.r00.tokyjp01.jp.bb.gin.ntt.net
+N29966		ae-6.r00.tokyjp01.jp.bb.gin.ntt.net
+
+
+N29967		ae-1.r00.tokyjp05.jp.bb.gin.ntt.net
+N29967		ae-2.r00.tokyjp05.jp.bb.gin.ntt.net
+N29967		ae-5.r00.tokyjp05.jp.bb.gin.ntt.net
+
+
+N29968		xe-0-4-0-8.r01.tokyjp01.jp.ce.gin.ntt.net
+
+
+N30060		zeninternet-0.r02.londen03.uk.bb.gin.ntt.net
+
+
+N30289		ae-1.amazon.atlnga05.us.bb.gin.ntt.net
+
+
+N30382		xe-0.dt.tokyjp01.jp.bb.gin.ntt.net
+
+
+N30614		xe-0-3-0-34.r00.asbnva02.us.ce.gin.ntt.net
+N30614		xe-0-3-0-5.r00.asbnva02.us.ce.gin.ntt.net
+
+
+N30689		ae-0.amazon.chwahk02.hk.bb.gin.ntt.net
+
+
+N31006		xe-0-0-0-1.r05.plalca01.us.ce.gin.ntt.net
+
+
+N31050		xe-0-6-0-23.r05.sttlwa01.us.ce.gin.ntt.net
+
+
+N31127		xe-0-0-0-4.r06.snjsca04.us.ce.gin.ntt.net
+N31127		xe-0-4-0-19.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N31132		xe-0-7-0-13.r04.miamfl02.us.ce.gin.ntt.net
+
+
+N31140		ultradns-0.r02.londen03.uk.bb.gin.ntt.net
+
+
+N31359		ae-0.internap.nycmny01.us.bb.gin.ntt.net
+
+
+N31646		xe-0-1-0-8.r00.asbnva02.us.ce.gin.ntt.net
+
+
+N31647		xe-0-5-0-1.r07.snjsca04.us.ce.gin.ntt.net
+N31647		xe-0-6-0-9.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N31673		xe-0-4-0-10.r01.dllstx04.us.ce.gin.ntt.net
+
+
+N31854		ae-0.cox-comm.snjsca04.us.bb.gin.ntt.net
+
+
+N32129		xe-3-1-51.r00.nycmny12.us.ce.gin.ntt.net
+
+
+N32537		xe-0-3-0-8.r05.lsanca03.us.ce.gin.ntt.net
+
+
+N32724		xe-0-2-0-19.r06.nycmny01.us.ce.gin.ntt.net
+
+
+N32851		xe-0-1-0-22.r03.amstnl02.nl.ce.gin.ntt.net
+
+
+N33557		ge-0-4-0-21.r02.amstnl02.nl.ce.gin.ntt.net
+
+
+N34037		redstone-0.r02.londen05.uk.bb.gin.ntt.net
+
+
+N34258		ge-100-0-0-18.r04.asbnva02.us.ce.gin.ntt.net
+
+
+N34375		xe-0-3-0-6.r00.asbnva02.us.ce.gin.ntt.net
+
+
+N36199		ge-6-1-5.r21.sngpsi02.sg.ce.gin.ntt.net
+
+
+N36470		ae-0.r00.jktajk01.id.bb.gin.ntt.net
+N36470		ae-1.r00.jktajk01.id.bb.gin.ntt.net
+N36470		ae-2.r00.jktajk01.id.bb.gin.ntt.net
+
+
+N37254		xe-0-3-0-19.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N37297		ae-3.r02.seolko01.kr.bb.gin.ntt.net
+N37297		p16-1-0-0.r02.seolko01.kr.bb.gin.ntt.net
+N37297		p16-1-0-1.r02.seolko01.kr.bb.gin.ntt.net
+
+
+N37298		p16-1-2-0.r02.lsanca03.us.bb.gin.ntt.net
+N37298		xe-0-0-0.r02.lsanca03.us.bb.gin.ntt.net
+N37298		xe-4-0-0.r02.lsanca03.us.bb.gin.ntt.net
+
+
+N37299		as-0.r03.kslrml01.my.bb.gin.ntt.net
+N37299		xe-0-1-0.r03.kslrml01.my.bb.gin.ntt.net
+N37299		xe-1-0-0.r03.kslrml01.my.bb.gin.ntt.net
+
+
+N37300		as-0.r02.kslrml01.my.bb.gin.ntt.net
+N37300		p64-2-0-0.r02.kslrml01.my.bb.gin.ntt.net
+N37300		xe-1-0-0.r02.kslrml01.my.bb.gin.ntt.net
+
+
+N37302		as-0.r03.londen03.uk.bb.gin.ntt.net
+N37302		xe-0-0-0.r03.londen03.uk.bb.gin.ntt.net
+N37302		xe-1-0-0.r03.londen03.uk.bb.gin.ntt.net
+
+
+N37303		ae-1.r01.taiptw01.tw.bb.gin.ntt.net
+N37303		as-0.r01.taiptw01.tw.bb.gin.ntt.net
+N37303		p16-3-1-0.r01.taiptw01.tw.bb.gin.ntt.net
+
+
+N37304		ae-1.r03.frnkge03.de.bb.gin.ntt.net
+N37304		ae-2.r03.frnkge03.de.bb.gin.ntt.net
+N37304		ae-3.r03.frnkge03.de.bb.gin.ntt.net
+
+
+N37305		ae-1.r01.tkokhk01.hk.bb.gin.ntt.net
+N37305		ae-2.r01.tkokhk01.hk.bb.gin.ntt.net
+N37305		ae-6.r01.tkokhk01.hk.bb.gin.ntt.net
+
+
+N37306		xe-0.sprint.amstnl02.nl.bb.gin.ntt.net
+
+
+N37310		ae-4.r03.dllstx09.us.to.gin.ntt.net
+N37310		xe-4-1.r03.dllstx09.us.to.gin.ntt.net
+N37310		xe-7-1.r03.dllstx09.us.to.gin.ntt.net
+
+
+N37312		xe-0-2-0-0.r05.nycmny01.us.ce.gin.ntt.net
+
+
+N37313		ge-100-0-0-14.r06.plalca01.us.ce.gin.ntt.net
+
+
+N37314		xe-0-3-0-10-100.r06.snjsca04.us.ce.gin.ntt.net
+
+
+N37317		ae-0.internap.lsanca03.us.bb.gin.ntt.net
+
+
+N37650		xe-0-0-0-28.r06.plalca01.us.ce.gin.ntt.net
+
+
+N37876		pobox-internettech-0.r00.londen03.uk.bb.gin.ntt.net
+
+
+N38148		xe-0-4-0-1.r07.dllstx09.us.ce.gin.ntt.net
+
+
+N38275		xe-0-4-0-4.r05.lsanca03.us.ce.gin.ntt.net
+
+
+N39134		xe-0-0-0-2.55.r00.lsanca19.us.ce.gin.ntt.net
+
+
+N40098		ge-0-0-0.a01.sydnau03.au.ra.gin.ntt.net
+N40098		ge-1-0-0.a01.sydnau03.au.ra.gin.ntt.net
+N40098		ge-1-1-0.a01.sydnau03.au.ra.gin.ntt.net
+
+
+N40099		ge-0-1-9.a03.sydnau03.au.ra.gin.ntt.net
+N40099		xe-0-0-0.a03.sydnau03.au.ra.gin.ntt.net
+N40099		xe-1-0-0.a03.sydnau03.au.ra.gin.ntt.net
+
+
+N40382		ge-0-7-0-18.r01.tokyjp01.jp.ce.gin.ntt.net
+
+
+N40383		ge-0-3-0-13.r00.tokyjp03.jp.ce.gin.ntt.net
+
+
+N41371		allnet-0.r02.frnkge04.de.bb.gin.ntt.net
+
+
+N41469		borwoodthn.r02.londen03.uk.bb.gin.ntt.net
