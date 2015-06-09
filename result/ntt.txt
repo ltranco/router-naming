@@ -1,0 +1,540 @@
+N16876	xe-0-1-0-13.r04.asbnva02.us.ce.gin.ntt.net  		r04 asbnva02 gin.
+N16876	xe-0-3-0-7.r00.asbnva02.us.ce.gin.ntt.net   		r00 asbnva02 gin.
+
+N5215	xe-0-2-0-11.r05.lsanca03.us.ce.gin.ntt.net   		r05 lsanca03 gin.
+N5215	xe-0-2-0-12.r04.lsanca03.us.ce.gin.ntt.net   		r04 lsanca03 gin.
+N5215	xe-0-2-0-12.r05.lsanca03.us.ce.gin.ntt.net   		r05 lsanca03 gin.
+N5215	xe-0-2-0-19.r04.lsanca03.us.ce.gin.ntt.net   		r04 lsanca03 gin.
+N5215	xe-0-3-0-6.r04.lsanca03.us.ce.gin.ntt.net    		r04 lsanca03 gin.
+N5215	xe-0-5-0-5.r04.lsanca03.us.ce.gin.ntt.net    		r04 lsanca03 gin.
+N5215	xe-0-5-0-6.r04.lsanca03.us.ce.gin.ntt.net    		r04 lsanca03 gin.
+
+N15106	ge-100-0-0-1.r00.sngpsi02.sg.ce.gin.ntt.net 		r00 sngpsi02 gin.
+N15106	xe-0.ntt-inet.sngpsi02.sg.bb.gin.ntt.net    		inet sngpsi02 gin.
+
+N7703	edgecast-0.r01.frnkge03.de.bb.gin.ntt.net    		r01 frnkge03 gin.
+N7703	edgecast-0.r02.frnkge03.de.bb.gin.ntt.net    		r02 frnkge03 gin.
+
+N16871	ae-0.amazon.chcgil09.us.bb.gin.ntt.net      		amazon chcgil09 gin.
+N16871	xe-0-0-0-5.r05.chcgil09.us.ce.gin.ntt.net   		r05 chcgil09 gin.
+
+N5354	xe-0-0-0-4.r08.dllstx09.us.ce.gin.ntt.net    		r08 dllstx09 gin.
+N5354	xe-0-0-0-5.r08.dllstx09.us.ce.gin.ntt.net    		r08 dllstx09 gin.
+N5354	xe-0-1-0-21.r08.dllstx09.us.ce.gin.ntt.net   		r08 dllstx09 gin.
+N5354	xe-0-4-0-13.r07.dllstx09.us.ce.gin.ntt.net   		r07 dllstx09 gin.
+
+N4373	p16-1.chinanet.tokyjp01.jp.bb.gin.ntt.net    		chinanet tokyjp01 gin.
+N4373	p16-4.chinanet.tokyjp01.jp.bb.gin.ntt.net    		chinanet tokyjp01 gin.
+
+N5569	ae-1.r03.chwahk02.hk.bb.gin.ntt.net          		r03 chwahk02 gin.
+N5569	ae-3.r03.chwahk02.hk.bb.gin.ntt.net          		r03 chwahk02 gin.
+N5569	ae-7.r03.chwahk02.hk.bb.gin.ntt.net          		r03 chwahk02 gin.
+
+N8255	xe-0-1-0-10.r05.miamfl02.us.ce.gin.ntt.net   		r05 miamfl02 gin.
+N8255	xe-0-4-0-1.r05.miamfl02.us.ce.gin.ntt.net    		r05 miamfl02 gin.
+
+N31647	xe-0-5-0-1.r07.snjsca04.us.ce.gin.ntt.net   		r07 snjsca04 gin.
+N31647	xe-0-6-0-9.r06.snjsca04.us.ce.gin.ntt.net   		r06 snjsca04 gin.
+
+N2624	ae-1.r05.miamfl02.us.bb.gin.ntt.net          		r05 miamfl02 gin.
+N2624	ae-13.r05.miamfl02.us.bb.gin.ntt.net         		r05 miamfl02 gin.
+N2624	ae-2.r05.miamfl02.us.bb.gin.ntt.net          		r05 miamfl02 gin.
+N2624	ae-4.r05.miamfl02.us.bb.gin.ntt.net          		r05 miamfl02 gin.
+N2624	xe-0-0-0-10.r05.miamfl02.us.bb.gin.ntt.net   		r05 miamfl02 gin.
+N2624	xe-0-0-0-19.r05.miamfl02.us.bb.gin.ntt.net   		r05 miamfl02 gin.
+N2624	xe-0-4-0-2.r05.miamfl02.us.bb.gin.ntt.net    		r05 miamfl02 gin.
+
+N1518	ae-4.r02.chwahk02.hk.bb.gin.ntt.net          		r02 chwahk02 gin.
+N1518	ae-6.r02.chwahk02.hk.bb.gin.ntt.net          		r02 chwahk02 gin.
+N1518	ae-7.r02.chwahk02.hk.bb.gin.ntt.net          		r02 chwahk02 gin.
+
+N10753	internetconnections-0.r01.londen05.uk.bb.gin.ntt.net 		r01 londen05 gin.
+N10753	pokerstars-0.r01.londen05.uk.bb.gin.ntt.net 		r01 londen05 gin.
+
+N37297	ae-3.r02.seolko01.kr.bb.gin.ntt.net         		r02 seolko01 gin.
+N37297	p16-1-0-0.r02.seolko01.kr.bb.gin.ntt.net    		r02 seolko01 gin.
+N37297	p16-1-0-1.r02.seolko01.kr.bb.gin.ntt.net    		r02 seolko01 gin.
+
+N31127	xe-0-0-0-4.r06.snjsca04.us.ce.gin.ntt.net   		r06 snjsca04 gin.
+N31127	xe-0-4-0-19.r06.snjsca04.us.ce.gin.ntt.net  		r06 snjsca04 gin.
+
+N37299	as-0.r03.kslrml01.my.bb.gin.ntt.net         		r03 kslrml01 gin.
+N37299	xe-0-1-0.r03.kslrml01.my.bb.gin.ntt.net     		r03 kslrml01 gin.
+N37299	xe-1-0-0.r03.kslrml01.my.bb.gin.ntt.net     		r03 kslrml01 gin.
+
+N37298	p16-1-2-0.r02.lsanca03.us.bb.gin.ntt.net    		r02 lsanca03 gin.
+N37298	xe-0-0-0.r02.lsanca03.us.bb.gin.ntt.net     		r02 lsanca03 gin.
+N37298	xe-4-0-0.r02.lsanca03.us.bb.gin.ntt.net     		r02 lsanca03 gin.
+
+N22760	ae-0.r20.sngpsi02.sg.bb.gin.ntt.net         		r20 sngpsi02 gin.
+N22760	ae-2.r20.sngpsi02.sg.bb.gin.ntt.net         		r20 sngpsi02 gin.
+N22760	as-0.r20.sngpsi02.sg.bb.gin.ntt.net         		r20 sngpsi02 gin.
+
+N8786	p16-0.koreatelecom.tokyjp01.jp.bb.gin.ntt.net 		koreatelecom tokyjp01 gin.
+N8786	p64-1.koreatelecom.tokyjp05.jp.bb.gin.ntt.net 		koreatelecom tokyjp05 gin.
+
+N12071	ge-0-0-6.a00.sydnau02.au.ra.gin.ntt.net     		a00 sydnau02 gin.
+N12071	xe-1-1-0.a00.sydnau02.au.ra.gin.ntt.net     		a00 sydnau02 gin.
+N12071	xe-2-1-0.a00.sydnau02.au.ra.gin.ntt.net     		a00 sydnau02 gin.
+N12071	xe-3-0-0-16.a00.sydnau02.au.ra.gin.ntt.net  		a00 sydnau02 gin.
+N12071	xe-3-1-0.a00.sydnau02.au.ra.gin.ntt.net     		a00 sydnau02 gin.
+
+N8307	xe-0-0-0-28.r05.sttlwa01.us.ce.gin.ntt.net   		r05 sttlwa01 gin.
+N8307	xe-0-5-0-4.r04.sttlwa01.us.ce.gin.ntt.net    		r04 sttlwa01 gin.
+N8307	xe-0-6-0-5.r04.sttlwa01.us.ce.gin.ntt.net    		r04 sttlwa01 gin.
+
+N29931	ae-1.a21.osakjp01.jp.ra.gin.ntt.net         		a21 osakjp01 gin.
+N29931	ae-2.a21.osakjp01.jp.ra.gin.ntt.net         		a21 osakjp01 gin.
+N29931	ae-6.a21.osakjp01.jp.ra.gin.ntt.net         		a21 osakjp01 gin.
+
+N8072	ae-1.r23.osakjp02.jp.bb.gin.ntt.net          		r23 osakjp02 gin.
+N8072	ae-3.r23.osakjp02.jp.bb.gin.ntt.net          		r23 osakjp02 gin.
+N8072	ae-4.r23.osakjp02.jp.bb.gin.ntt.net          		r23 osakjp02 gin.
+N8072	ae-5.r23.osakjp02.jp.bb.gin.ntt.net          		r23 osakjp02 gin.
+N8072	ae-6.r23.osakjp02.jp.bb.gin.ntt.net          		r23 osakjp02 gin.
+N8072	ae-8.r23.osakjp02.jp.bb.gin.ntt.net          		r23 osakjp02 gin.
+N8072	p64-6-0-2.r23.osakjp02.jp.bb.gin.ntt.net     		r23 osakjp02 gin.
+
+N14613	ae-2.r00.buchro01.ro.bb.gin.ntt.net         		r00 buchro01 gin.
+N14613	ae-3.r00.buchro01.ro.bb.gin.ntt.net         		r00 buchro01 gin.
+
+N14616	ae-4.r00.stocse01.se.bb.gin.ntt.net         		r00 stocse01 gin.
+N14616	xe-0-0-0-0.r00.stocse01.se.bb.gin.ntt.net   		r00 stocse01 gin.
+
+N13394	ae-10.a21.tokyjp01.jp.ra.gin.ntt.net        		a21 tokyjp01 gin.
+N13394	ae-4.a21.tokyjp01.jp.ra.gin.ntt.net         		a21 tokyjp01 gin.
+N13394	ae-5.a21.tokyjp01.jp.ra.gin.ntt.net         		a21 tokyjp01 gin.
+N13394	xe-6-0-3.a21.tokyjp01.jp.ra.gin.ntt.net     		a21 tokyjp01 gin.
+
+N21392	ae-1.r02.parsfr02.fr.bb.gin.ntt.net         		r02 parsfr02 gin.
+N21392	ae-5.r02.parsfr02.fr.bb.gin.ntt.net         		r02 parsfr02 gin.
+N21392	xe-0-1-0-14.r02.parsfr02.fr.bb.gin.ntt.net  		r02 parsfr02 gin.
+
+N13393	p4-0.chinanet.tokyjp01.jp.bb.gin.ntt.net    		chinanet tokyjp01 gin.
+N13393	p4-1.chinanet.tokyjp01.jp.bb.gin.ntt.net    		chinanet tokyjp01 gin.
+
+N3252	ae-12.r00.tokyjp03.jp.bb.gin.ntt.net         		r00 tokyjp03 gin.
+N3252	ae-2.r00.tokyjp03.jp.bb.gin.ntt.net          		r00 tokyjp03 gin.
+N3252	ae-3.r00.tokyjp03.jp.bb.gin.ntt.net          		r00 tokyjp03 gin.
+N3252	ae-4.r00.tokyjp03.jp.bb.gin.ntt.net          		r00 tokyjp03 gin.
+N3252	ae-5.r00.tokyjp03.jp.bb.gin.ntt.net          		r00 tokyjp03 gin.
+N3252	ae-8.r00.tokyjp03.jp.bb.gin.ntt.net          		r00 tokyjp03 gin.
+N3252	xe-0-1-0-2.r00.tokyjp03.jp.bb.gin.ntt.net    		r00 tokyjp03 gin.
+
+N9486	ae-0.nforce-entertainment-bv.amstnl02.nl.bb.gin.ntt.net 		bv amstnl02 gin.
+N9486	ae-1.nforce-entertainment-bv.amstnl02.nl.bb.gin.ntt.net 		bv amstnl02 gin.
+
+N6153	xe-0-0-0-4.r00.tokyjp03.jp.ce.gin.ntt.net    		r00 tokyjp03 gin.
+N6153	xe-0-1-0-18.r00.tokyjp03.jp.ce.gin.ntt.net   		r00 tokyjp03 gin.
+N6153	xe-0-1-0-19.r00.tokyjp03.jp.ce.gin.ntt.net   		r00 tokyjp03 gin.
+N6153	xe-0-1-0-4.r00.tokyjp03.jp.ce.gin.ntt.net    		r00 tokyjp03 gin.
+N6153	xe-0-1-0-9.r00.tokyjp03.jp.ce.gin.ntt.net    		r00 tokyjp03 gin.
+
+N3313	xe-0-4-0-10.r04.lsanca03.us.ce.gin.ntt.net   		r04 lsanca03 gin.
+N3313	xe-0-5-0-30.r05.lsanca03.us.ce.gin.ntt.net   		r05 lsanca03 gin.
+
+N3866	ae-1.r04.parsfr01.fr.bb.gin.ntt.net          		r04 parsfr01 gin.
+N3866	ae-2.r04.parsfr01.fr.bb.gin.ntt.net          		r04 parsfr01 gin.
+N3866	ae-4.r04.parsfr01.fr.bb.gin.ntt.net          		r04 parsfr01 gin.
+N3866	ae-7.r04.parsfr01.fr.bb.gin.ntt.net          		r04 parsfr01 gin.
+N3866	ae-8.r04.parsfr01.fr.bb.gin.ntt.net          		r04 parsfr01 gin.
+N3866	xe-0-0-0-2.r04.parsfr01.fr.bb.gin.ntt.net    		r04 parsfr01 gin.
+
+N29961	ge-0-3-0-11.r00.tokyjp03.jp.ce.gin.ntt.net  		r00 tokyjp03 gin.
+N29961	ge-0-3-0-22.r00.tokyjp03.jp.ce.gin.ntt.net  		r00 tokyjp03 gin.
+
+N23621	ge-101-0-0-11.r00.mlpsca01.us.ce.gin.ntt.net 		r00 mlpsca01 gin.
+N23621	ge-101-0-0-12.r00.mlpsca01.us.ce.gin.ntt.net 		r00 mlpsca01 gin.
+N23621	ge-101-0-0-13.r00.mlpsca01.us.ce.gin.ntt.net 		r00 mlpsca01 gin.
+N23621	ge-9-9.r02.mlpsca01.us.ce.gin.ntt.net       		r02 mlpsca01 gin.
+
+N40099	ge-0-1-9.a03.sydnau03.au.ra.gin.ntt.net     		a03 sydnau03 gin.
+N40099	xe-0-0-0.a03.sydnau03.au.ra.gin.ntt.net     		a03 sydnau03 gin.
+N40099	xe-1-0-0.a03.sydnau03.au.ra.gin.ntt.net     		a03 sydnau03 gin.
+
+N40098	ge-0-0-0.a01.sydnau03.au.ra.gin.ntt.net     		a01 sydnau03 gin.
+N40098	ge-1-0-0.a01.sydnau03.au.ra.gin.ntt.net     		a01 sydnau03 gin.
+N40098	ge-1-1-0.a01.sydnau03.au.ra.gin.ntt.net     		a01 sydnau03 gin.
+
+N16910	ae-0.amazon.nycmny01.us.bb.gin.ntt.net      		amazon nycmny01 gin.
+N16910	ae-4.amazon.nycmny01.us.bb.gin.ntt.net      		amazon nycmny01 gin.
+
+N14479	edgecast-0.r02.amstnl02.nl.bb.gin.ntt.net   		r02 amstnl02 gin.
+N14479	edgecast-0.r03.amstnl02.nl.bb.gin.ntt.net   		r03 amstnl02 gin.
+
+N15414	as-0.r00.sydnau02.au.bb.gin.ntt.net         		r00 sydnau02 gin.
+N15414	as-1.r00.sydnau02.au.bb.gin.ntt.net         		r00 sydnau02 gin.
+N15414	xe-0-1-0.r00.sydnau02.au.bb.gin.ntt.net     		r00 sydnau02 gin.
+N15414	xe-2-0-0.r00.sydnau02.au.bb.gin.ntt.net     		r00 sydnau02 gin.
+N15414	xe-3-1-0.r00.sydnau02.au.bb.gin.ntt.net     		r00 sydnau02 gin.
+
+N3433	ge-3-0-2.r00.sngpsi03.sg.ce.gin.ntt.net      		r00 sngpsi03 gin.
+N3433	ge-4-0-2.r00.sngpsi03.sg.ce.gin.ntt.net      		r00 sngpsi03 gin.
+
+N23557	ae-6.r21.osakjp02.jp.bb.gin.ntt.net         		r21 osakjp02 gin.
+N23557	ae-7.r21.osakjp02.jp.bb.gin.ntt.net         		r21 osakjp02 gin.
+N23557	ae-8.r21.osakjp02.jp.bb.gin.ntt.net         		r21 osakjp02 gin.
+N23557	ae-9.r21.osakjp02.jp.bb.gin.ntt.net         		r21 osakjp02 gin.
+
+N30614	xe-0-3-0-34.r00.asbnva02.us.ce.gin.ntt.net  		r00 asbnva02 gin.
+N30614	xe-0-3-0-5.r00.asbnva02.us.ce.gin.ntt.net   		r00 asbnva02 gin.
+
+N10372	xe-0-3-0-13.r04.miamfl02.us.ce.gin.ntt.net  		r04 miamfl02 gin.
+N10372	xe-0-7-0-21.r04.miamfl02.us.ce.gin.ntt.net  		r04 miamfl02 gin.
+N10372	xe-0-7-0-29.r05.miamfl02.us.ce.gin.ntt.net  		r05 miamfl02 gin.
+
+N3732	ae-2.r01.mdrdsp03.es.bb.gin.ntt.net          		r01 mdrdsp03 gin.
+N3732	ae-6.r01.mdrdsp03.es.bb.gin.ntt.net          		r01 mdrdsp03 gin.
+N3732	ge-0-0-0-25.r01.mdrdsp03.es.bb.gin.ntt.net   		r01 mdrdsp03 gin.
+N3732	xe-0-1-0-3.r01.mdrdsp03.es.bb.gin.ntt.net    		r01 mdrdsp03 gin.
+
+N37302	as-0.r03.londen03.uk.bb.gin.ntt.net         		r03 londen03 gin.
+N37302	xe-0-0-0.r03.londen03.uk.bb.gin.ntt.net     		r03 londen03 gin.
+N37302	xe-1-0-0.r03.londen03.uk.bb.gin.ntt.net     		r03 londen03 gin.
+
+N7998	xe-0-0-0-6.r01.tokyjp01.jp.ce.gin.ntt.net    		r01 tokyjp01 gin.
+N7998	xe-0-0-0-7.r01.tokyjp01.jp.ce.gin.ntt.net    		r01 tokyjp01 gin.
+N7998	xe-0-1-0-3.r01.tokyjp01.jp.ce.gin.ntt.net    		r01 tokyjp01 gin.
+N7998	xe-0-5-0-7.r01.tokyjp01.jp.ce.gin.ntt.net    		r01 tokyjp01 gin.
+
+N5973	xe-0-3-0-4.r07.snjsca04.us.ce.gin.ntt.net    		r07 snjsca04 gin.
+N5973	xe-0-5-0-16.r06.snjsca04.us.ce.gin.ntt.net   		r06 snjsca04 gin.
+N5973	xe-0-5-0-21.r07.snjsca04.us.ce.gin.ntt.net   		r07 snjsca04 gin.
+N5973	xe-0-6-0-8.r06.snjsca04.us.ce.gin.ntt.net    		r06 snjsca04 gin.
+
+N37305	ae-1.r01.tkokhk01.hk.bb.gin.ntt.net         		r01 tkokhk01 gin.
+N37305	ae-2.r01.tkokhk01.hk.bb.gin.ntt.net         		r01 tkokhk01 gin.
+N37305	ae-6.r01.tkokhk01.hk.bb.gin.ntt.net         		r01 tkokhk01 gin.
+
+N37304	ae-1.r03.frnkge03.de.bb.gin.ntt.net         		r03 frnkge03 gin.
+N37304	ae-2.r03.frnkge03.de.bb.gin.ntt.net         		r03 frnkge03 gin.
+N37304	ae-3.r03.frnkge03.de.bb.gin.ntt.net         		r03 frnkge03 gin.
+
+N19064	ae-1.r01.tokyjp03.jp.bb.gin.ntt.net         		r01 tokyjp03 gin.
+N19064	ae-2.r01.tokyjp03.jp.bb.gin.ntt.net         		r01 tokyjp03 gin.
+N19064	xe-0-0-0-13.r01.tokyjp03.jp.bb.gin.ntt.net  		r01 tokyjp03 gin.
+N19064	xe-0-0-0-31.r01.tokyjp03.jp.bb.gin.ntt.net  		r01 tokyjp03 gin.
+
+N7795	xe-0-4-0-2.r05.miamfl02.us.ce.gin.ntt.net    		r05 miamfl02 gin.
+N7795	xe-0-7-0-22.r04.miamfl02.us.ce.gin.ntt.net   		r04 miamfl02 gin.
+
+N3832	ae-1.r01.dllstx04.us.bb.gin.ntt.net          		r01 dllstx04 gin.
+N3832	ae-2.r01.dllstx04.us.bb.gin.ntt.net          		r01 dllstx04 gin.
+N3832	ae-3.r01.dllstx04.us.bb.gin.ntt.net          		r01 dllstx04 gin.
+N3832	ae-5.r01.dllstx04.us.bb.gin.ntt.net          		r01 dllstx04 gin.
+N3832	ae-9.r01.dllstx04.us.bb.gin.ntt.net          		r01 dllstx04 gin.
+
+N5222	xe-0-1-0-30.r05.nycmny01.us.ce.gin.ntt.net   		r05 nycmny01 gin.
+N5222	xe-0-1-0-31.r05.nycmny01.us.ce.gin.ntt.net   		r05 nycmny01 gin.
+N5222	xe-0-6-0-21.r06.nycmny01.us.ce.gin.ntt.net   		r06 nycmny01 gin.
+N5222	xe-0-6-0-22.r06.nycmny01.us.ce.gin.ntt.net   		r06 nycmny01 gin.
+
+N9511	p64-1-1-0.r20.snjsca04.us.ce.gin.ntt.net     		r20 snjsca04 gin.
+N9511	p64-7-0-1.r21.snjsca04.us.ce.gin.ntt.net     		r21 snjsca04 gin.
+
+N36470	ae-0.r00.jktajk01.id.bb.gin.ntt.net         		r00 jktajk01 gin.
+N36470	ae-1.r00.jktajk01.id.bb.gin.ntt.net         		r00 jktajk01 gin.
+N36470	ae-2.r00.jktajk01.id.bb.gin.ntt.net         		r00 jktajk01 gin.
+
+N8615	xe-0-4-0-16-57.r05.miamfl02.us.ce.gin.ntt.net 		r05 miamfl02 gin.
+N8615	xe-0-7-0-20-54.r04.miamfl02.us.ce.gin.ntt.net 		r04 miamfl02 gin.
+
+N21586	po-1.r00.londen03.uk.bb.gin.ntt.net         		r00 londen03 gin.
+N21586	po-2.r00.londen03.uk.bb.gin.ntt.net         		r00 londen03 gin.
+N21586	po-5.r00.londen03.uk.bb.gin.ntt.net         		r00 londen03 gin.
+N21586	xe-7-3.r00.londen03.uk.bb.gin.ntt.net       		r00 londen03 gin.
+
+N15409	ae-0.r21.chcgil09.us.bb.gin.ntt.net         		r21 chcgil09 gin.
+N15409	ae-4.r21.chcgil09.us.bb.gin.ntt.net         		r21 chcgil09 gin.
+N15409	ae-5.r21.chcgil09.us.bb.gin.ntt.net         		r21 chcgil09 gin.
+N15409	ae-6.r21.chcgil09.us.bb.gin.ntt.net         		r21 chcgil09 gin.
+N15409	ae-7.r21.chcgil09.us.bb.gin.ntt.net         		r21 chcgil09 gin.
+
+N8366	ae-0.server-central.chcgil09.us.bb.gin.ntt.net 		central chcgil09 gin.
+N8366	xe-0-6-0-5.r06.chcgil09.us.ce.gin.ntt.net    		r06 chcgil09 gin.
+
+N15407	ae-0.r20.parsfr01.fr.bb.gin.ntt.net         		r20 parsfr01 gin.
+N15407	ae-1.r20.parsfr01.fr.bb.gin.ntt.net         		r20 parsfr01 gin.
+N15407	ae-2.r20.parsfr01.fr.bb.gin.ntt.net         		r20 parsfr01 gin.
+N15407	ae-3.r20.parsfr01.fr.bb.gin.ntt.net         		r20 parsfr01 gin.
+N15407	as-0.r20.parsfr01.fr.bb.gin.ntt.net         		r20 parsfr01 gin.
+
+N37310	ae-4.r03.dllstx09.us.to.gin.ntt.net         		r03 dllstx09 gin.
+N37310	xe-4-1.r03.dllstx09.us.to.gin.ntt.net       		r03 dllstx09 gin.
+N37310	xe-7-1.r03.dllstx09.us.to.gin.ntt.net       		r03 dllstx09 gin.
+
+N8289	ae-0.telmex-colombia.miamfl02.us.bb.gin.ntt.net 		colombia miamfl02 gin.
+N8289	xe-0-7-0-8.r05.miamfl02.us.ce.gin.ntt.net    		r05 miamfl02 gin.
+
+N3335	ae-1.r03.amstnl02.nl.bb.gin.ntt.net          		r03 amstnl02 gin.
+N3335	ae-15.r03.amstnl02.nl.bb.gin.ntt.net         		r03 amstnl02 gin.
+N3335	ae-2.r03.amstnl02.nl.bb.gin.ntt.net          		r03 amstnl02 gin.
+N3335	ae-20.r03.amstnl02.nl.bb.gin.ntt.net         		r03 amstnl02 gin.
+N3335	ae-5.r03.amstnl02.nl.bb.gin.ntt.net          		r03 amstnl02 gin.
+
+N13670	ae-0.amazon.lsanca03.us.bb.gin.ntt.net      		amazon lsanca03 gin.
+N13670	ae-1.amazon.lsanca03.us.bb.gin.ntt.net      		amazon lsanca03 gin.
+
+N3139	canar-telecom-0.r23.londen03.uk.gin.ntt.net  		0 r23 gin.
+N3139	p1-2-0-0.r03.londen03.uk.ce.gin.ntt.net      		r03 londen03 gin.
+N3139	p1-2-2-0.r03.londen03.uk.ce.gin.ntt.net      		r03 londen03 gin.
+N3139	p1-3-2-2.r03.londen03.uk.ce.gin.ntt.net      		r03 londen03 gin.
+
+N13372	fa-7-2-2.r00.taiptw01.tw.ce.gin.ntt.net     		r00 taiptw01 gin.
+N13372	xe-4-0-0.r00.taiptw01.tw.ce.gin.ntt.net     		r00 taiptw01 gin.
+
+N13371	ae-1.r00.taiptw01.tw.bb.gin.ntt.net         		r00 taiptw01 gin.
+N13371	as-0.r00.taiptw01.tw.bb.gin.ntt.net         		r00 taiptw01 gin.
+N13371	as-1.r00.taiptw01.tw.bb.gin.ntt.net         		r00 taiptw01 gin.
+N13371	fa-7-2-1.r00.taiptw01.tw.bb.gin.ntt.net     		r00 taiptw01 gin.
+N13371	p64-0-0-0.r00.taiptw01.tw.bb.gin.ntt.net    		r00 taiptw01 gin.
+
+N7644	p64-1-1-3.r20.snjsca04.us.ce.gin.ntt.net     		r20 snjsca04 gin.
+N7644	xe-0-4-0-8.r00.tokyjp01.jp.ce.gin.ntt.net    		r00 tokyjp01 gin.
+
+N3740	xe-0-0-0-10.r05.nycmny01.us.ce.gin.ntt.net   		r05 nycmny01 gin.
+N3740	xe-0-0-0-9.r05.nycmny01.us.ce.gin.ntt.net    		r05 nycmny01 gin.
+N3740	xe-0-3-0-16.r06.nycmny01.us.ce.gin.ntt.net   		r06 nycmny01 gin.
+N3740	xe-0-6-0-2.r06.nycmny01.us.ce.gin.ntt.net    		r06 nycmny01 gin.
+
+N29967	ae-1.r00.tokyjp05.jp.bb.gin.ntt.net         		r00 tokyjp05 gin.
+N29967	ae-2.r00.tokyjp05.jp.bb.gin.ntt.net         		r00 tokyjp05 gin.
+N29967	ae-5.r00.tokyjp05.jp.bb.gin.ntt.net         		r00 tokyjp05 gin.
+
+N15408	ae-0.r21.tokyjp05.jp.bb.gin.ntt.net         		r21 tokyjp05 gin.
+N15408	ae-2.r21.tokyjp05.jp.bb.gin.ntt.net         		r21 tokyjp05 gin.
+N15408	ae-3.r21.tokyjp05.jp.bb.gin.ntt.net         		r21 tokyjp05 gin.
+N15408	ae-4.r21.tokyjp05.jp.bb.gin.ntt.net         		r21 tokyjp05 gin.
+N15408	p64-7-0-3.r21.tokyjp05.jp.bb.gin.ntt.net    		r21 tokyjp05 gin.
+
+N3930	as-0.r00.sngpsi03.sg.bb.gin.ntt.net          		r00 sngpsi03 gin.
+N3930	as-1.r00.sngpsi03.sg.bb.gin.ntt.net          		r00 sngpsi03 gin.
+N3930	ge-3-0-2.r00.sngpsi03.sg.bb.gin.ntt.net      		r00 sngpsi03 gin.
+N3930	ge-4-0-2.r00.sngpsi03.sg.bb.gin.ntt.net      		r00 sngpsi03 gin.
+N3930	xe-4-1-0.r00.sngpsi03.sg.bb.gin.ntt.net      		r00 sngpsi03 gin.
+
+N16837	ge-100-0-0-16.r04.lsanca03.us.ce.gin.ntt.net 		r04 lsanca03 gin.
+N16837	ge-100-0-0-17.r04.lsanca03.us.ce.gin.ntt.net 		r04 lsanca03 gin.
+
+N23559	ae-0.r21.parsfr01.fr.bb.gin.ntt.net         		r21 parsfr01 gin.
+N23559	ae-2.r21.parsfr01.fr.bb.gin.ntt.net         		r21 parsfr01 gin.
+N23559	ae-4.r21.parsfr01.fr.bb.gin.ntt.net         		r21 parsfr01 gin.
+N23559	as-0.r21.parsfr01.fr.bb.gin.ntt.net         		r21 parsfr01 gin.
+
+N23558	ae-6.r20.osakjp02.jp.bb.gin.ntt.net         		r20 osakjp02 gin.
+N23558	ae-7.r20.osakjp02.jp.bb.gin.ntt.net         		r20 osakjp02 gin.
+N23558	ae-8.r20.osakjp02.jp.bb.gin.ntt.net         		r20 osakjp02 gin.
+N23558	ae-9.r20.osakjp02.jp.bb.gin.ntt.net         		r20 osakjp02 gin.
+
+N23555	ae-0.r20.chcgil09.us.bb.gin.ntt.net         		r20 chcgil09 gin.
+N23555	ae-3.r20.chcgil09.us.bb.gin.ntt.net         		r20 chcgil09 gin.
+N23555	ae-6.r20.chcgil09.us.bb.gin.ntt.net         		r20 chcgil09 gin.
+N23555	ae-7.r20.chcgil09.us.bb.gin.ntt.net         		r20 chcgil09 gin.
+
+N37300	as-0.r02.kslrml01.my.bb.gin.ntt.net         		r02 kslrml01 gin.
+N37300	p64-2-0-0.r02.kslrml01.my.bb.gin.ntt.net    		r02 kslrml01 gin.
+N37300	xe-1-0-0.r02.kslrml01.my.bb.gin.ntt.net     		r02 kslrml01 gin.
+
+N37303	ae-1.r01.taiptw01.tw.bb.gin.ntt.net         		r01 taiptw01 gin.
+N37303	as-0.r01.taiptw01.tw.bb.gin.ntt.net         		r01 taiptw01 gin.
+N37303	p16-3-1-0.r01.taiptw01.tw.bb.gin.ntt.net    		r01 taiptw01 gin.
+
+N23556	ae-0.r22.amstnl02.nl.bb.gin.ntt.net         		r22 amstnl02 gin.
+N23556	ae-1.r22.amstnl02.nl.bb.gin.ntt.net         		r22 amstnl02 gin.
+N23556	ae-2.r22.amstnl02.nl.bb.gin.ntt.net         		r22 amstnl02 gin.
+N23556	ae-4.r22.amstnl02.nl.bb.gin.ntt.net         		r22 amstnl02 gin.
+
+N15411	ae-11.r22.tkokhk01.hk.bb.gin.ntt.net        		r22 tkokhk01 gin.
+N15411	ae-4.r22.tkokhk01.hk.bb.gin.ntt.net         		r22 tkokhk01 gin.
+N15411	ae-6.r22.tkokhk01.hk.bb.gin.ntt.net         		r22 tkokhk01 gin.
+N15411	ae-8.r22.tkokhk01.hk.bb.gin.ntt.net         		r22 tkokhk01 gin.
+
+N15410	ae-1.r01.mdrdsp04.es.bb.gin.ntt.net         		r01 mdrdsp04 gin.
+N15410	ae-2.r01.mdrdsp04.es.bb.gin.ntt.net         		r01 mdrdsp04 gin.
+N15410	xe-0-0-0-4.r01.mdrdsp04.es.bb.gin.ntt.net   		r01 mdrdsp04 gin.
+
+N15413	ae-1.r21.miamfl02.us.bb.gin.ntt.net         		r21 miamfl02 gin.
+N15413	ae-2.r21.miamfl02.us.bb.gin.ntt.net         		r21 miamfl02 gin.
+N15413	ae-3.r21.miamfl02.us.bb.gin.ntt.net         		r21 miamfl02 gin.
+N15413	ae-4.r21.miamfl02.us.bb.gin.ntt.net         		r21 miamfl02 gin.
+N15413	ae-5.r21.miamfl02.us.bb.gin.ntt.net         		r21 miamfl02 gin.
+
+N15412	ae-2.r20.miamfl02.us.bb.gin.ntt.net         		r20 miamfl02 gin.
+N15412	ae-3.r20.miamfl02.us.bb.gin.ntt.net         		r20 miamfl02 gin.
+N15412	ae-4.r20.miamfl02.us.bb.gin.ntt.net         		r20 miamfl02 gin.
+N15412	ae-5.r20.miamfl02.us.bb.gin.ntt.net         		r20 miamfl02 gin.
+N15412	xe-4-1-3.r20.miamfl02.us.bb.gin.ntt.net     		r20 miamfl02 gin.
+
+N21517	secura-0.r01.londen03.uk.bb.gin.ntt.net     		r01 londen03 gin.
+N21517	secura-0.r01.londen05.uk.bb.gin.ntt.net     		r01 londen05 gin.
+
+N5155	p16-0.chinanet.tokyjp01.jp.bb.gin.ntt.net    		chinanet tokyjp01 gin.
+N5155	p16-5.chinanet.tokyjp01.jp.bb.gin.ntt.net    		chinanet tokyjp01 gin.
+
+N29966	ae-1.r00.tokyjp01.jp.bb.gin.ntt.net         		r00 tokyjp01 gin.
+N29966	ae-2.r00.tokyjp01.jp.bb.gin.ntt.net         		r00 tokyjp01 gin.
+N29966	ae-6.r00.tokyjp01.jp.bb.gin.ntt.net         		r00 tokyjp01 gin.
+
+N11616	xe-0.savvis.nycmny01.us.bb.gin.ntt.net      		savvis nycmny01 gin.
+N11616	xe-1.savvis.nycmny01.us.bb.gin.ntt.net      		savvis nycmny01 gin.
+
+N11615	as-1.r05.sydnau01.au.bb.gin.ntt.net         		r05 sydnau01 gin.
+N11615	as-2.r05.sydnau01.au.bb.gin.ntt.net         		r05 sydnau01 gin.
+N11615	p16-6-0-3.r05.sydnau01.au.bb.gin.ntt.net    		r05 sydnau01 gin.
+N11615	xe-1-0-0.r05.sydnau01.au.bb.gin.ntt.net     		r05 sydnau01 gin.
+N11615	xe-5-1-0.r05.sydnau01.au.bb.gin.ntt.net     		r05 sydnau01 gin.
+
+N11614	ae-0.r23.amstnl02.nl.bb.gin.ntt.net         		r23 amstnl02 gin.
+N11614	ae-1.r23.amstnl02.nl.bb.gin.ntt.net         		r23 amstnl02 gin.
+N11614	ae-2.r23.amstnl02.nl.bb.gin.ntt.net         		r23 amstnl02 gin.
+N11614	ae-3.r23.amstnl02.nl.bb.gin.ntt.net         		r23 amstnl02 gin.
+N11614	ae-4.r23.amstnl02.nl.bb.gin.ntt.net         		r23 amstnl02 gin.
+N11614	ae-5.r23.amstnl02.nl.bb.gin.ntt.net         		r23 amstnl02 gin.
+
+N11613	ae-0.r22.londen03.uk.bb.gin.ntt.net         		r22 londen03 gin.
+N11613	ae-2.r22.londen03.uk.bb.gin.ntt.net         		r22 londen03 gin.
+N11613	ae-6.r22.londen03.uk.bb.gin.ntt.net         		r22 londen03 gin.
+N11613	as-0.r22.londen03.uk.bb.gin.ntt.net         		r22 londen03 gin.
+N11613	ge-0.linx.london03.uk.bb.gin.ntt.net        		linx london03 gin.
+N11613	xe-1-0-9.r22.londen03.uk.bb.gin.ntt.net     		r22 londen03 gin.
+
+N10657	ae-2.r06.plalca01.us.bb.gin.ntt.net         		r06 plalca01 gin.
+N10657	ae-4.r06.plalca01.us.bb.gin.ntt.net         		r06 plalca01 gin.
+N10657	xe-0-4-0-3.r06.plalca01.us.bb.gin.ntt.net   		r06 plalca01 gin.
+
+N3058	ae-1.r08.dllstx09.us.bb.gin.ntt.net          		r08 dllstx09 gin.
+N3058	ae-12.r08.dllstx09.us.bb.gin.ntt.net         		r08 dllstx09 gin.
+N3058	ae-13.r08.dllstx09.us.bb.gin.ntt.net         		r08 dllstx09 gin.
+N3058	ae-2.r08.dllstx09.us.bb.gin.ntt.net          		r08 dllstx09 gin.
+N3058	ae-5.r08.dllstx09.us.bb.gin.ntt.net          		r08 dllstx09 gin.
+N3058	ae-7.r08.dllstx09.us.bb.gin.ntt.net          		r08 dllstx09 gin.
+N3058	ge-0-7-0-9.r08.dllstx09.us.bb.gin.ntt.net    		r08 dllstx09 gin.
+N3058	te-1-3.r03.dllstx09.us.bb.gin.ntt.net        		r03 dllstx09 gin.
+
+N8883	ae-2.r05.plalca01.us.bb.gin.ntt.net          		r05 plalca01 gin.
+N8883	ae-4.r05.plalca01.us.bb.gin.ntt.net          		r05 plalca01 gin.
+N8883	xe-0-4-0-3.r05.plalca01.us.bb.gin.ntt.net    		r05 plalca01 gin.
+
+N8882	ae-0.r20.sngpsi05.sg.bb.gin.ntt.net          		r20 sngpsi05 gin.
+N8882	ae-1.r20.sngpsi05.sg.bb.gin.ntt.net          		r20 sngpsi05 gin.
+N8882	ae-2.r20.sngpsi05.sg.bb.gin.ntt.net          		r20 sngpsi05 gin.
+N8882	ae-3.r20.sngpsi05.sg.bb.gin.ntt.net          		r20 sngpsi05 gin.
+N8882	ae-4.r20.sngpsi05.sg.bb.gin.ntt.net          		r20 sngpsi05 gin.
+N8882	ae-5.r20.sngpsi05.sg.bb.gin.ntt.net          		r20 sngpsi05 gin.
+N8882	as-0.r20.sngpsi05.sg.bb.gin.ntt.net          		r20 sngpsi05 gin.
+
+N8885	xe-0-3-0-15.r06.nycmny01.us.ce.gin.ntt.net   		r06 nycmny01 gin.
+N8885	xe-0-3-0-6.r06.nycmny01.us.ce.gin.ntt.net    		r06 nycmny01 gin.
+N8885	xe-0-4-0-10.r05.nycmny01.us.ce.gin.ntt.net   		r05 nycmny01 gin.
+N8885	xe-0-4-0-8.r05.nycmny01.us.ce.gin.ntt.net    		r05 nycmny01 gin.
+
+N8884	ae-1.r04.atlnga05.us.bb.gin.ntt.net          		r04 atlnga05 gin.
+N8884	ae-10.r04.atlnga05.us.bb.gin.ntt.net         		r04 atlnga05 gin.
+N8884	ae-3.r04.atlnga05.us.bb.gin.ntt.net          		r04 atlnga05 gin.
+
+N4243	ge-2-1-6.r03.kslrml01.my.ce.gin.ntt.net      		r03 kslrml01 gin.
+N4243	ge-2-1-7.r03.kslrml01.my.ce.gin.ntt.net      		r03 kslrml01 gin.
+
+N23560	ae-4.r00.lsanca19.us.bb.gin.ntt.net         		r00 lsanca19 gin.
+N23560	ae-5.r00.lsanca19.us.bb.gin.ntt.net         		r00 lsanca19 gin.
+N23560	ae-8.r00.lsanca19.us.bb.gin.ntt.net         		r00 lsanca19 gin.
+
+N2104	ae-1.r06.nycmny01.us.bb.gin.ntt.net          		r06 nycmny01 gin.
+N2104	ae-15.r06.nycmny01.us.bb.gin.ntt.net         		r06 nycmny01 gin.
+N2104	ae-2.r06.nycmny01.us.bb.gin.ntt.net          		r06 nycmny01 gin.
+N2104	ae-20.r06.nycmny01.us.bb.gin.ntt.net         		r06 nycmny01 gin.
+N2104	ae-3.r06.nycmny01.us.bb.gin.ntt.net          		r06 nycmny01 gin.
+N2104	xe-0-2-0-6.r06.nycmny01.us.bb.gin.ntt.net    		r06 nycmny01 gin.
+N2104	xe-0-5-0-8.r06.nycmny01.us.bb.gin.ntt.net    		r06 nycmny01 gin.
+
+N6693	ae-1.r00.sofibu01.bg.bb.gin.ntt.net          		r00 sofibu01 gin.
+N6693	ae-2.r00.sofibu01.bg.bb.gin.ntt.net          		r00 sofibu01 gin.
+N6693	xe-0-2-0-2.r00.sofibu01.bg.bb.gin.ntt.net    		r00 sofibu01 gin.
+
+N27133	xe-0-0-0-11.r06.snjsca04.us.ce.gin.ntt.net  		r06 snjsca04 gin.
+N27133	xe-0-3-0-11.r06.snjsca04.us.ce.gin.ntt.net  		r06 snjsca04 gin.
+
+N13929	xe-0-3-0-6.r04.miamfl02.us.ce.gin.ntt.net   		r04 miamfl02 gin.
+N13929	xe-0-6-0-11.r04.miamfl02.us.ce.gin.ntt.net  		r04 miamfl02 gin.
+
+N11234	xe-0-3-0-11.r04.lsanca03.us.ce.gin.ntt.net  		r04 lsanca03 gin.
+N11234	xe-0-3-0-13.r05.lsanca03.us.ce.gin.ntt.net  		r05 lsanca03 gin.
+N11234	xe-0-3-0-9.r05.lsanca03.us.ce.gin.ntt.net   		r05 lsanca03 gin.
+
+N8123	xe-0-3-0-15.r04.asbnva02.us.ce.gin.ntt.net   		r04 asbnva02 gin.
+N8123	xe-0-3-0-16.r04.asbnva02.us.ce.gin.ntt.net   		r04 asbnva02 gin.
+N8123	xe-0-3-0-29.r00.asbnva02.us.ce.gin.ntt.net   		r00 asbnva02 gin.
+N8123	xe-0-3-0-30.r00.asbnva02.us.ce.gin.ntt.net   		r00 asbnva02 gin.
+
+N9743	ae-0.amazon.miamfl02.us.bb.gin.ntt.net       		amazon miamfl02 gin.
+N9743	ae-4.amazon.miamfl02.us.bb.gin.ntt.net       		amazon miamfl02 gin.
+
+N8086	ae-3-52.r03.seolko01.kr.ce.gin.ntt.net       		r03 seolko01 gin.
+N8086	ae-3-61.r03.seolko01.kr.ce.gin.ntt.net       		r03 seolko01 gin.
+
+N22948	ae-0.r00.jktajk02.id.bb.gin.ntt.net         		r00 jktajk02 gin.
+N22948	ae-1.r00.jktajk02.id.bb.gin.ntt.net         		r00 jktajk02 gin.
+N22948	ge-1-0-0.r00.jktajk02.id.bb.gin.ntt.net     		r00 jktajk02 gin.
+N22948	ge-1-0-3.r00.jktajk02.id.bb.gin.ntt.net     		r00 jktajk02 gin.
+
+N4609	ae-2.r02.londen05.uk.bb.gin.ntt.net          		r02 londen05 gin.
+N4609	ae-3.r02.londen05.uk.bb.gin.ntt.net          		r02 londen05 gin.
+N4609	xe-0-1-0-6.r02.londen05.uk.bb.gin.ntt.net    		r02 londen05 gin.
+N4609	xe-4-3.r00.londen05.uk.bb.gin.ntt.net        		r00 londen05 gin.
+
+N13811	ae-1.r00.tkokhk01.hk.bb.gin.ntt.net         		r00 tkokhk01 gin.
+N13811	ae-2.r00.tkokhk01.hk.bb.gin.ntt.net         		r00 tkokhk01 gin.
+N13811	ae-5-51.r00.tkokhk01.hk.bb.gin.ntt.net      		r00 tkokhk01 gin.
+N13811	ae-7.r00.tkokhk01.hk.bb.gin.ntt.net         		r00 tkokhk01 gin.
+
+N2983	ae-2.r02.frnkge04.de.bb.gin.ntt.net          		r02 frnkge04 gin.
+N2983	ae-3.r02.frnkge04.de.bb.gin.ntt.net          		r02 frnkge04 gin.
+N2983	ae-7.r02.frnkge04.de.bb.gin.ntt.net          		r02 frnkge04 gin.
+
+N1475	ae-1.r06.chcgil09.us.bb.gin.ntt.net          		r06 chcgil09 gin.
+N1475	ae-2.r06.chcgil09.us.bb.gin.ntt.net          		r06 chcgil09 gin.
+N1475	ae-3.r06.chcgil09.us.bb.gin.ntt.net          		r06 chcgil09 gin.
+N1475	ae-8.r06.chcgil09.us.bb.gin.ntt.net          		r06 chcgil09 gin.
+N1475	d1-3-1-0-7.r04.chcgil09.us.bb.gin.ntt.net    		r04 chcgil09 gin.
+N1475	xe-0-3-0-9.r06.chcgil09.us.bb.gin.ntt.net    		r06 chcgil09 gin.
+N1475	xe-0-6-0-17.r06.chcgil09.us.bb.gin.ntt.net   		r06 chcgil09 gin.
+
+N4452	ae-1.r03.atlnga05.us.bb.gin.ntt.net          		r03 atlnga05 gin.
+N4452	ae-4.r03.atlnga05.us.bb.gin.ntt.net          		r03 atlnga05 gin.
+N4452	ae-5.r03.atlnga05.us.bb.gin.ntt.net          		r03 atlnga05 gin.
+N4452	ae-6.r03.atlnga05.us.bb.gin.ntt.net          		r03 atlnga05 gin.
+N4452	te-2-1.r00.atlnga05.us.bb.gin.ntt.net        		r00 atlnga05 gin.
+N4452	xe-0-5-0-21.r03.atlnga05.us.bb.gin.ntt.net   		r03 atlnga05 gin.
+
+N6082	xe-0-0-0-6.r00.tokyjp01.jp.ce.gin.ntt.net    		r00 tokyjp01 gin.
+N6082	xe-0-0-0-7.r00.tokyjp01.jp.ce.gin.ntt.net    		r00 tokyjp01 gin.
+N6082	xe-0-1-0-3.r00.tokyjp01.jp.ce.gin.ntt.net    		r00 tokyjp01 gin.
+N6082	xe-0-5-0-7.r00.tokyjp01.jp.ce.gin.ntt.net    		r00 tokyjp01 gin.
+
+N8245	xe-0.globalcrossing.frnkge03.de.bb.gin.ntt.net 		globalcrossing frnkge03 gin.
+N8245	xe-1.globalcrossing.frnkge03.de.bb.gin.ntt.net 		globalcrossing frnkge03 gin.
+
+N27105	xe-0-3-0-22.r04.asbnva02.us.ce.gin.ntt.net  		r04 asbnva02 gin.
+N27105	xe-0-4-0-7.r04.asbnva02.us.ce.gin.ntt.net   		r04 asbnva02 gin.
+
+N13552	ae-1.a20.osakjp01.jp.ra.gin.ntt.net         		a20 osakjp01 gin.
+N13552	ae-2.a20.osakjp01.jp.ra.gin.ntt.net         		a20 osakjp01 gin.
+N13552	ae-6.a20.osakjp01.jp.ra.gin.ntt.net         		a20 osakjp01 gin.
+N13552	ae-8.a20.osakjp01.jp.ra.gin.ntt.net         		a20 osakjp01 gin.
+
+N16894	xe-0-0-0-6.r00.lsanca19.us.ce.gin.ntt.net   		r00 lsanca19 gin.
+N16894	xe-0-0-0-9.r00.lsanca19.us.ce.gin.ntt.net   		r00 lsanca19 gin.
+
+N5416	ae-1.r00.londen10.uk.bb.gin.ntt.net          		r00 londen10 gin.
+N5416	ae-3.r00.londen10.uk.bb.gin.ntt.net          		r00 londen10 gin.
+N5416	ae-6.r00.londen10.uk.bb.gin.ntt.net          		r00 londen10 gin.
+N5416	ae-7.r00.londen10.uk.bb.gin.ntt.net          		r00 londen10 gin.
+
+N9137	ge-0-0-6.a06.sydnau01.au.ra.gin.ntt.net      		a06 sydnau01 gin.
+N9137	ge-1-0-6.a06.sydnau01.au.ra.gin.ntt.net      		a06 sydnau01 gin.
+N9137	xe-0-1-0.a06.sydnau01.au.ra.gin.ntt.net      		a06 sydnau01 gin.
+N9137	xe-4-1-0.a06.sydnau01.au.ra.gin.ntt.net      		a06 sydnau01 gin.
+
+N19607	xe-0-0-0-13.r04.sttlwa01.us.ce.gin.ntt.net  		r04 sttlwa01 gin.
+N19607	xe-0-5-0-30.r04.sttlwa01.us.ce.gin.ntt.net  		r04 sttlwa01 gin.
+

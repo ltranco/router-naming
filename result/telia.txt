@@ -1,0 +1,376 @@
+N5358	hurricane-ic-129712-atl-bb1.c.telia.net      		hurricane ic c.
+N5358	hurricane-ic-138358-atl-bb1.c.telia.net      		hurricane ic c.
+
+N7704	edgecast-ic-300439-prs-b8.c.telia.net        		edgecast ic c.
+N7704	edgecast-ic-300440-prs-b8.c.telia.net        		edgecast ic c.
+
+N7703	edgecast-ic-128976-ffm-b6.c.telia.net        		edgecast ic c.
+N7703	edgecast-ic-150747-ffm-b10.c.telia.net       		edgecast ic c.
+N7703	edgecast-ic-150748-ffm-b10.c.telia.net       		edgecast ic c.
+
+N5218	gulfnet-ic-300594-mno-b2.c.telia.net         		gulfnet ic c.
+N5218	gulfnet-ic-300595-mno-b2.c.telia.net         		gulfnet ic c.
+
+N19299	cco-ic-144302-dls-bb1.c.telia.net           		cco ic c.
+N19299	cco-ic-149280-dls-bb1.c.telia.net           		cco ic c.
+N19299	cco-ic-152058-dls-bb1.c.telia.net           		cco ic c.
+N19299	cco-ic-300889-dls-bb1.c.telia.net           		cco ic c.
+
+N5354	edgecast-ic-141924-dls-bb1.c.telia.net       		edgecast ic c.
+N5354	edgecast-ic-151887-dls-bb1.c.telia.net       		edgecast ic c.
+N5354	edgecast-ic-153363-dls-bb1.c.telia.net       		edgecast ic c.
+N5354	edgecast-ic-153364-dls-bb1.c.telia.net       		edgecast ic c.
+
+N6390	globalcrossing-119012-ffm-b7.telia.net       		
+N6390	globalcrossing-ic-130855-ffm-b7.c.telia.net  		globalcrossing ic c.
+
+N6250	linknet-ic-150678-snge-b2.c.telia.net        		linknet ic c.
+N6250	ptlynx-ic-304962-snge-b1.c.telia.net         		ptlynx ic c.
+
+N4103	starhub-ic-136230-sjo-bb1.c.telia.net        		starhub ic c.
+N4103	starhub-ic-145070-snge-b2.c.telia.net        		starhub ic c.
+
+N4949	starhub-ic-149523-las-b3.c.telia.net         		starhub ic c.
+N4949	starhub-ic-300479-las-b3.c.telia.net         		starhub ic c.
+
+N21463	81-232-214-158.link.se.telia.net            		
+N21463	81-235-115-170.link.se.telia.net            		
+N21463	fre-a31-link.se.telia.net                   		fre a31 se.
+
+N1195	emiratestelecom-ic-152628-prs-b7.c.telia.net 		emiratestelecom ic c.
+N1195	etisalat-ic-302487-ldn-b7.c.telia.net        		etisalat ic c.
+
+N6423	globalcrossing-ic-128571-ldn-b5.c.telia.net  		globalcrossing ic c.
+N6423	globalcrossing-ic-135890-ldn-b5.c.telia.net  		globalcrossing ic c.
+
+N19574	telecominfra-ic-145408-nyk-b7.c.telia.net   		telecominfra ic c.
+N19574	telecominfra-ic-151679-ldn-b4.c.telia.net   		telecominfra ic c.
+
+N19575	telecommunicationinfra-ic-145407-nyk-b7.c.telia.net 		telecommunicationinfra ic c.
+N19575	teleinfra-ic-134565-ldn-b1.c.telia.net      		teleinfra ic c.
+
+N6622	ddf-b1-link.telia.net                        		
+N6622	ddf-b2-link.telia.net                        		
+
+N8307	edgecast-ic-151890-sea-b1.c.telia.net        		edgecast ic c.
+N8307	edgecast-ic-153629-sea-b1.c.telia.net        		edgecast ic c.
+N8307	edgecast-ic-153630-sea-b1.c.telia.net        		edgecast ic c.
+
+N21843	fiberring-116143-adm-b4.c.telia.net         		fiberring 116143 c.
+N21843	leaseweb-ic-129363-adm-b4.c.telia.net       		leaseweb ic c.
+
+N21315	cableuropa-ic-129488-mad-b1.c.telia.net     		cableuropa ic c.
+N21315	cableuropa-ic-149090-mad-b2.c.telia.net     		cableuropa ic c.
+N21315	cableuropa-ic-149091-mad-b2.c.telia.net     		cableuropa ic c.
+
+N19661	surewest-ic-146905-sjo-bb1.c.telia.net      		surewest ic c.
+N19661	surewest-ic-153301-sjo-bb1.c.telia.net      		surewest ic c.
+
+N10360	subrigo-ic-303787-las-b3.c.telia.net        		subrigo ic c.
+N10360	subrigo-ic-303788-las-b3.c.telia.net        		subrigo ic c.
+
+N1442	leaseweb-ic-150715-ash-b2.c.telia.net        		leaseweb ic c.
+N1442	leaseweb-ic-150716-ash-b2.c.telia.net        		leaseweb ic c.
+
+N4994	chinaunicom-ic-151188-las-bb1.telia.net      		
+N4994	chinaunicom-ic-155914-las-bb1.c.telia.net    		chinaunicom ic c.
+N4994	chinaunicom-ic-302366-las-bb1.c.telia.net    		chinaunicom ic c.
+
+N14472	transtelecom-ic-125960-adm-b4.c.telia.net   		transtelecom ic c.
+N14472	transtelecom-ic-138299-adm-b4.c.telia.net   		transtelecom ic c.
+
+N6630	turktelekom-ic-134116-ffm-b10.c.telia.net    		turktelekom ic c.
+N6630	turktelekom-ic-134124-ffm-b10.c.telia.net    		turktelekom ic c.
+N6630	turktelekom-ic-142473-ffm-b10.c.telia.net    		turktelekom ic c.
+N6630	turktelekom-ic-306243-ffm-b10.c.telia.net    		turktelekom ic c.
+
+N14479	edgecast-ic-145014-adm-b4.c.telia.net       		edgecast ic c.
+N14479	edgecast-ic-150683-adm-b4.c.telia.net       		edgecast ic c.
+
+N6635	ruscomnet-ic-123335-mow-b2.c.telia.net       		ruscomnet ic c.
+N6635	ruscomnet-ic-156094-mow-b4.c.telia.net       		ruscomnet ic c.
+
+N7859	myloc-ic-141049-ddf-b2.c.telia.net           		myloc ic c.
+N7859	myloc-ic-304654-ddf-b2.c.telia.net           		myloc ic c.
+
+N33087	78-77-22-176.link.se.telia.net              		
+N33087	osm-td1-link.se.telia.net                   		osm td1 se.
+
+N7995	philippineldt-ic-305053-snge-b1.c.telia.net  		philippineldt ic c.
+N7995	pldt-ic-300363-s-b3.c.telia.net              		pldt ic c.
+
+N13669	ukrtelecom-ic-140788-war-b2.c.telia.net     		ukrtelecom ic c.
+N13669	ukrtelecom-ic-140789-war-b2.c.telia.net     		ukrtelecom ic c.
+N13669	ukrtelecom-ic-144326-war-b2.c.telia.net     		ukrtelecom ic c.
+N13669	ukrtelecom-ic-300128-war-b2.c.telia.net     		ukrtelecom ic c.
+N13669	ukrtelecom-ic-300129-war-b2.c.telia.net     		ukrtelecom ic c.
+
+N5250	qwest-ic-119103-chi-bb1.telia.net            		
+N5250	qwest-ic-153018-chi-bb1.c.telia.net          		qwest ic c.
+
+N41627	anonima-ic-140728-vca-b1.c.telia.net        		anonima ic c.
+N41627	cableuropa-ic-127027-vca-b1.c.telia.net     		cableuropa ic c.
+N41627	cableuropa-ic-127028-vca-b1.c.telia.net     		cableuropa ic c.
+
+N41624	dravanet-ic-300320-bpt-b4.c.telia.net       		dravanet ic c.
+N41624	dravanet-ic-300321-bpt-b4.c.telia.net       		dravanet ic c.
+
+N25986	jsc-ic-129304-war-b1.c.telia.net            		jsc ic c.
+N25986	jsc-ic-129305-war-b1.c.telia.net            		jsc ic c.
+N25986	jsc-ic-131096-war-b1.c.telia.net            		jsc ic c.
+N25986	jsc-ic-131097-war-b1.c.telia.net            		jsc ic c.
+
+N33741	k1o1114.telia.net                           		
+N33741	vs-a-d2-feth3-8.se.telia.net                		vs a se.
+N33741	vs-a-d2-link.se.telia.net                   		vs a se.
+
+N5222	edgecast-ic-305518-nyk-b6.c.telia.net        		edgecast ic c.
+N5222	edgecast-ic-305519-nyk-b6.c.telia.net        		edgecast ic c.
+N5222	edgecast-ic-305520-nyk-b6.c.telia.net        		edgecast ic c.
+N5222	edgecast-ic-305521-nyk-b6.c.telia.net        		edgecast ic c.
+
+N5223	zch-b1-geth3-1.telia.net                     		
+N5223	zch-b1-link.telia.net                        		
+N5223	zch-b2-link.telia.net                        		
+
+N5308	aol-ic-122177-ldn-b3.telia.net               		
+N5308	aol-ic-140574-ldn-b3.c.telia.net             		aol ic c.
+
+N2845	leaseweb-ic-139935-adm-evo-i2.c.telia.net    		leaseweb ic c.
+N2845	leaseweb-ic-150728-adm-b3.c.telia.net        		leaseweb ic c.
+
+N13671	nextgentel-ic-126336-oso-b1.c.telia.net     		nextgentel ic c.
+N13671	nextgentel-ic-143248-oso-b3.c.telia.net     		nextgentel ic c.
+N13671	nextgentel-ic-300482-oso-b3.c.telia.net     		nextgentel ic c.
+N13671	nextgentel-ic-300483-oso-b3.c.telia.net     		nextgentel ic c.
+
+N8915	cablewireless-ic-303361-prs-b7.c.telia.net   		cablewireless ic c.
+N8915	cablewireless-ic-303362-prs-b7.c.telia.net   		cablewireless ic c.
+
+N9584	chinatietong-ic-150781-hnk-b2.c.telia.net    		chinatietong ic c.
+N9584	chinatietong-ic-150782-prs-b4.c.telia.net    		chinatietong ic c.
+
+N3745	pantel-ic-155220-mno-b2.c.telia.net          		pantel ic c.
+N3745	pantel-ic-300141-mno-b2.c.telia.net          		pantel ic c.
+N3745	pantel-ic-300221-mno-b2.c.telia.net          		pantel ic c.
+
+N33713	90-229-8-41.link.se.telia.net               		
+N33713	hst-d2-link.se.telia.net                    		hst d2 se.
+N33713	hst-d2-link.telia.net                       		
+
+N33716	k1o1101.telia.net                           		
+N33716	m-sp-d2-link.se.telia.net                   		m sp se.
+N33716	m-sp-d2-link.telia.net                      		
+
+N3740	edgecast-ic-156940-nyk-b2.c.telia.net        		edgecast ic c.
+N3740	edgecast-ic-156942-nyk-b2.c.telia.net        		edgecast ic c.
+N3740	edgecast-ic-156943-nyk-b2.c.telia.net        		edgecast ic c.
+N3740	edgecast-ic-156944-nyk-b2.c.telia.net        		edgecast ic c.
+
+N8121	ipt-ic-157235-ffm-b11.c.telia.net            		ipt ic c.
+N8121	webzilla-ic-157236-ffm-b11.c.telia.net       		webzilla ic c.
+
+N9444	easyonline-ic-302059-las-b3.c.telia.net      		easyonline ic c.
+N9444	easyonline-ic-302060-mai-b1.c.telia.net      		easyonline ic c.
+
+N39420	0xc2ffbc02.linknet.dk.telia.net             		
+N39420	0xc2ffbc06.linknet.dk.telia.net             		
+N39420	0xc2ffbc76.linknet.dk.telia.net             		
+
+N19308	qbrick-ic-155679-oso-b3.c.telia.net         		qbrick ic c.
+N19308	qbrick-ic-306461-oso-b3.c.telia.net         		qbrick ic c.
+
+N2915	webzilla-ic-157247-dls-bb1.c.telia.net       		webzilla ic c.
+N2915	webzilla-ic-157248-dls-bb1.c.telia.net       		webzilla ic c.
+N2915	webzilla-ic-157249-dls-bb1.c.telia.net       		webzilla ic c.
+
+N10857	cat-ic-153863-snge-b2.c.telia.net           		cat ic c.
+N10857	cat-ic-153864-snge-b2.c.telia.net           		cat ic c.
+N10857	cat-ic-153865-snge-b2.c.telia.net           		cat ic c.
+
+N10855	edgecast-ic-152655-win-b4.c.telia.net       		edgecast ic c.
+N10855	edgecast-ic-152656-win-b4.c.telia.net       		edgecast ic c.
+N10855	edgecast-ic-153487-win-b4.c.telia.net       		edgecast ic c.
+N10855	edgecast-ic-153488-win-b4.c.telia.net       		edgecast ic c.
+
+N10658	swiftwill-ic-135585-chi-bb1.c.telia.net     		swiftwill ic c.
+N10658	swiftwill-ic-135586-chi-bb1.c.telia.net     		swiftwill ic c.
+
+N30281	bkk-ic-125681-oso-b1.c.telia.net            		bkk ic c.
+N30281	bkk-ic-301036-oso-b3.c.telia.net            		bkk ic c.
+
+N8362	swiftwill-ic-133269-adm-b5.c.telia.net       		swiftwill ic c.
+N8362	swiftwill-ic-137224-adm-b5.c.telia.net       		swiftwill ic c.
+
+N13683	turktelekom-ic-144794-ldn-b3.c.telia.net    		turktelekom ic c.
+N13683	turktelekom-ic-304468-ldn-b3.c.telia.net    		turktelekom ic c.
+N13683	turktelekom-ic-304469-ldn-b3.c.telia.net    		turktelekom ic c.
+
+N13680	amazon-ic-151248-sea-b1.c.telia.net         		amazon ic c.
+N13680	amazon-ic-302508-sea-b1.c.telia.net         		amazon ic c.
+
+N8192	telecominfra-ic-132493-ldn-b1.c.telia.net    		telecominfra ic c.
+N8192	telecominfra-ic-134376-nyk-b7.c.telia.net    		telecominfra ic c.
+N8192	telecominfra-ic-134377-nyk-b7.c.telia.net    		telecominfra ic c.
+
+N8133	dln-b1-link.telia.net                        		
+N8133	dln-b3-link.telia.net                        		
+
+N3289	pantel-ic-155221-mno-b2.c.telia.net          		pantel ic c.
+N3289	pantel-ic-300144-mno-b2.c.telia.net          		pantel ic c.
+
+N14483	cableuropa-ic-137780-mad-b2.c.telia.net     		cableuropa ic c.
+N14483	cableuropa-ic-137781-mad-b2.c.telia.net     		cableuropa ic c.
+N14483	cableuropa-ic-149092-mad-b2.c.telia.net     		cableuropa ic c.
+N14483	cableuropa-ic-149093-mad-b2.c.telia.net     		cableuropa ic c.
+
+N10240	nextgentel-ic-118934-oso-b3.c.telia.net     		nextgentel ic c.
+N10240	nextgentel-ic-126335-oso-b4.c.telia.net     		nextgentel ic c.
+N10240	nextgentel-ic-143249-oso-b4.c.telia.net     		nextgentel ic c.
+N10240	nextgentel-ic-300485-oso-b4.c.telia.net     		nextgentel ic c.
+N10240	nextgentel-ic-300486-oso-b4.c.telia.net     		nextgentel ic c.
+
+N10247	globalconnect-ic-304991-kbn-b3.c.telia.net  		globalconnect ic c.
+N10247	globalconnect-ic-305232-kbn-b3.c.telia.net  		globalconnect ic c.
+
+N13759	leaseweb-ic-130058-adm-b4.c.telia.net       		leaseweb ic c.
+N13759	leaseweb-ic-131630-adm-b4.c.telia.net       		leaseweb ic c.
+
+N33738	90-228-16-172.link.se.telia.net             		
+N33738	hy-a31-link.se.telia.net                    		hy a31 se.
+
+N33739	90-228-27-102.link.se.telia.net             		
+N33739	u-a31-link.se.telia.net                     		u a31 se.
+
+N33735	90-229-3-176.link.se.telia.net              		
+N33735	b2-a31-link.se.telia.net                    		b2 a31 se.
+
+N6629	iskon-ic-123023-win-b4.c.telia.net           		iskon ic c.
+N6629	iskon-ic-130474-win-b4.c.telia.net           		iskon ic c.
+N6629	iskon-ic-139803-win-b4.c.telia.net           		iskon ic c.
+N6629	iskon-ic-139804-win-b4.c.telia.net           		iskon ic c.
+N6629	iskon-ic-139805-win-b4.c.telia.net           		iskon ic c.
+N6629	iskon-ic-146178-win-b4.c.telia.net           		iskon ic c.
+
+N1341	leaseweb-ic-150717-ash-b2.c.telia.net        		leaseweb ic c.
+N1341	leaseweb-ic-150718-ash-b2.c.telia.net        		leaseweb ic c.
+
+N8123	edgecast-ic-300286-ash-bb1.c.telia.net       		edgecast ic c.
+N8123	edgecast-ic-300287-ash-bb1.c.telia.net       		edgecast ic c.
+
+N8124	liberty-ic-302304-nyk-b3.c.telia.net         		liberty ic c.
+N8124	liberty-ic-305513-nyk-b3.c.telia.net         		liberty ic c.
+N8124	liberty-ic-306018-nyk-b3.c.telia.net         		liberty ic c.
+N8124	upc-ic-149906-nyk-b3.c.telia.net             		upc ic c.
+
+N8125	cco-ic-145415-chi-bb1.c.telia.net            		cco ic c.
+N8125	cco-ic-149279-chi-bb1.c.telia.net            		cco ic c.
+N8125	cco-ic-152871-chi-bb1.c.telia.net            		cco ic c.
+N8125	cco-ic-156108-chi-bb1.c.telia.net            		cco ic c.
+N8125	cco-ic-300890-chi-eqx-i1.c.telia.net         		cco ic c.
+N8125	cco-ic-301244-chi-eqx-i1.c.telia.net         		cco ic c.
+
+N21365	anonima-ic-140729-bcn-b1.c.telia.net        		anonima ic c.
+N21365	cableuropa-ic-122022-bcn-b1.c.telia.net     		cableuropa ic c.
+N21365	cableuropa-ic-137779-bcn-b1.c.telia.net     		cableuropa ic c.
+
+N33450	anonima-ic-149088-vca-b1.c.telia.net        		anonima ic c.
+N33450	anonima-ic-149089-vca-b1.c.telia.net        		anonima ic c.
+N33450	cableuropa-ic-149087-vca-b1.c.telia.net     		cableuropa ic c.
+
+N4476	78-77-23-236.link.se.telia.net               		
+N4476	81-228-124-252.link.se.telia.net             		
+N4476	81-228-99-196.link.se.telia.net              		
+N4476	90-229-30-116.link.se.telia.net              		
+N4476	90-229-30-180.link.se.telia.net              		
+N4476	90-229-30-52.link.se.telia.net               		
+N4476	90-229-31-100.link.se.telia.net              		
+N4476	90-229-5-204.link.se.telia.net               		
+
+N27385	doclerweb-ic-300884-prs-b8.c.telia.net      		doclerweb ic c.
+N27385	duodecad-ic-305517-prs-b8.c.telia.net       		duodecad ic c.
+
+N7219	0xc2ff8ae1.linknet.dk.telia.net              		
+N7219	0xc2ffb9c1.linknet.dk.telia.net              		
+N7219	0xc2ffbe05.linknet.dk.telia.net              		
+N7219	0xc2ffbe09.linknet.dk.telia.net              		
+N7219	0xc2ffcda1.linknet.dk.telia.net              		
+N7219	kbhs14a-es1-p1-1-7.orestad.dk.telia.net      		
+
+N3368	pantel-ic-155222-mno-b2.c.telia.net          		pantel ic c.
+N3368	pantel-ic-155223-mno-b2.c.telia.net          		pantel ic c.
+
+N8432	78-77-10-66.link.se.telia.net                		
+N8432	81-235-103-218.link.se.telia.net             		
+N8432	81-235-120-242.link.se.telia.net             		
+N8432	81-235-72-250.link.se.telia.net              		
+N8432	90-228-66-218.link.se.telia.net              		
+N8432	hdn-r-d1-link.se.telia.net                   		hdn r se.
+N8432	hdn-r-d1-link.telia.net                      		
+
+N1274	emirates-ic-152629-prs-b4.c.telia.net        		emirates ic c.
+N1274	etisalat-ic-302581-mei-b1.c.telia.net        		etisalat ic c.
+
+N1749	0xc2ff8465.linknet.dk.telia.net              		
+N1749	0xc2ff8711.linknet.dk.telia.net              		
+N1749	0xc2ffb8b1.linknet.dk.telia.net              		
+N1749	0xc2ffc241.linknet.dk.telia.net              		
+
+N7296	savvis-ic-143717-las-b3.c.telia.net          		savvis ic c.
+N7296	savvis-ic-143718-las-b3.c.telia.net          		savvis ic c.
+
+N33722	oer-d3-feth3-12.se.telia.net                		oer d3 se.
+N33722	oer-d3-feth3-9.se.telia.net                 		oer d3 se.
+N33722	oer-d3-link.se.telia.net                    		oer d3 se.
+
+N5262	telecominfra-ic-132490-ldn-b1.c.telia.net    		telecominfra ic c.
+N5262	teleinfra-ic-134566-ldn-b1.c.telia.net       		teleinfra ic c.
+
+N8488	cco-ic-142815-atl-bb1.c.telia.net            		cco ic c.
+N8488	cco-ic-144304-atl-bb1.c.telia.net            		cco ic c.
+N8488	cco-ic-144305-atl-bb1.c.telia.net            		cco ic c.
+N8488	cco-ic-151316-atl-bb1.c.telia.net            		cco ic c.
+N8488	cco-ic-304593-atl-bb1.c.telia.net            		cco ic c.
+N8488	cco-ic-305677-atl-bb1.c.telia.net            		cco ic c.
+N8488	cco-ic-305678-atl-bb1.c.telia.net            		cco ic c.
+
+N34918	90-228-22-31.link.se.telia.net              		
+N34918	90-228-87-225.link.se.telia.net             		
+N34918	90-229-27-233.link.se.telia.net             		
+
+N7675	easyonline-ic-302057-mai-b1.c.telia.net      		easyonline ic c.
+N7675	easyonline-ic-302058-las-b3.c.telia.net      		easyonline ic c.
+
+N1694	leaseweb-ic-150725-adm-b3.c.telia.net        		leaseweb ic c.
+N1694	leaseweb-ic-150727-adm-b3.c.telia.net        		leaseweb ic c.
+
+N4308	pantel-ic-301099-ldn-b3.c.telia.net          		pantel ic c.
+N4308	turktelekom-ic-134131-ldn-b5.c.telia.net     		turktelekom ic c.
+N4308	turktelekom-ic-304467-ldn-b3.c.telia.net     		turktelekom ic c.
+
+N4309	chinatelecom-ic-136676-ldn-b3.c.telia.net    		chinatelecom ic c.
+N4309	chinatelecom-ic-302275-dn-b3.c.telia.net     		chinatelecom ic c.
+
+N6247	cco-ic-144814-cha-b1.c.telia.net             		cco ic c.
+N6247	cco-ic-150435-cha-b1.c.telia.net             		cco ic c.
+N6247	cco-ic-150436-cha-b1.c.telia.net             		cco ic c.
+N6247	cco-ic-151314-cha-b1.c.telia.net             		cco ic c.
+N6247	cco-ic-153390-cha-b1.c.telia.net             		cco ic c.
+N6247	cco-ic-300371-cha-b1.c.telia.net             		cco ic c.
+N6247	cco-ic-300372-cha-b1.c.telia.net             		cco ic c.
+N6247	cco-ic-300828-cha-b1.c.telia.net             		cco ic c.
+
+N4113	edgecast-ic-155812-ffm-b2.c.telia.net        		edgecast ic c.
+N4113	edgecast-ic-155813-ffm-b2.c.telia.net        		edgecast ic c.
+N4113	edgecast-ic-155814-ffm-b2.c.telia.net        		edgecast ic c.
+N4113	edgecast-ic-155815-ffm-b2.c.telia.net        		edgecast ic c.
+
+N20991	a100row-ic-145418-adm-b7.c.telia.net        		a100row ic c.
+N20991	a100row-ic-300134-adm-b7.c.telia.net        		a100row ic c.
+
+N7689	swiftwill-ic-135587-chi-bb1.c.telia.net      		swiftwill ic c.
+N7689	swiftwill-ic-135588-chi-bb1.c.telia.net      		swiftwill ic c.
+
+N1468	dtag-ic-134346-prs-b7.c.telia.net            		dtag ic c.
+N1468	dtag-ic-157284-prs-b2.c.telia.net            		dtag ic c.
+

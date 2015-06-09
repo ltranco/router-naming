@@ -1,0 +1,4975 @@
+
+
+
+
+N10629	te-7-3-ar01.l3-mobile.al.northglf.comcast.net
+N10629	te-7-4-ar01.l3-mobile.al.northglf.comcast.net
+N10629	te-7-7-ar01.l3-mobile.al.northglf.comcast.net
+N10629	te-7-8-ar01.l3-mobile.al.northglf.comcast.net
+N10629	te-9-7-ar01.l3-mobile.al.northglf.comcast.net
+N10629	te-9-8-ar01.l3-mobile.al.northglf.comcast.net
+
+
+N14141	ge-1-46-ur01.gadsden.al.tusca.comcast.net
+N14141	ge-1-47-ur01.gadsden.al.tusca.comcast.net
+N14141	te-2-3-ur01.gadsden.al.tusca.comcast.net
+N14141	te-5-1-ur01.gadsden.al.tusca.comcast.net
+N14141	te-5-4-ur01.gadsden.al.tusca.comcast.net
+
+
+N31977	te-4-1-ur01.hillcrestprk.al.mobile.comcast.net
+N31977	te-8-1-ur01.hillcrestprk.al.mobile.comcast.net
+N31977	te-9-1-ur01.hillcrestprk.al.mobile.comcast.net
+
+
+N31978	te-7-2-ur01.mobile.al.mobile.comcast.net
+N31978	te-7-4-ur01.mobile.al.mobile.comcast.net
+N31978	te-8-1-ur01.mobile.al.mobile.comcast.net
+
+
+N31979	te-7-2-ur02.mobile.al.mobile.comcast.net
+N31979	te-7-4-ur02.mobile.al.mobile.comcast.net
+N31979	te-8-1-ur02.mobile.al.mobile.comcast.net
+
+
+N31983	te-1-3-ur02.tuscaloosa.al.tusca.comcast.net
+N31983	te-7-3-ur02.tuscaloosa.al.tusca.comcast.net
+N31983	te-7-4-ur02.tuscaloosa.al.tusca.comcast.net
+
+
+N31984	te-5-1-ur02.gadsden.al.tusca.comcast.net
+N31984	te-5-2-ur02.gadsden.al.tusca.comcast.net
+N31984	te-8-2-ur02.gadsden.al.tusca.comcast.net
+
+
+N31985	te-1-1-ur01.tuscaloosa.al.tusca.comcast.net
+N31985	te-7-1-ur01.tuscaloosa.al.tusca.comcast.net
+N31985	te-7-4-ur01.tuscaloosa.al.tusca.comcast.net
+
+
+
+
+N20488	te-0-0-0-0-sur02.littlerock.ar.lrock.comcast.net
+N20488	te-0-0-0-1-sur02.littlerock.ar.lrock.comcast.net
+N20488	te-0-0-0-2-sur02.littlerock.ar.lrock.comcast.net
+N20488	te-0-7-0-1-sur02.littlerock.ar.lrock.comcast.net
+
+
+N32014	te-2-4-ar01.littlerock.ar.lrock.comcast.net
+N32014	te-5-1-ar01.littlerock.ar.lrock.comcast.net
+N32014	te-5-3-ar01.littlerock.ar.lrock.comcast.net
+
+
+N32015	te-5-1-ar02.littlerock.ar.lrock.comcast.net
+N32015	te-5-3-ar02.littlerock.ar.lrock.comcast.net
+N32015	te-9-3-ar02.littlerock.ar.lrock.comcast.net
+
+
+N32084	te-0-0-0-0-sur01.littlerock.ar.lrock.comcast.net
+N32084	te-0-0-0-1-sur01.littlerock.ar.lrock.comcast.net
+N32084	te-0-7-0-2-sur01.littlerock.ar.lrock.comcast.net
+
+
+
+
+N20468	te-0-0-0-0-sur02.snyder.az.pima.comcast.net
+N20468	te-0-7-0-0-sur02.snyder.az.pima.comcast.net
+N20468	te-0-7-0-1-sur02.snyder.az.pima.comcast.net
+N20468	te-0-7-0-2-sur02.snyder.az.pima.comcast.net
+
+
+N20481	te-0-0-0-0-sur01.orovalley.az.pima.comcast.net
+N20481	te-0-0-0-1-sur01.orovalley.az.pima.comcast.net
+N20481	te-0-7-0-0-sur01.orovalley.az.pima.comcast.net
+N20481	te-0-7-0-1-sur01.orovalley.az.pima.comcast.net
+
+
+N2363	te-0-0-0-22-ar03.pimaco.az.pima.comcast.net
+N2363	te-0-0-0-23-ar03.pimaco.az.pima.comcast.net
+N2363	te-0-7-0-22-ar03.pimaco.az.pima.comcast.net
+N2363	te-0-7-0-23-ar03.pimaco.az.pima.comcast.net
+N2363	te-1-1-ar01.pimaco.az.pima.comcast.net
+N2363	te-1-2-ar01.pimaco.az.pima.comcast.net
+N2363	te-1-3-ar01.pimaco.az.pima.comcast.net
+N2363	te-1-4-ar01.pimaco.az.pima.comcast.net
+
+
+N32050	te-0-0-0-0-ur05.pimaco.az.pima.comcast.net
+N32050	te-0-3-0-0-ur05.pimaco.az.pima.comcast.net
+N32050	te-0-3-0-1-ur05.pimaco.az.pima.comcast.net
+
+
+N32051	te-0-0-0-0-sur01.snyder.az.pima.comcast.net
+N32051	te-0-0-0-1-sur01.snyder.az.pima.comcast.net
+N32051	te-0-0-0-2-sur01.snyder.az.pima.comcast.net
+
+
+N6457	te-0-0-0-22-ar04.pimaco.az.pima.comcast.net
+N6457	te-0-0-0-23-ar04.pimaco.az.pima.comcast.net
+N6457	te-0-7-0-22-ar04.pimaco.az.pima.comcast.net
+N6457	te-0-7-0-23-ar04.pimaco.az.pima.comcast.net
+N6457	te-1-1-ar02.pimaco.az.pima.comcast.net
+N6457	te-1-2-ar02.pimaco.az.pima.comcast.net
+N6457	te-1-3-ar02.pimaco.az.pima.comcast.net
+N6457	te-1-4-ar02.pimaco.az.pima.comcast.net
+
+
+
+
+N10580	te-6-1-ur06.rohnertpr.ca.sfba.comcast.net
+N10580	te-6-2-ur06.rohnertpr.ca.sfba.comcast.net
+N10580	te-6-3-ur06.rohnertpr.ca.sfba.comcast.net
+N10580	te-8-2-ur06.rohnertpr.ca.sfba.comcast.net
+N10580	te-8-4-ur06.rohnertpr.ca.sfba.comcast.net
+
+
+N10598	te-8-2-ur03.pinole.ca.sfba.comcast.net
+N10598	te-8-3-ur03.pinole.ca.sfba.comcast.net
+N10598	te-9-1-ur03.pinole.ca.sfba.comcast.net
+N10598	te-9-2-ur03.pinole.ca.sfba.comcast.net
+N10598	te-9-3-ur03.pinole.ca.sfba.comcast.net
+N10598	te-9-4-ur03.pinole.ca.sfba.comcast.net
+
+
+N10599	te-7-1-ur04.pinole.ca.sfba.comcast.net
+N10599	te-7-2-ur04.pinole.ca.sfba.comcast.net
+N10599	te-8-3-ur04.pinole.ca.sfba.comcast.net
+N10599	te-8-4-ur04.pinole.ca.sfba.comcast.net
+N10599	te-9-2-ur04.pinole.ca.sfba.comcast.net
+N10599	te-9-3-ur04.pinole.ca.sfba.comcast.net
+
+
+N10600	ge-1-1-ur02.pittsburg.ca.sfba.comcast.net
+N10600	te-5-4-ur02.pittsburg.ca.sfba.comcast.net
+N10600	te-7-1-ur02.pittsburg.ca.sfba.comcast.net
+N10600	te-7-2-ur02.pittsburg.ca.sfba.comcast.net
+N10600	te-9-1-ur02.pittsburg.ca.sfba.comcast.net
+N10600	te-9-4-ur02.pittsburg.ca.sfba.comcast.net
+
+
+N10601	te-4-1-ur01.sanrafael.ca.sfba.comcast.net
+N10601	te-4-2-ur01.sanrafael.ca.sfba.comcast.net
+N10601	te-4-3-ur01.sanrafael.ca.sfba.comcast.net
+N10601	te-8-1-ur01.sanrafael.ca.sfba.comcast.net
+N10601	te-8-3-ur01.sanrafael.ca.sfba.comcast.net
+N10601	te-8-5-ur01.sanrafael.ca.sfba.comcast.net
+
+
+N10602	te-4-1-ur03.walnutcreek.ca.sfba.comcast.net
+N10602	te-4-4-ur03.walnutcreek.ca.sfba.comcast.net
+N10602	te-9-1-ur03.walnutcreek.ca.sfba.comcast.net
+N10602	te-9-2-ur03.walnutcreek.ca.sfba.comcast.net
+N10602	te-9-3-ur03.walnutcreek.ca.sfba.comcast.net
+N10602	te-9-4-ur03.walnutcreek.ca.sfba.comcast.net
+
+
+N10603	te-4-1-ur04.walnutcreek.ca.sfba.comcast.net
+N10603	te-4-4-ur04.walnutcreek.ca.sfba.comcast.net
+N10603	te-9-1-ur04.walnutcreek.ca.sfba.comcast.net
+N10603	te-9-2-ur04.walnutcreek.ca.sfba.comcast.net
+N10603	te-9-3-ur04.walnutcreek.ca.sfba.comcast.net
+N10603	te-9-4-ur04.walnutcreek.ca.sfba.comcast.net
+
+
+N10604	te-7-3-ur01.monterey.ca.sfba.comcast.net
+N10604	te-7-4-ur01.monterey.ca.sfba.comcast.net
+N10604	te-8-7-ur01.monterey.ca.sfba.comcast.net
+N10604	te-9-1-ur01.monterey.ca.sfba.comcast.net
+N10604	te-9-2-ur01.monterey.ca.sfba.comcast.net
+N10604	te-9-3-ur01.monterey.ca.sfba.comcast.net
+
+
+N10605	te-7-3-ur02.monterey.ca.sfba.comcast.net
+N10605	te-7-4-ur02.monterey.ca.sfba.comcast.net
+N10605	te-8-1-ur02.monterey.ca.sfba.comcast.net
+N10605	te-8-2-ur02.monterey.ca.sfba.comcast.net
+N10605	te-8-3-ur02.monterey.ca.sfba.comcast.net
+N10605	te-8-4-ur02.monterey.ca.sfba.comcast.net
+
+
+N10623	pos-2-14-0-0-cr01.losangeles.ca.ibone.comcast.net
+
+
+N13058	ge-4-2-9-32767-sur01.sffolsom.ca.sfba.comcast.net
+N13058	ge-5-0-2-32767-sur01.sffolsom.ca.sfba.comcast.net
+N13058	ge-5-1-6-32767-sur01.sffolsom.ca.sfba.comcast.net
+N13058	xe-0-0-0-0-sur01.sffolsom.ca.sfba.comcast.net
+N13058	xe-11-0-0-0-sur01.sffolsom.ca.sfba.comcast.net
+
+
+N13060	te-8-2-ur01.toyon.ca.ccal.comcast.net
+N13060	xe-0-0-0-0-sur01.sacramento.ca.sacra.comcast.net
+
+
+N13068	ge-3-0-4-32767-sur01.pleasanton.ca.sfba.comcast.net
+N13068	ge-4-2-6-32767-sur01.pleasanton.ca.sfba.comcast.net
+N13068	xe-0-0-0-0-sur01.pleasanton.ca.sfba.comcast.net
+N13068	xe-0-3-0-32767-sur01.pleasanton.ca.sfba.comcast.net
+N13068	xe-11-0-0-0-sur01.pleasanton.ca.sfba.comcast.net
+
+
+N14119	te-7-1-ur02.sf19th.ca.sfba.comcast.net
+N14119	te-8-3-ur02.sf19th.ca.sfba.comcast.net
+N14119	te-8-4-ur02.sf19th.ca.sfba.comcast.net
+N14119	te-9-1-ur02.sf19th.ca.sfba.comcast.net
+N14119	te-9-4-ur02.sf19th.ca.sfba.comcast.net
+
+
+N14130	te-7-2-ur02.fairfield.ca.sfba.comcast.net
+N14130	te-7-3-ur02.fairfield.ca.sfba.comcast.net
+N14130	te-7-4-ur02.fairfield.ca.sfba.comcast.net
+N14130	te-8-1-ur02.fairfield.ca.sfba.comcast.net
+N14130	te-8-4-ur02.fairfield.ca.sfba.comcast.net
+
+
+N14139	xe-3-0-0-0-ur12-d.emeryville.ca.oakl3.comcast.net
+N14139	xe-3-1-0-0-ur12-d.emeryville.ca.oakl3.comcast.net
+N14139	xe-3-2-0-0-ur12-d.emeryville.ca.oakl3.comcast.net
+N14139	xe-8-1-0-0-ur12-d.emeryville.ca.oakl3.comcast.net
+N14139	xe-8-3-0-0-ur12-d.emeryville.ca.oakl3.comcast.net
+
+
+N14168	te-0-0-0-1-ur16.sanjose.ca.sfba.comcast.net
+N14168	te-0-0-0-2-ur16.sanjose.ca.sfba.comcast.net
+N14168	te-0-0-0-3-ur16.sanjose.ca.sfba.comcast.net
+N14168	te-0-7-0-21-ur16.sanjose.ca.sfba.comcast.net
+N14168	te-0-7-0-22-ur16.sanjose.ca.sfba.comcast.net
+
+
+N16980	as40428-1-c.529bryant.ca.ibone.comcast.net
+
+
+N20328	te-7-1-ur01.sf19th.ca.sfba.comcast.net
+N20328	te-8-3-ur01.sf19th.ca.sfba.comcast.net
+N20328	te-8-4-ur01.sf19th.ca.sfba.comcast.net
+N20328	te-9-4-ur01.sf19th.ca.sfba.comcast.net
+
+
+N20363	te-4-4-ur01.shaw.ca.ccal.comcast.net
+N20363	te-7-4-ur01.shaw.ca.ccal.comcast.net
+N20363	te-8-2-ur01.shaw.ca.ccal.comcast.net
+N20363	te-9-3-ur01.shaw.ca.ccal.comcast.net
+
+
+N20364	te-7-2-ur01.pinedale.ca.ccal.comcast.net
+N20364	te-7-4-ur01.pinedale.ca.ccal.comcast.net
+N20364	te-9-1-ur01.pinedale.ca.ccal.comcast.net
+N20364	te-9-3-ur01.pinedale.ca.ccal.comcast.net
+
+
+N20369	te-8-1-ur02.sffolsom.ca.sfba.comcast.net
+N20369	te-8-3-ur02.sffolsom.ca.sfba.comcast.net
+N20369	te-9-3-ur02.sffolsom.ca.sfba.comcast.net
+N20369	te-9-4-ur02.sffolsom.ca.sfba.comcast.net
+
+
+N20370	te-7-1-ur01.pittsburg.ca.sfba.comcast.net
+N20370	te-7-2-ur01.pittsburg.ca.sfba.comcast.net
+N20370	te-9-4-ur01.pittsburg.ca.sfba.comcast.net
+
+
+N20371	te-7-2-ur01.fairfield.ca.sfba.comcast.net
+N20371	te-7-3-ur01.fairfield.ca.sfba.comcast.net
+N20371	te-8-1-ur01.fairfield.ca.sfba.comcast.net
+N20371	te-8-4-ur01.fairfield.ca.sfba.comcast.net
+
+
+N20394	te-7-2-ur01.tracy.ca.ccal.comcast.net
+N20394	te-7-4-ur01.tracy.ca.ccal.comcast.net
+N20394	te-9-2-ur01.tracy.ca.ccal.comcast.net
+N20394	te-9-3-ur01.tracy.ca.ccal.comcast.net
+
+
+N20395	xe-3-1-0-0-ur11-d.emeryville.ca.oakl3.comcast.net
+N20395	xe-7-1-0-0-ur11-d.emeryville.ca.oakl3.comcast.net
+N20395	xe-8-0-0-0-ur11-d.emeryville.ca.oakl3.comcast.net
+N20395	xe-8-1-0-0-ur11-d.emeryville.ca.oakl3.comcast.net
+
+
+N20483	te-7-3-ur01.scotts.ca.sfba.comcast.net
+N20483	te-8-1-ur01.scotts.ca.sfba.comcast.net
+N20483	te-8-2-ur01.scotts.ca.sfba.comcast.net
+
+
+N20484	te-7-3-ur02.scotts.ca.sfba.comcast.net
+N20484	te-8-3-ur02.scotts.ca.sfba.comcast.net
+N20484	te-9-2-ur02.scotts.ca.sfba.comcast.net
+N20484	te-9-3-ur02.scotts.ca.sfba.comcast.net
+
+
+N20569	c-69-139-227-222.hsd1.ca.comcast.net
+
+
+N2367	c-69-139-227-37.hsd1.ca.comcast.net
+
+
+N2646	te-0-0-0-14-ur07.pinole.ca.sfba.comcast.net
+N2646	te-0-0-0-23-sur03.fremont.ca.sfba.comcast.net
+N2646	te-0-0-0-9-ur07.pinole.ca.sfba.comcast.net
+
+
+N27717	xe-0-0-0-0-sur01.sfpine.ca.sfba.comcast.net
+N27717	xe-11-0-0-0-sur01.sfpine.ca.sfba.comcast.net
+
+
+N2853	as22822-8.11greatoaks.ca.ibone.comcast.net
+N2853	as22822-9.11greatoaks.ca.ibone.comcast.net
+
+
+N28705	ae-12-0-sur01.sfsutro.ca.sfba.comcast.net
+N28705	ae-13-32767-sur01.sfsutro.ca.sfba.comcast.net
+N28705	xe-11-0-0-0-sur01.sfsutro.ca.sfba.comcast.net
+
+
+N28706	ge-3-0-4-32767-sur01.santaclara.ca.sfba.comcast.net
+N28706	xe-0-0-0-0-sur01.santaclara.ca.sfba.comcast.net
+N28706	xe-11-0-0-0-sur01.santaclara.ca.sfba.comcast.net
+
+
+N28713	xe-0-0-0-0-sur01.castrovalley.ca.sfba.comcast.net
+N28713	xe-11-0-0-0-sur01.castrovalley.ca.sfba.comcast.net
+
+
+N28714	ge-4-0-7-32767-sur01.fremont.ca.sfba.comcast.net
+N28714	xe-0-0-0-0-sur01.fremont.ca.sfba.comcast.net
+N28714	xe-11-0-0-0-sur01.fremont.ca.sfba.comcast.net
+
+
+N28726	ge-4-1-9-32767-sur01.rohnertpr.ca.sfba.comcast.net
+N28726	xe-0-0-0-0-sur01.rohnertpr.ca.sfba.comcast.net
+N28726	xe-11-0-0-0-sur01.rohnertpr.ca.sfba.comcast.net
+
+
+N28753	xe-0-0-0-0-sur01.sanjose.ca.sfba.comcast.net
+N28753	xe-11-0-0-0-sur01.sanjose.ca.sfba.comcast.net
+
+
+N2931	as1239.11greatoaks.ca.ibone.comcast.net
+
+
+N2961	te-0-0-0-15-ur07.pinole.ca.sfba.comcast.net
+N2961	te-0-0-0-19-ur07.pinole.ca.sfba.comcast.net
+N2961	te-9-2-ur01.pittsburg.ca.sfba.comcast.net
+
+
+N2963	metainterfaces-cr01.sanjose.ca.ibone.comcast.net
+N2963	pos-3-10-0-0-cr01.sanjose.ca.ibone.comcast.net
+
+
+N31647	as40428-1-c.11greatoaks.ca.ibone.comcast.net
+
+
+N31916	te-7-3-ur01.sfpine.ca.sfba.comcast.net
+N31916	te-8-3-ur01.sfpine.ca.sfba.comcast.net
+N31916	te-8-4-ur01.sfpine.ca.sfba.comcast.net
+
+
+N31917	te-7-3-ur02.sfpine.ca.sfba.comcast.net
+N31917	te-8-3-ur02.sfpine.ca.sfba.comcast.net
+N31917	te-8-4-ur02.sfpine.ca.sfba.comcast.net
+
+
+N31918	te-7-1-ur01.sfmission.ca.sfba.comcast.net
+N31918	te-9-1-ur01.sfmission.ca.sfba.comcast.net
+N31918	te-9-4-ur01.sfmission.ca.sfba.comcast.net
+
+
+N31919	te-7-1-ur02.sfmission.ca.sfba.comcast.net
+N31919	te-9-3-ur02.sfmission.ca.sfba.comcast.net
+N31919	te-9-4-ur02.sfmission.ca.sfba.comcast.net
+
+
+N31920	te-8-1-ur01.napa.ca.sfba.comcast.net
+N31920	te-8-4-ur01.napa.ca.sfba.comcast.net
+N31920	te-9-4-ur01.napa.ca.sfba.comcast.net
+
+
+N31921	te-8-1-ur02.napa.ca.sfba.comcast.net
+N31921	te-8-4-ur02.napa.ca.sfba.comcast.net
+N31921	te-9-4-ur02.napa.ca.sfba.comcast.net
+
+
+N31933	ge-4-1-5-32767-sur01.dalycity.ca.sfba.comcast.net
+N31933	xe-0-0-0-0-sur01.dalycity.ca.sfba.comcast.net
+N31933	xe-11-0-0-0-sur01.dalycity.ca.sfba.comcast.net
+
+
+N31934	ge-4-3-7-32767-sur01.walnutcreek.ca.sfba.comcast.net
+N31934	xe-0-0-0-0-sur01.walnutcreek.ca.sfba.comcast.net
+N31934	xe-11-0-0-0-sur01.walnutcreek.ca.sfba.comcast.net
+
+
+N31935	ge-4-0-8-32767-sur01.sfgeary.ca.sfba.comcast.net
+N31935	xe-0-0-0-0-sur01.sfgeary.ca.sfba.comcast.net
+N31935	xe-11-0-0-0-sur01.sfgeary.ca.sfba.comcast.net
+
+
+N31946	te-5-3-ur01.yubacity.ca.ccal.comcast.net
+N31946	te-9-1-ur01.yubacity.ca.ccal.comcast.net
+N31946	te-9-3-ur01.yubacity.ca.ccal.comcast.net
+
+
+N31952	te-6-1-ur01.santamaria.ca.sfba.comcast.net
+N31952	te-6-3-ur01.santamaria.ca.sfba.comcast.net
+N31952	te-8-2-ur01.santamaria.ca.sfba.comcast.net
+
+
+N31953	te-8-1-ur01.sfgeary.ca.sfba.comcast.net
+N31953	te-8-4-ur01.sfgeary.ca.sfba.comcast.net
+N31953	te-9-4-ur01.sfgeary.ca.sfba.comcast.net
+
+
+N31954	te-8-1-ur02.sfgeary.ca.sfba.comcast.net
+N31954	te-8-4-ur02.sfgeary.ca.sfba.comcast.net
+N31954	te-9-4-ur02.sfgeary.ca.sfba.comcast.net
+
+
+N31955	te-8-3-ur01.sffolsom.ca.sfba.comcast.net
+N31955	te-8-4-ur01.sffolsom.ca.sfba.comcast.net
+N31955	te-9-3-ur01.sffolsom.ca.sfba.comcast.net
+
+
+N31956	te-8-1-ur01.sfsutro.ca.sfba.comcast.net
+N31956	te-9-1-ur01.sfsutro.ca.sfba.comcast.net
+N31956	te-9-2-ur01.sfsutro.ca.sfba.comcast.net
+
+
+N31957	ge-1-10-ur01.castrovalley.ca.sfba.comcast.net
+N31957	te-9-2-ur01.castrovalley.ca.sfba.comcast.net
+N31957	te-9-4-ur01.castrovalley.ca.sfba.comcast.net
+
+
+N31958	te-0-0-0-0-ur15.sanjose.ca.sfba.comcast.net
+N31958	te-0-0-0-1-ur15.sanjose.ca.sfba.comcast.net
+N31958	te-0-0-0-2-ur15.sanjose.ca.sfba.comcast.net
+
+
+N32037	te-8-1-ur02.sfsutro.ca.sfba.comcast.net
+N32037	te-9-1-ur02.sfsutro.ca.sfba.comcast.net
+N32037	te-9-2-ur02.sfsutro.ca.sfba.comcast.net
+
+
+N32076	te-6-1-ur02.yubacity.ca.ccal.comcast.net
+N32076	te-8-1-ur02.yubacity.ca.ccal.comcast.net
+N32076	te-8-4-ur02.yubacity.ca.ccal.comcast.net
+
+
+N32092	as4766-pe01.600wseventh.ca.ibone.comcast.net
+
+
+N32189	as30094-1-c.600wseventh.ca.ibone.comcast.net
+
+
+N3346	te-0-0-0-0-sur03.hayward.ca.sfba.comcast.net
+N3346	te-0-0-0-1-sur03.hayward.ca.sfba.comcast.net
+N3346	te-0-0-0-2-sur03.hayward.ca.sfba.comcast.net
+N3346	te-0-0-0-3-sur03.hayward.ca.sfba.comcast.net
+N3346	te-0-0-0-4-sur03.hayward.ca.sfba.comcast.net
+N3346	te-0-0-0-5-sur03.hayward.ca.sfba.comcast.net
+N3346	te-0-7-0-22-sur03.hayward.ca.sfba.comcast.net
+N3346	te-0-7-0-23-sur03.hayward.ca.sfba.comcast.net
+
+
+N3347	te-0-7-0-21-ur08.rohnertpr.ca.sfba.comcast.net
+N3347	te-0-7-0-22-ur08.rohnertpr.ca.sfba.comcast.net
+N3347	te-0-7-0-23-ur08.rohnertpr.ca.sfba.comcast.net
+N3347	te-8-2-ur06.rohnertpr.ca.sfba.comcast.net
+N3347	te-9-1-ur06.rohnertpr.ca.sfba.comcast.net
+
+
+N3349	te0-1-0-0-ar02-d.emeryville.ca.oakl3.comcast.net
+
+
+N3817	be-10-405-pe01.600wseventh.ca.ibone.comcast.net
+N3817	pos-0-0-0-0-pe01.600wseventh.ca.ibone.comcast.net
+N3817	pos-0-2-0-0-pe01.600wseventh.ca.ibone.comcast.net
+N3817	pos-0-3-0-0-pe01.600wseventh.ca.ibone.comcast.net
+N3817	te-0-13-0-4-pe01.600wseventh.ca.ibone.comcast.net
+
+
+N4158	as12989-1-c.600wseventh.ca.ibone.comcast.net
+
+
+N4430	te-0-0-0-0-sur04.dalycity.ca.sfba.comcast.net
+N4430	te-0-0-0-1-sur04.dalycity.ca.sfba.comcast.net
+N4430	te-0-0-0-10-ur08.pleasanton.ca.sfba.comcast.net
+N4430	te-0-0-0-13-ur07.pinole.ca.sfba.comcast.net
+N4430	te-0-0-0-2-sur04.dalycity.ca.sfba.comcast.net
+N4430	te-0-0-0-3-sur04.dalycity.ca.sfba.comcast.net
+N4430	te-0-0-0-9-ur08.pleasanton.ca.sfba.comcast.net
+
+
+N4431	te-0-0-0-0-ur07.rohnertpr.ca.sfba.comcast.net
+N4431	te-0-0-0-1-ur07.rohnertpr.ca.sfba.comcast.net
+N4431	te-0-0-0-2-ur07.rohnertpr.ca.sfba.comcast.net
+N4431	te-0-7-0-22-ur07.rohnertpr.ca.sfba.comcast.net
+N4431	te-6-3-ur05.rohnertpr.ca.sfba.comcast.net
+N4431	te-8-2-ur05.rohnertpr.ca.sfba.comcast.net
+N4431	te-8-4-ur05.rohnertpr.ca.sfba.comcast.net
+N4431	te-9-1-ur05.rohnertpr.ca.sfba.comcast.net
+
+
+N4432	be-60-ar03.sacramento.ca.sacra.comcast.net
+N4432	te-0-4-0-0-ar03.sacramento.ca.sacra.comcast.net
+
+
+N4434	be-20-pe02.529bryant.ca.ibone.comcast.net
+N4434	be-21-pe02.529bryant.ca.ibone.comcast.net
+N4434	be-22-pe02.529bryant.ca.ibone.comcast.net
+N4434	be-23-pe02.529bryant.ca.ibone.comcast.net
+N4434	be-24-pe02.529bryant.ca.ibone.comcast.net
+N4434	be-25-pe02.529bryant.ca.ibone.comcast.net
+N4434	be-26-pe02.529bryant.ca.ibone.comcast.net
+N4434	be-27-pe02.529bryant.ca.ibone.comcast.net
+
+
+N5257	as6461.11greatoaks.ca.ibone.comcast.net
+
+
+N5325	te-0-0-0-0-sur03.sanmateo.ca.sfba.comcast.net
+N5325	te-0-0-0-1-sur03.sanmateo.ca.sfba.comcast.net
+N5325	te-0-0-0-2-sur03.sanmateo.ca.sfba.comcast.net
+N5325	te-0-0-0-3-sur03.sanmateo.ca.sfba.comcast.net
+N5325	te-0-0-0-4-sur03.sanmateo.ca.sfba.comcast.net
+N5325	te-0-0-0-5-sur03.sanmateo.ca.sfba.comcast.net
+N5325	te-0-0-0-6-sur03.sanmateo.ca.sfba.comcast.net
+N5325	te-0-0-0-7-sur03.sanmateo.ca.sfba.comcast.net
+N5325	te-0-7-0-23-sur03.sanmateo.ca.sfba.comcast.net
+
+
+N5326	te-0-0-0-0-sur04.sanmateo.ca.sfba.comcast.net
+N5326	te-0-0-0-17-ur07.pinole.ca.sfba.comcast.net
+N5326	te-0-0-0-18-ur07.pinole.ca.sfba.comcast.net
+N5326	te-0-0-0-2-sur04.sanmateo.ca.sfba.comcast.net
+N5326	te-0-0-0-3-sur04.sanmateo.ca.sfba.comcast.net
+N5326	te-0-0-0-4-sur04.sanmateo.ca.sfba.comcast.net
+N5326	te-0-0-0-5-sur04.sanmateo.ca.sfba.comcast.net
+N5326	te-0-7-0-19-sur04.sanmateo.ca.sfba.comcast.net
+N5326	te-0-7-0-23-sur04.sanmateo.ca.sfba.comcast.net
+
+
+N5363	as8075-1-c.529bryant.ca.ibone.comcast.net
+
+
+N6446	te-0-0-0-0-sur03.dalycity.ca.sfba.comcast.net
+N6446	te-0-0-0-1-sur03.dalycity.ca.sfba.comcast.net
+N6446	te-0-0-0-18-ur08.pinole.ca.sfba.comcast.net
+N6446	te-0-0-0-3-sur03.dalycity.ca.sfba.comcast.net
+N6446	te-0-0-0-7-ur07.pinole.ca.sfba.comcast.net
+N6446	te-0-0-0-7-ur08.pinole.ca.sfba.comcast.net
+N6446	te-9-3-ur01.pleasanton.ca.sfba.comcast.net
+
+
+N6447	te-5-1-ur01.oakland.ca.sfba.comcast.net
+N6447	te-5-2-ur01.oakland.ca.sfba.comcast.net
+N6447	te-5-3-ur01.oakland.ca.sfba.comcast.net
+N6447	te-5-4-ur01.oakland.ca.sfba.comcast.net
+N6447	te-8-1-ur01.oakland.ca.sfba.comcast.net
+N6447	te-8-2-ur01.oakland.ca.sfba.comcast.net
+
+
+N6448	te-5-1-ur02.oakland.ca.sfba.comcast.net
+N6448	te-5-2-ur02.oakland.ca.sfba.comcast.net
+N6448	te-5-3-ur02.oakland.ca.sfba.comcast.net
+N6448	te-5-4-ur02.oakland.ca.sfba.comcast.net
+N6448	te-8-1-ur02.oakland.ca.sfba.comcast.net
+N6448	te-8-2-ur02.oakland.ca.sfba.comcast.net
+N6448	te-8-3-ur02.oakland.ca.sfba.comcast.net
+N6448	te-8-4-ur02.oakland.ca.sfba.comcast.net
+
+
+N6454	he-1-11-0-0-cr01.losangeles.ca.ibone.comcast.net
+N6454	he-1-12-0-0-cr01.losangeles.ca.ibone.comcast.net
+N6454	he-1-13-0-0-cr01.losangeles.ca.ibone.comcast.net
+
+
+N7736	as4258-1-c.onewilshire.ca.ibone.comcast.net
+
+
+N7867	ae-15-0-sur01.sanmateo.ca.sfba.comcast.net
+N7867	ae-16-0-sur01.sanmateo.ca.sfba.comcast.net
+N7867	ge-3-1-7-32767-sur01.sanmateo.ca.sfba.comcast.net
+N7867	ge-3-3-1-32767-sur01.sanmateo.ca.sfba.comcast.net
+N7867	ge-6-0-0-32767-sur01.sanmateo.ca.sfba.comcast.net
+N7867	ge-6-3-4-32767-sur01.sanmateo.ca.sfba.comcast.net
+
+
+N8330	te-6-1-ur05.rohnertpr.ca.sfba.comcast.net
+N8330	te-6-2-ur05.rohnertpr.ca.sfba.comcast.net
+N8330	te-6-3-ur05.rohnertpr.ca.sfba.comcast.net
+N8330	te-8-2-ur05.rohnertpr.ca.sfba.comcast.net
+N8330	te-8-3-ur05.rohnertpr.ca.sfba.comcast.net
+N8330	te-8-4-ur05.rohnertpr.ca.sfba.comcast.net
+N8330	te-9-1-ur05.rohnertpr.ca.sfba.comcast.net
+
+
+N8336	te-4-1-ur02.sanrafael.ca.sfba.comcast.net
+N8336	te-4-2-ur02.sanrafael.ca.sfba.comcast.net
+N8336	te-8-1-ur02.sanrafael.ca.sfba.comcast.net
+N8336	te-8-4-ur02.sanrafael.ca.sfba.comcast.net
+N8336	te-8-6-ur02.sanrafael.ca.sfba.comcast.net
+N8336	te-8-8-ur02.sanrafael.ca.sfba.comcast.net
+
+
+N8344	he-0-10-0-0-pe03.11greatoaks.ca.ibone.comcast.net
+N8344	he-0-10-0-1-pe03.11greatoaks.ca.ibone.comcast.net
+N8344	he-0-11-0-0-pe03.11greatoaks.ca.ibone.comcast.net
+N8344	he-0-11-0-1-pe03.11greatoaks.ca.ibone.comcast.net
+
+
+
+
+N10614	ge-5-44-ur01.englewood.co.denver.comcast.net
+N10614	te-8-4-ur01.englewood.co.denver.comcast.net
+N10614	te-9-2-ur01.englewood.co.denver.comcast.net
+N10614	te-9-3-ur01.englewood.co.denver.comcast.net
+N10614	te-9-7-ur01.englewood.co.denver.comcast.net
+N10614	te-9-8-ur01.englewood.co.denver.comcast.net
+
+
+N10623	he-0-6-0-0-cr01.denverqwest.co.ibone.comcast.net
+N10623	he-0-7-0-0-cr01.denverqwest.co.ibone.comcast.net
+N10623	he-1-1-1-cr01.1601milehigh.co.ibone.comcast.net
+N10623	he-2-1-1-cr01.1601milehigh.co.ibone.comcast.net
+
+
+N10626	he-0-15-0-0-ar02.aurora.co.denver.comcast.net
+N10626	he-0-6-0-0-ar02.aurora.co.denver.comcast.net
+N10626	he-0-8-0-0-ar02.aurora.co.denver.comcast.net
+N10626	he-0-9-0-0-ar02.aurora.co.denver.comcast.net
+N10626	pos-0-1-0-0-ar02.aurora.co.denver.comcast.net
+N10626	pos-0-7-0-0-ar02.aurora.co.denver.comcast.net
+
+
+N10627	he-0-15-0-0-ar02.denver.co.denver.comcast.net
+N10627	he-0-6-0-0-ar02.denver.co.denver.comcast.net
+N10627	he-0-8-0-0-ar02.denver.co.denver.comcast.net
+N10627	he-0-9-0-0-ar02.denver.co.denver.comcast.net
+N10627	pos-0-1-0-0-ar02.denver.co.denver.comcast.net
+N10627	pos-0-7-0-0-ar02.denver.co.denver.comcast.net
+
+
+N10633	te-5-4-ur01.wheatridge.co.denver.comcast.net
+N10633	te-5-5-ur01.wheatridge.co.denver.comcast.net
+N10633	te-7-2-ur01.wheatridge.co.denver.comcast.net
+N10633	te-7-3-ur01.wheatridge.co.denver.comcast.net
+N10633	te-9-1-ur01.wheatridge.co.denver.comcast.net
+N10633	te-9-3-ur01.wheatridge.co.denver.comcast.net
+
+
+N11767	te-0-3-0-0-ur06-d.potomac.co.ndcwest.comcast.net
+N11767	te-0-3-0-1-ur06-d.potomac.co.ndcwest.comcast.net
+N11767	te-0-3-0-11-ur06-d.potomac.co.ndcwest.comcast.net
+
+
+N13065	ge-1-2-7-32767-sur01.wheatridge.co.denver.comcast.net
+N13065	ge-1-2-8-32767-sur01.wheatridge.co.denver.comcast.net
+N13065	xe-0-0-0-0-sur01.wheatridge.co.denver.comcast.net
+N13065	xe-0-2-0-32767-sur01.wheatridge.co.denver.comcast.net
+N13065	xe-11-0-0-0-sur01.wheatridge.co.denver.comcast.net
+
+
+N13071	ge-1-1-9-32767-ar03.denver.co.denver.comcast.net
+N13071	xe-0-0-0-0-ar03.denver.co.denver.comcast.net
+N13071	xe-3-3-0-0-ar03.denver.co.denver.comcast.net
+N13071	xe-9-0-0-32767-ar03.denver.co.denver.comcast.net
+
+
+N14125	te-0-0-0-0-ur12.denver.co.denver.comcast.net
+N14125	te-0-0-0-2-ur12.denver.co.denver.comcast.net
+N14125	te-0-0-0-3-ur12.denver.co.denver.comcast.net
+
+
+N17859	ge-10-0-3-32767-sur01.englewood.co.denver.comcast.net
+N17859	ge-2-2-6-32767-sur01.englewood.co.denver.comcast.net
+N17859	xe-0-0-0-0-sur01.englewood.co.denver.comcast.net
+N17859	xe-11-0-0-0-sur01.englewood.co.denver.comcast.net
+
+
+N17861	ge-1-0-4-32767-sur01.boulder.co.denver.comcast.net
+N17861	ge-2-3-6-32767-sur01.boulder.co.denver.comcast.net
+N17861	xe-0-0-0-0-sur01.boulder.co.denver.comcast.net
+N17861	xe-11-0-0-0-sur01.boulder.co.denver.comcast.net
+
+
+N20430	te-8-3-ur02.englewood.co.denver.comcast.net
+N20430	te-9-3-ur02.englewood.co.denver.comcast.net
+N20430	te-9-7-ur02.englewood.co.denver.comcast.net
+
+
+N20432	te-4-1-ur01.denver.co.denver.comcast.net
+N20432	te-4-8-ur01.denver.co.denver.comcast.net
+N20432	te-8-1-ur01.denver.co.denver.comcast.net
+N20432	te-9-1-ur01.denver.co.denver.comcast.net
+
+
+N20433	te-7-3-ur01.fortcollins.co.denver.comcast.net
+N20433	te-8-4-ur01.fortcollins.co.denver.comcast.net
+N20433	te-9-2-ur01.fortcollins.co.denver.comcast.net
+N20433	te-9-4-ur01.fortcollins.co.denver.comcast.net
+
+
+N20434	ge-6-2-ur02.longmont.co.denver.comcast.net
+N20434	te-5-1-ur02.longmont.co.denver.comcast.net
+N20434	te-7-1-ur02.longmont.co.denver.comcast.net
+N20434	te-9-3-ur02.longmont.co.denver.comcast.net
+
+
+N20443	xe-0-0-0-0-sur03.arvada.co.denver.comcast.net
+N20443	xe-10-0-0-0-sur03.arvada.co.denver.comcast.net
+N20443	xe-10-0-2-0-sur03.arvada.co.denver.comcast.net
+N20443	xe-10-0-3-0-sur03.arvada.co.denver.comcast.net
+
+
+N20444	xe-0-0-0-0-sur02.arvada.co.denver.comcast.net
+N20444	xe-10-0-0-0-sur02.arvada.co.denver.comcast.net
+N20444	xe-10-0-1-0-sur02.arvada.co.denver.comcast.net
+N20444	xe-10-0-3-0-sur02.arvada.co.denver.comcast.net
+
+
+N20445	xe-0-0-1-0-sur01.denver.co.denver.comcast.net
+N20445	xe-10-1-0-0-sur01.denver.co.denver.comcast.net
+N20445	xe-10-1-1-0-sur01.denver.co.denver.comcast.net
+N20445	xe-10-1-2-0-sur01.denver.co.denver.comcast.net
+
+
+N20446	xe-0-0-1-0-sur02.denver.co.denver.comcast.net
+N20446	xe-10-1-0-0-sur02.denver.co.denver.comcast.net
+N20446	xe-10-1-1-0-sur02.denver.co.denver.comcast.net
+N20446	xe-10-1-2-0-sur02.denver.co.denver.comcast.net
+
+
+N20447	xe-0-0-0-0-sur03.littleton.co.denver.comcast.net
+N20447	xe-10-1-2-0-sur03.littleton.co.denver.comcast.net
+N20447	xe-10-1-3-0-sur03.littleton.co.denver.comcast.net
+
+
+N20569	te-0-3-0-0-ur05-d.potomac.co.ndcwest.comcast.net
+N20569	te-0-3-0-1-ur05-d.potomac.co.ndcwest.comcast.net
+
+
+N2367	te-0-0-0-0-ar01-d.potomac.co.ndcwest.comcast.net
+N2367	te-0-0-0-1-ar01-d.potomac.co.ndcwest.comcast.net
+N2367	te-0-0-0-2-ar01-d.potomac.co.ndcwest.comcast.net
+N2367	te-0-0-0-3-ar01-d.potomac.co.ndcwest.comcast.net
+N2367	te-0-6-0-0-ar01-d.potomac.co.ndcwest.comcast.net
+N2367	te-0-6-0-1-ar01-d.potomac.co.ndcwest.comcast.net
+N2367	te-0-6-0-2-ar01-d.potomac.co.ndcwest.comcast.net
+N2367	te-0-6-0-3-ar01-d.potomac.co.ndcwest.comcast.net
+
+
+N28737	ge-1-0-0-32767-sur01.longmont.co.denver.comcast.net
+N28737	xe-0-0-0-0-sur01.longmont.co.denver.comcast.net
+N28737	xe-11-0-0-0-sur01.longmont.co.denver.comcast.net
+
+
+N28750	xe-0-0-0-0-sur01.cosprings.co.denver.comcast.net
+N28750	xe-11-0-0-0-sur01.cosprings.co.denver.comcast.net
+
+
+N32022	te-5-8-ur01.boulder.co.denver.comcast.net
+N32022	te-7-2-ur01.boulder.co.denver.comcast.net
+N32022	te-9-3-ur01.boulder.co.denver.comcast.net
+
+
+N32023	te-5-5-ur02.wheatridge.co.denver.comcast.net
+N32023	te-7-3-ur02.wheatridge.co.denver.comcast.net
+N32023	te-9-3-ur02.wheatridge.co.denver.comcast.net
+
+
+N32024	te-4-1-ur02.denver.co.denver.comcast.net
+N32024	te-4-8-ur02.denver.co.denver.comcast.net
+N32024	te-8-1-ur02.denver.co.denver.comcast.net
+
+
+N32025	ge-1-1-ur03.denver.co.denver.comcast.net
+N32025	ge-2-1-ur03.denver.co.denver.comcast.net
+N32025	te-9-1-ur03.denver.co.denver.comcast.net
+
+
+N32034	ge-5-1-ur04-d.cmc.co.ndcwest.comcast.net
+N32034	ge-6-1-ur04-d.cmc.co.ndcwest.comcast.net
+N32034	te-4-4-ur04-d.cmc.co.ndcwest.comcast.net
+
+
+N4437	te-0-0-0-0-ar01-d.cmc.co.ndcwest.comcast.net
+N4437	te-0-0-0-1-ar01-d.cmc.co.ndcwest.comcast.net
+N4437	te-0-0-0-2-ar01-d.cmc.co.ndcwest.comcast.net
+N4437	te-0-0-0-3-ar01-d.cmc.co.ndcwest.comcast.net
+N4437	te-0-1-0-0-ar01-d.cmc.co.ndcwest.comcast.net
+N4437	te-0-1-0-1-ar01-d.cmc.co.ndcwest.comcast.net
+N4437	te-0-1-0-2-ar01-d.cmc.co.ndcwest.comcast.net
+N4437	te-0-1-0-3-ar01-d.cmc.co.ndcwest.comcast.net
+
+
+N6443	te-0-0-0-0-ur11.denver.co.denver.comcast.net
+N6443	te-0-0-0-2-ur11.denver.co.denver.comcast.net
+N6443	te-0-0-0-3-ur11.denver.co.denver.comcast.net
+N6443	te-0-7-0-0-ur11.denver.co.denver.comcast.net
+
+
+N6454	pos-3-14-0-0-cr01.denver.co.ibone.comcast.net
+
+
+N8345	he-0-12-0-0-cr01.denverqwest.co.ibone.comcast.net
+N8345	he-0-13-0-0-cr01.denverqwest.co.ibone.comcast.net
+N8345	he-0-14-0-0-cr01.denverqwest.co.ibone.comcast.net
+N8345	he-0-15-0-0-cr01.denverqwest.co.ibone.comcast.net
+N8345	he-0-2-0-0-cr01.denverqwest.co.ibone.comcast.net
+N8345	he-0-3-0-0-cr01.denverqwest.co.ibone.comcast.net
+N8345	he-0-8-0-0-cr01.denverqwest.co.ibone.comcast.net
+
+
+N8350	te-0-0-0-0-ar02-d.cmc.co.ndcwest.comcast.net
+N8350	te-0-0-0-2-ar02-d.cmc.co.ndcwest.comcast.net
+N8350	te-0-0-0-3-ar02-d.cmc.co.ndcwest.comcast.net
+N8350	te-0-6-0-0-ar02-d.cmc.co.ndcwest.comcast.net
+N8350	te-0-6-0-1-ar02-d.cmc.co.ndcwest.comcast.net
+N8350	te-0-6-0-2-ar02-d.cmc.co.ndcwest.comcast.net
+N8350	te-0-6-0-3-ar02-d.cmc.co.ndcwest.comcast.net
+
+
+N9731	ge-1-1-4-32767-sur01.arvada.co.denver.comcast.net
+N9731	xe-0-0-0-0-sur01.arvada.co.denver.comcast.net
+N9731	xe-11-0-0-0-sur01.arvada.co.denver.comcast.net
+
+
+
+
+N20422	isc-comcast.ord1.comcast.net
+
+
+
+
+N17289	te-0-7-0-4-3607-sur01.westhaven.ct.hartford.comcast.net
+
+
+N17846	be-55-sur01.bristol.ct.hartford.comcast.net
+N17846	be-56-sur01.bristol.ct.hartford.comcast.net
+N17846	te-0-2-0-0-4000-sur01.bristol.ct.hartford.comcast.net
+
+
+N28720	ge-0-3-1-0-3815-sur01.chartford.ct.hartford.comcast.net
+N28720	ge-0-3-2-1-3101-sur01.chartford.ct.hartford.comcast.net
+N28720	te-0-0-0-0-sur01.chartford.ct.hartford.comcast.net
+
+
+N31910	ge-0-6-0-0-3100-sur01.wallingford.ct.hartford.comcast.net
+N31910	te-0-0-0-0-sur01.wallingford.ct.hartford.comcast.net
+N31910	te-0-7-0-0-sur01.wallingford.ct.hartford.comcast.net
+
+
+N32277	te-0-0-0-0-sur01.hamden.ct.hartford.comcast.net
+N32277	te-0-0-0-1-sur01.hamden.ct.hartford.comcast.net
+N32277	te-0-0-0-2-sur01.hamden.ct.hartford.comcast.net
+
+
+N8337	pos-0-0-0-0-ar01.chartford.ct.hartford.comcast.net
+N8337	pos-0-1-0-0-ar01.chartford.ct.hartford.comcast.net
+N8337	pos-0-14-0-0-ar01.chartford.ct.hartford.comcast.net
+N8337	pos-0-15-0-0-ar01.chartford.ct.hartford.comcast.net
+N8337	pos-0-2-0-0-ar01.chartford.ct.hartford.comcast.net
+N8337	pos-0-8-0-0-ar01.chartford.ct.hartford.comcast.net
+
+
+N8351	pos-0-0-0-0-ar01.berlin.ct.hartford.comcast.net
+N8351	pos-0-1-0-0-ar01.berlin.ct.hartford.comcast.net
+N8351	pos-0-14-0-0-ar01.berlin.ct.hartford.comcast.net
+N8351	pos-0-15-0-0-ar01.berlin.ct.hartford.comcast.net
+N8351	pos-0-2-0-0-ar01.berlin.ct.hartford.comcast.net
+N8351	pos-0-8-0-0-ar01.berlin.ct.hartford.comcast.net
+
+
+
+
+N31945	ae-0-0-sur01.floridaave.dc.bad.comcast.net
+N31945	ge-10-1-9-32767-sur01.floridaave.dc.bad.comcast.net
+N31945	xe-5-3-0-0-sur01.floridaave.dc.bad.comcast.net
+
+
+N32063	te-7-2-ur01.floridaave.dc.bad.comcast.net
+N32063	te-7-3-ur01.floridaave.dc.bad.comcast.net
+N32063	te-9-4-ur01.floridaave.dc.bad.comcast.net
+
+
+N32064	te-7-1-ur02.floridaave.dc.bad.comcast.net
+N32064	te-7-3-ur02.floridaave.dc.bad.comcast.net
+N32064	te-9-1-ur02.floridaave.dc.bad.comcast.net
+
+
+
+
+N17868	xe-0-0-0-0-sur01.dover.de.bad.comcast.net
+N17868	xe-11-0-0-0-sur01.dover.de.bad.comcast.net
+
+
+N20246	te-3-1-ur01.tyboutscrnr.de.panjde.comcast.net
+N20246	te-3-2-ur01.tyboutscrnr.de.panjde.comcast.net
+N20246	te-8-1-ur01.tyboutscrnr.de.panjde.comcast.net
+N20246	te-8-3-ur01.tyboutscrnr.de.panjde.comcast.net
+
+
+N20451	te-1-1-ur01.frenchtown.de.panjde.comcast.net
+N20451	te-1-3-ur01.frenchtown.de.panjde.comcast.net
+N20451	te-8-1-ur01.frenchtown.de.panjde.comcast.net
+N20451	te-8-3-ur01.frenchtown.de.panjde.comcast.net
+
+
+N6442	et-0-0-0-0-ar03.newcastle.de.panjde.comcast.net
+N6442	et-23-0-0-0-ar03.newcastle.de.panjde.comcast.net
+N6442	et-23-1-0-0-ar03.newcastle.de.panjde.comcast.net
+N6442	xe-6-1-0-0-ar03.newcastle.de.panjde.comcast.net
+
+
+
+
+N10581	te-3-3-ar01.sumter.fl.lakecnty.comcast.net
+N10581	te-3-4-ar01.sumter.fl.lakecnty.comcast.net
+N10581	te-3-7-ar01.sumter.fl.lakecnty.comcast.net
+N10581	te-3-8-ar01.sumter.fl.lakecnty.comcast.net
+N10581	te-7-3-ar01.sumter.fl.lakecnty.comcast.net
+
+
+N10597	te-8-3-ar01.stuart.fl.pompano.comcast.net
+N10597	xe-0-0-1-0-sur02.miamimetro.fl.pompano.comcast.net
+N10597	xe-0-0-3-0-sur02.miamimetro.fl.pompano.comcast.net
+N10597	xe-0-1-0-0-sur02.miamimetro.fl.pompano.comcast.net
+N10597	xe-0-1-1-0-sur02.miamimetro.fl.pompano.comcast.net
+N10597	xe-0-2-0-0-sur02.miamimetro.fl.pompano.comcast.net
+
+
+N10612	te-5-2-ur01.kendall.fl.pompano.comcast.net
+N10612	te-5-4-ur01.kendall.fl.pompano.comcast.net
+N10612	te-7-4-ur01.kendall.fl.pompano.comcast.net
+N10612	te-8-1-ur01.kendall.fl.pompano.comcast.net
+N10612	te-9-2-ur01.kendall.fl.pompano.comcast.net
+N10612	te-9-4-ur01.kendall.fl.pompano.comcast.net
+
+
+N10613	xe-0-0-0-0-sur02.southdade.fl.pompano.comcast.net
+N10613	xe-0-0-1-0-sur02.southdade.fl.pompano.comcast.net
+N10613	xe-0-0-2-0-sur02.southdade.fl.pompano.comcast.net
+N10613	xe-0-0-3-0-sur02.southdade.fl.pompano.comcast.net
+N10613	xe-11-2-0-0-sur02.southdade.fl.pompano.comcast.net
+N10613	xe-11-2-2-0-sur02.southdade.fl.pompano.comcast.net
+
+
+N10620	pos-0-10-0-0-ar02.southside.fl.jacksvil.comcast.net
+N10620	pos-0-12-0-0-ar02.southside.fl.jacksvil.comcast.net
+N10620	pos-0-13-0-0-ar02.southside.fl.jacksvil.comcast.net
+N10620	pos-0-7-0-0-ar02.southside.fl.jacksvil.comcast.net
+N10620	pos-0-9-0-0-ar02.southside.fl.jacksvil.comcast.net
+N10620	te-0-6-0-3-ar02.southside.fl.jacksvil.comcast.net
+
+
+N10621	te-7-8-ar01.staterd7.fl.pompano.comcast.net
+N10621	xe-0-1-0-0-sur02.miramar.fl.pompano.comcast.net
+N10621	xe-0-1-1-0-sur02.miramar.fl.pompano.comcast.net
+N10621	xe-0-2-1-0-sur02.miramar.fl.pompano.comcast.net
+N10621	xe-0-2-2-0-sur02.miramar.fl.pompano.comcast.net
+N10621	xe-0-2-3-0-sur02.miramar.fl.pompano.comcast.net
+
+
+N10623	pos-0-14-0-0-cr01.miami.fl.ibone.comcast.net
+
+
+N10637	te-0-0-0-0-sur01.westside.fl.jacksvil.comcast.net
+N10637	te-0-0-0-3-sur01.westside.fl.jacksvil.comcast.net
+N10637	te-0-1-0-3-sur01.westside.fl.jacksvil.comcast.net
+N10637	te-0-5-0-2-sur01.westside.fl.jacksvil.comcast.net
+N10637	te-0-7-0-0-sur01.westside.fl.jacksvil.comcast.net
+N10637	te-0-7-0-3-sur01.westside.fl.jacksvil.comcast.net
+
+
+N10643	xe-0-0-0-0-sur01.hallandale.fl.pompano.comcast.net
+N10643	xe-0-1-0-0-sur01.hallandale.fl.pompano.comcast.net
+N10643	xe-0-3-0-0-sur01.hallandale.fl.pompano.comcast.net
+N10643	xe-11-2-0-0-sur01.hallandale.fl.pompano.comcast.net
+N10643	xe-8-0-0-0-sur01.hallandale.fl.pompano.comcast.net
+N10643	xe-8-1-0-0-sur01.hallandale.fl.pompano.comcast.net
+
+
+N10644	te-0-4-0-12-sur04.southside.fl.jacksvil.comcast.net
+N10644	te-0-4-0-13-sur04.southside.fl.jacksvil.comcast.net
+N10644	te-0-4-0-14-sur04.southside.fl.jacksvil.comcast.net
+N10644	te-0-4-0-15-sur04.southside.fl.jacksvil.comcast.net
+N10644	te-0-7-0-0-sur04.southside.fl.jacksvil.comcast.net
+
+
+N10662	te-5-4-ur01.redlands.fl.pompano.comcast.net
+N10662	te-7-1-ur01.redlands.fl.pompano.comcast.net
+N10662	te-8-2-ur01.redlands.fl.pompano.comcast.net
+N10662	te-8-4-ur01.redlands.fl.pompano.comcast.net
+N10662	te-9-2-ur01.redlands.fl.pompano.comcast.net
+N10662	te-9-4-ur01.redlands.fl.pompano.comcast.net
+
+
+N10663	xe-0-0-0-0-sur02.westboca.fl.pompano.comcast.net
+N10663	xe-0-0-1-0-sur02.westboca.fl.pompano.comcast.net
+N10663	xe-0-0-2-0-sur02.westboca.fl.pompano.comcast.net
+N10663	xe-11-0-0-0-sur02.westboca.fl.pompano.comcast.net
+N10663	xe-11-0-1-0-sur02.westboca.fl.pompano.comcast.net
+N10663	xe-11-0-2-0-sur02.westboca.fl.pompano.comcast.net
+
+
+N13072	ge-1-0-2-32767-sur04.pompanobeach.fl.pompano.comcast.net
+N13072	xe-0-0-0-0-sur04.pompanobeach.fl.pompano.comcast.net
+N13072	xe-2-0-0-0-sur04.pompanobeach.fl.pompano.comcast.net
+N13072	xe-2-1-0-0-sur04.pompanobeach.fl.pompano.comcast.net
+N13072	xe-5-1-0-0-sur04.pompanobeach.fl.pompano.comcast.net
+
+
+N14120	te-0-0-0-13-ur08.bonitasprngs.fl.naples.comcast.net
+N14120	te-0-0-0-8-ur08.bonitasprngs.fl.naples.comcast.net
+N14120	te-0-7-0-0-ur08.bonitasprngs.fl.naples.comcast.net
+N14120	te-0-7-0-1-ur08.bonitasprngs.fl.naples.comcast.net
+N14120	te-0-7-0-8-ur08.bonitasprngs.fl.naples.comcast.net
+
+
+N14126	te-0-2-0-1-sur03.westside.fl.jacksvil.comcast.net
+N14126	te-0-5-0-1-sur03.westside.fl.jacksvil.comcast.net
+N14126	te-0-7-0-0-sur03.westside.fl.jacksvil.comcast.net
+N14126	te-0-7-0-1-sur03.westside.fl.jacksvil.comcast.net
+N14126	te-0-7-0-2-sur03.westside.fl.jacksvil.comcast.net
+
+
+N14127	xe-0-0-0-0-sur01.westboca.fl.pompano.comcast.net
+N14127	xe-0-1-0-0-sur01.westboca.fl.pompano.comcast.net
+N14127	xe-0-2-0-0-sur01.westboca.fl.pompano.comcast.net
+N14127	xe-2-0-0-0-sur01.westboca.fl.pompano.comcast.net
+N14127	xe-2-2-0-0-sur01.westboca.fl.pompano.comcast.net
+
+
+N14140	te-0-2-0-0-ur03.panamacity.fl.pancity.comcast.net
+N14140	te-0-2-0-2-ur03.panamacity.fl.pancity.comcast.net
+N14140	te-7-2-ur01.panamacity.fl.pancity.comcast.net
+N14140	te-7-4-ur01.panamacity.fl.pancity.comcast.net
+N14140	te-9-1-ur01.panamacity.fl.pancity.comcast.net
+
+
+N14142	ge-3-11-ur02.leesburg.fl.lakecnty.comcast.net
+N14142	ge-3-35-ur02.leesburg.fl.lakecnty.comcast.net
+N14142	te-1-1-ur02.leesburg.fl.lakecnty.comcast.net
+N14142	te-1-4-ur02.leesburg.fl.lakecnty.comcast.net
+N14142	te-7-3-ur02.leesburg.fl.lakecnty.comcast.net
+
+
+N14143	te-0-0-0-0-ur04.sarasota.fl.westfl.comcast.net
+N14143	te-0-0-0-1-ur04.sarasota.fl.westfl.comcast.net
+N14143	te-0-7-0-0-ur04.sarasota.fl.westfl.comcast.net
+N14143	te-0-7-0-1-ur04.sarasota.fl.westfl.comcast.net
+
+
+N14144	xe-0-0-0-0-sur03.southdade.fl.pompano.comcast.net
+N14144	xe-0-0-1-0-sur03.southdade.fl.pompano.comcast.net
+N14144	xe-0-0-2-0-sur03.southdade.fl.pompano.comcast.net
+N14144	xe-0-0-3-0-sur03.southdade.fl.pompano.comcast.net
+N14144	xe-11-2-3-0-sur03.southdade.fl.pompano.comcast.net
+
+
+N14146	te-2-3-ar01.leesburg.fl.lakecnty.comcast.net
+N14146	te-2-4-ar01.leesburg.fl.lakecnty.comcast.net
+N14146	te-2-7-ar01.leesburg.fl.lakecnty.comcast.net
+N14146	te-9-3-ar01.leesburg.fl.lakecnty.comcast.net
+N14146	te-9-4-ar01.leesburg.fl.lakecnty.comcast.net
+
+
+N14156	te-7-1-ur01.miamimetro.fl.pompano.comcast.net
+N14156	te-8-1-ur01.miamimetro.fl.pompano.comcast.net
+N14156	te-8-3-ur01.miamimetro.fl.pompano.comcast.net
+N14156	te-9-2-ur01.miamimetro.fl.pompano.comcast.net
+N14156	te-9-3-ur01.miamimetro.fl.pompano.comcast.net
+
+
+N14167	xe-0-0-0-0-sur02.pompanobeach.fl.pompano.comcast.net
+N14167	xe-0-2-0-0-sur02.pompanobeach.fl.pompano.comcast.net
+N14167	xe-11-2-0-0-sur02.pompanobeach.fl.pompano.comcast.net
+N14167	xe-2-0-0-0-sur02.pompanobeach.fl.pompano.comcast.net
+N14167	xe-9-0-0-0-sur02.pompanobeach.fl.pompano.comcast.net
+
+
+N20330	te-0-0-0-12-ur07.bonitasprngs.fl.naples.comcast.net
+N20330	te-0-0-0-13-ur07.bonitasprngs.fl.naples.comcast.net
+N20330	te-0-0-0-8-ur07.bonitasprngs.fl.naples.comcast.net
+N20330	te-0-0-0-9-ur07.bonitasprngs.fl.naples.comcast.net
+
+
+N20331	te-0-0-0-0-ur03.beaudr.fl.naples.comcast.net
+N20331	te-0-0-0-1-ur03.beaudr.fl.naples.comcast.net
+N20331	te-0-7-0-0-ur03.beaudr.fl.naples.comcast.net
+N20331	te-0-7-0-1-ur03.beaudr.fl.naples.comcast.net
+
+
+N20365	xe-0-0-0-0-sur01.hialeahse.fl.pompano.comcast.net
+N20365	xe-0-2-0-0-sur01.hialeahse.fl.pompano.comcast.net
+N20365	xe-11-0-0-0-sur01.hialeahse.fl.pompano.comcast.net
+N20365	xe-11-2-0-0-sur01.hialeahse.fl.pompano.comcast.net
+
+
+N20366	xe-0-0-0-0-sur01.coralgables.fl.pompano.comcast.net
+N20366	xe-0-2-0-0-sur01.coralgables.fl.pompano.comcast.net
+N20366	xe-11-0-0-0-sur01.coralgables.fl.pompano.comcast.net
+N20366	xe-11-2-0-0-sur01.coralgables.fl.pompano.comcast.net
+
+
+N20367	te-5-1-ur02.pembroke.fl.pompano.comcast.net
+N20367	te-5-3-ur02.pembroke.fl.pompano.comcast.net
+N20367	te-8-1-ur02.pembroke.fl.pompano.comcast.net
+N20367	te-8-3-ur02.pembroke.fl.pompano.comcast.net
+
+
+N20399	te-0-0-0-0-ur03.sarasota.fl.westfl.comcast.net
+N20399	te-0-7-0-0-ur03.sarasota.fl.westfl.comcast.net
+N20399	te-0-7-0-1-ur03.sarasota.fl.westfl.comcast.net
+
+
+N20400	te-0-0-0-0-ur05.venice.fl.westfl.comcast.net
+N20400	te-0-0-0-10-ur05.venice.fl.westfl.comcast.net
+N20400	te-0-0-0-8-ur05.venice.fl.westfl.comcast.net
+N20400	te-0-0-0-9-ur05.venice.fl.westfl.comcast.net
+
+
+N20401	te-0-1-0-5-ur06.venice.fl.westfl.comcast.net
+N20401	te-0-1-0-9-ur06.venice.fl.westfl.comcast.net
+N20401	te-0-7-0-0-ur06.venice.fl.westfl.comcast.net
+N20401	te-0-7-0-4-ur06.venice.fl.westfl.comcast.net
+
+
+N20403	te-8-2-ur01.griffin.fl.pompano.comcast.net
+N20403	te-8-4-ur01.griffin.fl.pompano.comcast.net
+N20403	te-9-1-ur01.griffin.fl.pompano.comcast.net
+N20403	te-9-3-ur01.griffin.fl.pompano.comcast.net
+
+
+N20409	ge-2-5-ur01.miramar.fl.pompano.comcast.net
+N20409	te-8-4-ur01.miramar.fl.pompano.comcast.net
+N20409	te-9-1-ur01.miramar.fl.pompano.comcast.net
+N20409	te-9-3-ur01.miramar.fl.pompano.comcast.net
+
+
+N20410	te-5-2-ur01.tallahassee.fl.tallah.comcast.net
+N20410	te-5-4-ur01.tallahassee.fl.tallah.comcast.net
+N20410	te-7-3-ur01.tallahassee.fl.tallah.comcast.net
+N20410	te-8-2-ur01.tallahassee.fl.tallah.comcast.net
+
+
+N20411	te-4-2-ur01.timberlanerd.fl.tallah.comcast.net
+N20411	te-4-4-ur01.timberlanerd.fl.tallah.comcast.net
+N20411	te-5-3-ur01.timberlanerd.fl.tallah.comcast.net
+N20411	te-8-2-ur01.timberlanerd.fl.tallah.comcast.net
+
+
+N20452	ge-6-2-ur01.southdade.fl.pompano.comcast.net
+N20452	te-4-1-ur01.southdade.fl.pompano.comcast.net
+N20452	te-8-2-ur01.southdade.fl.pompano.comcast.net
+N20452	te-9-1-ur01.southdade.fl.pompano.comcast.net
+
+
+N20453	xe-0-0-0-0-sur01.hialeahne.fl.pompano.comcast.net
+N20453	xe-0-1-0-0-sur01.hialeahne.fl.pompano.comcast.net
+N20453	xe-11-0-0-0-sur01.hialeahne.fl.pompano.comcast.net
+N20453	xe-11-1-0-0-sur01.hialeahne.fl.pompano.comcast.net
+
+
+N20454	te-7-1-ur02.westboca.fl.pompano.comcast.net
+N20454	te-8-1-ur02.westboca.fl.pompano.comcast.net
+N20454	te-9-2-ur02.westboca.fl.pompano.comcast.net
+N20454	te-9-4-ur02.westboca.fl.pompano.comcast.net
+
+
+N20455	te-8-1-ur02.verobeach.fl.pompano.comcast.net
+N20455	te-8-3-ur02.verobeach.fl.pompano.comcast.net
+N20455	te-9-2-ur02.verobeach.fl.pompano.comcast.net
+N20455	te-9-3-ur02.verobeach.fl.pompano.comcast.net
+
+
+N20474	xe-0-0-0-0-sur01.keylargo.fl.pompano.comcast.net
+N20474	xe-0-1-0-0-sur01.keylargo.fl.pompano.comcast.net
+N20474	xe-11-0-0-0-sur01.keylargo.fl.pompano.comcast.net
+N20474	xe-11-3-0-0-sur01.keylargo.fl.pompano.comcast.net
+
+
+N20475	xe-0-0-0-0-sur01.keywest.fl.pompano.comcast.net
+N20475	xe-0-1-0-0-sur01.keywest.fl.pompano.comcast.net
+N20475	xe-11-0-0-0-sur01.keywest.fl.pompano.comcast.net
+N20475	xe-11-1-0-0-sur01.keywest.fl.pompano.comcast.net
+
+
+N20476	xe-0-0-0-0-sur01.hialeahwest.fl.pompano.comcast.net
+N20476	xe-0-1-0-0-sur01.hialeahwest.fl.pompano.comcast.net
+N20476	xe-11-0-0-0-sur01.hialeahwest.fl.pompano.comcast.net
+N20476	xe-11-1-0-0-sur01.hialeahwest.fl.pompano.comcast.net
+
+
+N20477	xe-0-0-0-0-sur01.planteast.fl.pompano.comcast.net
+N20477	xe-0-1-0-0-sur01.planteast.fl.pompano.comcast.net
+N20477	xe-11-0-0-0-sur01.planteast.fl.pompano.comcast.net
+N20477	xe-11-1-0-0-sur01.planteast.fl.pompano.comcast.net
+
+
+N20478	te-0-2-0-0-sur04.westside.fl.jacksvil.comcast.net
+N20478	te-0-2-0-1-sur04.westside.fl.jacksvil.comcast.net
+N20478	te-0-2-0-5-sur04.westside.fl.jacksvil.comcast.net
+
+
+N20480	te-7-1-ur01.yulee.fl.jacksvil.comcast.net
+N20480	te-7-4-ur01.yulee.fl.jacksvil.comcast.net
+N20480	te-8-4-ur01.yulee.fl.jacksvil.comcast.net
+
+
+N20559	xe-0-0-0-0-sur02.stuart.fl.pompano.comcast.net
+N20559	xe-0-0-1-0-sur02.stuart.fl.pompano.comcast.net
+N20559	xe-0-0-2-0-sur02.stuart.fl.pompano.comcast.net
+N20559	xe-0-0-3-0-sur02.stuart.fl.pompano.comcast.net
+
+
+N20560	xe-0-0-0-0-sur01.miamimetro.fl.pompano.comcast.net
+N20560	xe-0-1-0-0-sur01.miamimetro.fl.pompano.comcast.net
+N20560	xe-4-0-0-0-sur01.miamimetro.fl.pompano.comcast.net
+N20560	xe-4-1-0-0-sur01.miamimetro.fl.pompano.comcast.net
+
+
+N20561	xe-0-0-0-0-sur01.marathon.fl.pompano.comcast.net
+N20561	xe-0-1-0-0-sur01.marathon.fl.pompano.comcast.net
+N20561	xe-11-0-0-0-sur01.marathon.fl.pompano.comcast.net
+N20561	xe-11-1-0-0-sur01.marathon.fl.pompano.comcast.net
+
+
+N20568	te-0-7-0-0-ur03.staterd7.fl.pompano.comcast.net
+N20568	te-0-7-0-1-ur03.staterd7.fl.pompano.comcast.net
+N20568	te-0-7-0-2-ur03.staterd7.fl.pompano.comcast.net
+N20568	te-0-7-0-3-ur03.staterd7.fl.pompano.comcast.net
+
+
+N24036	xe-11-0-0-0-sur02.northdade.fl.pompano.comcast.net
+N24036	xe-11-1-0-0-sur02.northdade.fl.pompano.comcast.net
+N24036	xe-11-2-0-0-sur02.northdade.fl.pompano.comcast.net
+
+
+N24037	te-1-4-ur01.naples.fl.naples.comcast.net
+N24037	te-4-1-ur01.naples.fl.naples.comcast.net
+N24037	te-8-1-ur01.naples.fl.naples.comcast.net
+N24037	te-8-4-ur01.naples.fl.naples.comcast.net
+
+
+N27716	te-0-0-0-0-sur01.fleming.fl.jacksvil.comcast.net
+N27716	te-0-7-0-0-sur01.fleming.fl.jacksvil.comcast.net
+
+
+N28735	ge-1-2-0-32767-sur01.southdade.fl.pompano.comcast.net
+N28735	xe-8-0-0-0-sur01.southdade.fl.pompano.comcast.net
+N28735	xe-9-0-0-0-sur01.southdade.fl.pompano.comcast.net
+
+
+N2965	be-10-ar01.pompanobeach.fl.pompano.comcast.net
+N2965	be-8-ar01.pompanobeach.fl.pompano.comcast.net
+N2965	be-9-ar01.pompanobeach.fl.pompano.comcast.net
+N2965	he-0-6-0-0-ar01.pompanobeach.fl.pompano.comcast.net
+N2965	he-0-6-0-1-ar01.pompanobeach.fl.pompano.comcast.net
+N2965	he-0-7-0-0-ar01.pompanobeach.fl.pompano.comcast.net
+N2965	he-0-7-0-1-ar01.pompanobeach.fl.pompano.comcast.net
+N2965	he-0-8-0-0-ar01.pompanobeach.fl.pompano.comcast.net
+N2965	te-0-3-0-23-ar01.pompanobeach.fl.pompano.comcast.net
+
+
+N31988	te-1-1-ur01.nworange.fl.lakecnty.comcast.net
+N31988	te-1-2-ur01.nworange.fl.lakecnty.comcast.net
+N31988	te-1-4-ur01.nworange.fl.lakecnty.comcast.net
+
+
+N31989	te-2-1-ur01.southorange.fl.lakecnty.comcast.net
+N31989	te-2-2-ur01.southorange.fl.lakecnty.comcast.net
+N31989	te-2-3-ur01.southorange.fl.lakecnty.comcast.net
+
+
+N31990	te-1-1-ur01.portcharlott.fl.westfl.comcast.net
+N31990	te-1-4-ur01.portcharlott.fl.westfl.comcast.net
+N31990	te-7-4-ur01.portcharlott.fl.westfl.comcast.net
+
+
+N31992	te-8-2-ur01.homestead.fl.pompano.comcast.net
+N31992	te-8-4-ur01.homestead.fl.pompano.comcast.net
+N31992	te-9-1-ur01.homestead.fl.pompano.comcast.net
+
+
+N32001	te-1-1-ur01.mandarin.fl.jacksvil.comcast.net
+N32001	te-1-3-ur01.mandarin.fl.jacksvil.comcast.net
+N32001	te-9-1-ur01.mandarin.fl.jacksvil.comcast.net
+
+
+N32003	ge-1-46-ur01.gardens.fl.pompano.comcast.net
+N32003	te-8-4-ur01.gardens.fl.pompano.comcast.net
+N32003	te-9-1-ur01.gardens.fl.pompano.comcast.net
+
+
+N32004	ge-6-2-ur02.lakeworth.fl.pompano.comcast.net
+N32004	te-7-3-ur02.lakeworth.fl.pompano.comcast.net
+N32004	te-8-3-ur02.lakeworth.fl.pompano.comcast.net
+
+
+N32005	te-8-1-ur06.pompanobeach.fl.pompano.comcast.net
+N32005	te-9-2-ur06.pompanobeach.fl.pompano.comcast.net
+N32005	te-9-3-ur06.pompanobeach.fl.pompano.comcast.net
+
+
+N32006	te-4-1-ur01.etharpest.fl.tallah.comcast.net
+N32006	te-8-1-ur01.etharpest.fl.tallah.comcast.net
+N32006	te-9-1-ur01.etharpest.fl.tallah.comcast.net
+
+
+N32007	ge-2-34-ur02.timberlanerd.fl.tallah.comcast.net
+N32007	te-8-4-ur02.timberlanerd.fl.tallah.comcast.net
+N32007	te-9-1-ur02.timberlanerd.fl.tallah.comcast.net
+
+
+N32008	te-9-1-ur01.osceolawest.fl.lakecnty.comcast.net
+N32008	te-9-3-ur01.osceolawest.fl.lakecnty.comcast.net
+N32008	te-9-4-ur01.osceolawest.fl.lakecnty.comcast.net
+
+
+N32042	xe-0-0-0-0-sur02.lakeworth.fl.pompano.comcast.net
+N32042	xe-0-0-1-0-sur02.lakeworth.fl.pompano.comcast.net
+N32042	xe-11-1-0-0-sur02.lakeworth.fl.pompano.comcast.net
+
+
+N32043	te-0-7-0-0-sur02.southside.fl.jacksvil.comcast.net
+N32043	te-0-7-0-1-sur02.southside.fl.jacksvil.comcast.net
+N32043	te-0-7-0-2-sur02.southside.fl.jacksvil.comcast.net
+
+
+N32066	xe-0-0-0-0-sur02.northpoint.fl.pompano.comcast.net
+N32066	xe-0-0-1-0-sur02.northpoint.fl.pompano.comcast.net
+N32066	xe-11-1-1-0-sur02.northpoint.fl.pompano.comcast.net
+
+
+N32067	te-0-1-0-0-sur01.staugustine.fl.jacksvil.comcast.net
+N32067	te-0-7-0-0-sur01.staugustine.fl.jacksvil.comcast.net
+N32067	te-0-7-0-1-sur01.staugustine.fl.jacksvil.comcast.net
+
+
+N32087	te-1-1-ur01.sebring.fl.westfl.comcast.net
+N32087	te-1-2-ur01.sebring.fl.westfl.comcast.net
+N32087	te-1-3-ur01.sebring.fl.westfl.comcast.net
+
+
+N32088	te-7-2-ur01.lakewales.fl.westfl.comcast.net
+N32088	te-7-3-ur01.lakewales.fl.westfl.comcast.net
+N32088	te-7-4-ur01.lakewales.fl.westfl.comcast.net
+
+
+N32262	te-8-2-ur01.tamarac.fl.pompano.comcast.net
+N32262	te-9-1-ur01.tamarac.fl.pompano.comcast.net
+N32262	te-9-3-ur01.tamarac.fl.pompano.comcast.net
+
+
+N32263	te-8-1-ur01.perrine.fl.pompano.comcast.net
+N32263	te-8-3-ur01.perrine.fl.pompano.comcast.net
+N32263	te-9-3-ur01.perrine.fl.pompano.comcast.net
+
+
+N32264	xe-9-0-0-0-sur02.margate.fl.pompano.comcast.net
+N32264	xe-9-1-0-0-sur02.margate.fl.pompano.comcast.net
+N32264	xe-9-2-0-0-sur02.margate.fl.pompano.comcast.net
+
+
+N32265	te-7-1-ur01.stuart.fl.pompano.comcast.net
+N32265	te-7-3-ur01.stuart.fl.pompano.comcast.net
+N32265	te-8-3-ur01.stuart.fl.pompano.comcast.net
+
+
+N32266	xe-0-0-1-0-sur01.staterd7.fl.pompano.comcast.net
+N32266	xe-11-0-0-0-sur01.staterd7.fl.pompano.comcast.net
+N32266	xe-11-0-1-0-sur01.staterd7.fl.pompano.comcast.net
+
+
+N32267	xe-0-0-0-0-sur01.gardens.fl.pompano.comcast.net
+N32267	xe-0-1-0-0-sur01.gardens.fl.pompano.comcast.net
+N32267	xe-0-3-0-0-sur01.gardens.fl.pompano.comcast.net
+
+
+N32278	te-0-0-0-0-ur04.staterd7.fl.pompano.comcast.net
+N32278	te-0-0-0-2-ur04.staterd7.fl.pompano.comcast.net
+N32278	te-0-0-0-3-ur04.staterd7.fl.pompano.comcast.net
+
+
+N3815	te-1-3-ar01.l3-tallahas.fl.northglf.comcast.net
+N3815	te-1-7-ar01.l3-tallahas.fl.northglf.comcast.net
+N3815	te-1-8-ar01.l3-tallahas.fl.northglf.comcast.net
+N3815	te-2-3-ar01.l3-tallahas.fl.northglf.comcast.net
+N3815	te-2-4-ar01.l3-tallahas.fl.northglf.comcast.net
+N3815	te-7-3-ar01.l3-tallahas.fl.northglf.comcast.net
+N3815	te-7-7-ar01.l3-tallahas.fl.northglf.comcast.net
+N3815	te-9-7-ar01.l3-tallahas.fl.northglf.comcast.net
+N3815	te-9-8-ar01.l3-tallahas.fl.northglf.comcast.net
+
+
+N38197	te-8-1-ur02.portcharlott.fl.westfl.comcast.net
+N38197	te-8-2-ur02.portcharlott.fl.westfl.comcast.net
+N38197	te-8-3-ur02.portcharlott.fl.westfl.comcast.net
+
+
+N5318	te-1-3-ur01.pembroke.fl.pompano.comcast.net
+N5318	te-1-4-ur01.pembroke.fl.pompano.comcast.net
+N5318	te-1-7-ur01.pembroke.fl.pompano.comcast.net
+N5318	te-1-8-ur01.pembroke.fl.pompano.comcast.net
+N5318	te-8-1-ur01.pembroke.fl.pompano.comcast.net
+N5318	te-8-3-ur01.pembroke.fl.pompano.comcast.net
+N5318	te-9-1-ur01.pembroke.fl.pompano.comcast.net
+N5318	te-9-3-ur01.pembroke.fl.pompano.comcast.net
+N5318	te-9-4-ur01.pembroke.fl.pompano.comcast.net
+
+
+N5319	te-0-2-0-0-sur03.southside.fl.jacksvil.comcast.net
+N5319	te-0-2-0-1-sur03.southside.fl.jacksvil.comcast.net
+N5319	te-0-2-0-2-sur03.southside.fl.jacksvil.comcast.net
+N5319	te-0-2-0-5-sur03.southside.fl.jacksvil.comcast.net
+N5319	te-0-5-0-0-sur03.southside.fl.jacksvil.comcast.net
+N5319	te-0-7-0-0-sur03.southside.fl.jacksvil.comcast.net
+N5319	te-0-7-0-1-sur03.southside.fl.jacksvil.comcast.net
+N5319	te-0-7-0-2-sur03.southside.fl.jacksvil.comcast.net
+
+
+N5321	xe-0-0-0-0-sur04.northdade.fl.pompano.comcast.net
+N5321	xe-0-0-1-0-sur04.northdade.fl.pompano.comcast.net
+N5321	xe-0-0-2-0-sur04.northdade.fl.pompano.comcast.net
+N5321	xe-0-0-3-0-sur04.northdade.fl.pompano.comcast.net
+N5321	xe-0-1-0-0-sur04.northdade.fl.pompano.comcast.net
+N5321	xe-0-1-1-0-sur04.northdade.fl.pompano.comcast.net
+N5321	xe-11-0-0-0-sur04.northdade.fl.pompano.comcast.net
+N5321	xe-11-0-1-0-sur04.northdade.fl.pompano.comcast.net
+N5321	xe-11-1-1-0-sur04.northdade.fl.pompano.comcast.net
+
+
+N5328	te-0-2-0-0-ur04.panamacity.fl.pancity.comcast.net
+N5328	te-0-2-0-1-ur04.panamacity.fl.pancity.comcast.net
+N5328	te-0-2-0-2-ur04.panamacity.fl.pancity.comcast.net
+N5328	te-4-1-ur02.panamacity.fl.pancity.comcast.net
+N5328	te-4-3-ur02.panamacity.fl.pancity.comcast.net
+N5328	te-9-1-ur02.panamacity.fl.pancity.comcast.net
+
+
+N5329	te-7-3-ar01.stuart.fl.pompano.comcast.net
+N5329	te-7-4-ar01.stuart.fl.pompano.comcast.net
+N5329	te-7-7-ar01.staterd7.fl.pompano.comcast.net
+N5329	xe-0-0-0-0-sur03.miramar.fl.pompano.comcast.net
+N5329	xe-0-0-1-0-sur03.miramar.fl.pompano.comcast.net
+N5329	xe-0-0-2-0-sur03.miramar.fl.pompano.comcast.net
+N5329	xe-11-1-3-0-sur03.miramar.fl.pompano.comcast.net
+N5329	xe-11-2-1-0-sur03.miramar.fl.pompano.comcast.net
+N5329	xe-11-2-3-0-sur03.miramar.fl.pompano.comcast.net
+
+
+N5331	be-8-ar01.northdade.fl.pompano.comcast.net
+N5331	be-9-ar01.northdade.fl.pompano.comcast.net
+N5331	he-0-6-0-0-ar01.northdade.fl.pompano.comcast.net
+N5331	he-0-6-0-1-ar01.northdade.fl.pompano.comcast.net
+N5331	he-0-7-0-0-ar01.northdade.fl.pompano.comcast.net
+N5331	he-0-7-0-1-ar01.northdade.fl.pompano.comcast.net
+N5331	he-0-8-0-0-ar01.northdade.fl.pompano.comcast.net
+
+
+N5852	as20940-2-c.nota.fl.ibone.comcast.net
+
+
+N6444	xe-0-0-0-0-sur05.northdade.fl.pompano.comcast.net
+N6444	xe-0-0-1-0-sur05.northdade.fl.pompano.comcast.net
+N6444	xe-0-0-2-0-sur05.northdade.fl.pompano.comcast.net
+N6444	xe-0-0-3-0-sur05.northdade.fl.pompano.comcast.net
+N6444	xe-0-1-0-0-sur05.northdade.fl.pompano.comcast.net
+N6444	xe-0-1-1-0-sur05.northdade.fl.pompano.comcast.net
+N6444	xe-11-0-3-0-sur05.northdade.fl.pompano.comcast.net
+N6444	xe-11-1-0-0-sur05.northdade.fl.pompano.comcast.net
+
+
+N6445	xe-0-0-0-0-sur01.stuart.fl.pompano.comcast.net
+N6445	xe-0-0-1-0-sur01.stuart.fl.pompano.comcast.net
+N6445	xe-0-0-2-0-sur01.stuart.fl.pompano.comcast.net
+N6445	xe-0-0-3-0-sur01.stuart.fl.pompano.comcast.net
+N6445	xe-1-2-3-0-sur01.stuart.fl.pompano.comcast.net
+N6445	xe-1-3-0-0-sur01.stuart.fl.pompano.comcast.net
+N6445	xe-1-3-1-0-sur01.stuart.fl.pompano.comcast.net
+N6445	xe-1-3-2-0-sur01.stuart.fl.pompano.comcast.net
+
+
+N6453	xe-0-0-0-0-sur01.sweetwater.fl.pompano.comcast.net
+N6453	xe-0-1-0-0-sur01.sweetwater.fl.pompano.comcast.net
+N6453	xe-10-2-0-0-sur01.sweetwater.fl.pompano.comcast.net
+N6453	xe-10-3-0-0-sur01.sweetwater.fl.pompano.comcast.net
+N6453	xe-11-0-0-0-sur01.sweetwater.fl.pompano.comcast.net
+N6453	xe-11-1-0-0-sur01.sweetwater.fl.pompano.comcast.net
+N6453	xe-9-2-0-0-sur01.sweetwater.fl.pompano.comcast.net
+N6453	xe-9-3-0-0-sur01.sweetwater.fl.pompano.comcast.net
+
+
+N6465	xe-0-0-0-0-sur01.pompanobeach.fl.pompano.comcast.net
+N6465	xe-0-2-0-0-sur01.pompanobeach.fl.pompano.comcast.net
+N6465	xe-11-0-0-0-sur01.pompanobeach.fl.pompano.comcast.net
+N6465	xe-11-1-0-0-sur01.pompanobeach.fl.pompano.comcast.net
+N6465	xe-11-2-0-0-sur01.pompanobeach.fl.pompano.comcast.net
+N6465	xe-11-3-0-0-sur01.pompanobeach.fl.pompano.comcast.net
+N6465	xe-4-0-0-0-sur01.pompanobeach.fl.pompano.comcast.net
+N6465	xe-9-0-0-0-sur01.pompanobeach.fl.pompano.comcast.net
+
+
+N6466	xe-0-0-0-0-ar01.southdade.fl.pompano.comcast.net
+N6466	xe-0-0-1-0-ar01.southdade.fl.pompano.comcast.net
+N6466	xe-0-0-2-0-ar01.southdade.fl.pompano.comcast.net
+N6466	xe-0-0-3-0-ar01.southdade.fl.pompano.comcast.net
+N6466	xe-0-1-0-0-ar01.southdade.fl.pompano.comcast.net
+N6466	xe-0-1-1-0-ar01.southdade.fl.pompano.comcast.net
+N6466	xe-0-1-2-0-ar01.southdade.fl.pompano.comcast.net
+N6466	xe-0-1-3-0-ar01.southdade.fl.pompano.comcast.net
+
+
+N7869	ge-1-2-6-32767-sur01.plantwest.fl.pompano.comcast.net
+N7869	xe-0-0-0-0-sur01.plantwest.fl.pompano.comcast.net
+N7869	xe-0-1-0-0-sur01.plantwest.fl.pompano.comcast.net
+N7869	xe-11-0-0-0-sur01.plantwest.fl.pompano.comcast.net
+N7869	xe-11-2-0-0-sur01.plantwest.fl.pompano.comcast.net
+N7869	xe-2-3-0-0-sur01.plantwest.fl.pompano.comcast.net
+N7869	xe-9-1-0-0-sur01.plantwest.fl.pompano.comcast.net
+
+
+N8333	xe-0-0-0-0-sur01.margate.fl.pompano.comcast.net
+N8333	xe-0-1-0-0-sur01.margate.fl.pompano.comcast.net
+N8333	xe-0-2-0-0-sur01.margate.fl.pompano.comcast.net
+N8333	xe-11-0-0-0-sur01.margate.fl.pompano.comcast.net
+N8333	xe-11-1-0-0-sur01.margate.fl.pompano.comcast.net
+N8333	xe-4-0-0-32767-sur01.margate.fl.pompano.comcast.net
+N8333	xe-9-0-0-0-sur01.margate.fl.pompano.comcast.net
+
+
+N8352	te-0-0-0-0-sur01.southside.fl.jacksvil.comcast.net
+N8352	te-0-0-0-2-sur01.southside.fl.jacksvil.comcast.net
+N8352	te-0-1-0-3-sur01.southside.fl.jacksvil.comcast.net
+N8352	te-0-2-0-1-sur01.southside.fl.jacksvil.comcast.net
+N8352	te-0-5-0-1-sur01.southside.fl.jacksvil.comcast.net
+N8352	te-0-6-0-3-sur01.southside.fl.jacksvil.comcast.net
+N8352	te-0-7-0-2-3514-sur01.southside.fl.jacksvil.comcast.net
+
+
+N9443	as33132-2-c.nota.fl.ibone.comcast.net
+
+
+N9732	ge-1-1-4-32767-sur01.davie.fl.pompano.comcast.net
+N9732	ge-1-1-5-32767-sur01.davie.fl.pompano.comcast.net
+N9732	xe-0-0-0-0-sur01.davie.fl.pompano.comcast.net
+N9732	xe-0-1-0-0-sur01.davie.fl.pompano.comcast.net
+N9732	xe-11-0-0-0-sur01.davie.fl.pompano.comcast.net
+N9732	xe-11-1-0-0-sur01.davie.fl.pompano.comcast.net
+
+
+
+
+N10583	xe-0-0-0-0-sur02.a1atlanta.ga.atlanta.comcast.net
+N10583	xe-0-1-0-0-sur02.a1atlanta.ga.atlanta.comcast.net
+N10583	xe-0-2-0-0-sur02.a1atlanta.ga.atlanta.comcast.net
+N10583	xe-10-0-0-0-sur02.a1atlanta.ga.atlanta.comcast.net
+N10583	xe-10-1-0-0-sur02.a1atlanta.ga.atlanta.comcast.net
+N10583	xe-11-2-0-0-sur02.a1atlanta.ga.atlanta.comcast.net
+
+
+N10584	xe-0-0-0-0-sur01.a1atlanta.ga.atlanta.comcast.net
+N10584	xe-0-1-0-0-sur01.a1atlanta.ga.atlanta.comcast.net
+N10584	xe-10-0-0-0-sur01.a1atlanta.ga.atlanta.comcast.net
+N10584	xe-10-1-0-0-sur01.a1atlanta.ga.atlanta.comcast.net
+N10584	xe-10-3-0-0-sur01.a1atlanta.ga.atlanta.comcast.net
+N10584	xe-9-2-0-0-sur01.a1atlanta.ga.atlanta.comcast.net
+
+
+N10585	xe-0-0-0-0-sur01.a2atlanta.ga.atlanta.comcast.net
+N10585	xe-0-1-0-0-sur01.a2atlanta.ga.atlanta.comcast.net
+N10585	xe-10-3-0-0-sur01.a2atlanta.ga.atlanta.comcast.net
+N10585	xe-11-3-0-0-sur01.a2atlanta.ga.atlanta.comcast.net
+N10585	xe-8-2-0-0-sur01.a2atlanta.ga.atlanta.comcast.net
+N10585	xe-9-0-0-0-sur01.a2atlanta.ga.atlanta.comcast.net
+
+
+N10586	xe-0-0-0-0-sur02.a2atlanta.ga.atlanta.comcast.net
+N10586	xe-0-1-0-0-sur02.a2atlanta.ga.atlanta.comcast.net
+N10586	xe-0-2-0-0-sur02.a2atlanta.ga.atlanta.comcast.net
+N10586	xe-10-3-0-0-sur02.a2atlanta.ga.atlanta.comcast.net
+N10586	xe-9-0-0-0-sur02.a2atlanta.ga.atlanta.comcast.net
+N10586	xe-9-1-0-0-sur02.a2atlanta.ga.atlanta.comcast.net
+
+
+N10587	xe-0-0-0-0-sur01.b0atlanta.ga.atlanta.comcast.net
+N10587	xe-0-1-0-0-sur01.b0atlanta.ga.atlanta.comcast.net
+N10587	xe-10-0-0-0-sur01.b0atlanta.ga.atlanta.comcast.net
+N10587	xe-11-1-0-0-sur01.b0atlanta.ga.atlanta.comcast.net
+N10587	xe-11-2-0-0-sur01.b0atlanta.ga.atlanta.comcast.net
+N10587	xe-11-3-0-0-sur01.b0atlanta.ga.atlanta.comcast.net
+
+
+N10588	xe-0-0-0-0-sur02.y4cumming.ga.atlanta.comcast.net
+N10588	xe-0-1-0-0-sur02.y4cumming.ga.atlanta.comcast.net
+N10588	xe-10-2-0-0-sur02.y4cumming.ga.atlanta.comcast.net
+N10588	xe-10-3-0-0-sur02.y4cumming.ga.atlanta.comcast.net
+N10588	xe-11-3-0-0-sur02.y4cumming.ga.atlanta.comcast.net
+N10588	xe-9-0-0-0-sur02.y4cumming.ga.atlanta.comcast.net
+
+
+N10589	xe-0-0-0-0-sur01.s1marietta.ga.atlanta.comcast.net
+N10589	xe-0-1-0-0-sur01.s1marietta.ga.atlanta.comcast.net
+N10589	xe-10-2-0-0-sur01.s1marietta.ga.atlanta.comcast.net
+N10589	xe-10-3-0-0-sur01.s1marietta.ga.atlanta.comcast.net
+N10589	xe-11-3-0-0-sur01.s1marietta.ga.atlanta.comcast.net
+N10589	xe-9-0-0-0-sur01.s1marietta.ga.atlanta.comcast.net
+
+
+N10590	xe-0-0-0-0-sur02.n2alpharetta.ga.atlanta.comcast.net
+N10590	xe-0-2-0-0-sur02.n2alpharetta.ga.atlanta.comcast.net
+N10590	xe-10-1-0-0-sur02.n2alpharetta.ga.atlanta.comcast.net
+N10590	xe-10-2-0-0-sur02.n2alpharetta.ga.atlanta.comcast.net
+N10590	xe-10-3-0-0-sur02.n2alpharetta.ga.atlanta.comcast.net
+N10590	xe-11-3-0-0-sur02.n2alpharetta.ga.atlanta.comcast.net
+
+
+N10591	xe-0-0-0-0-sur01.n2alpharetta.ga.atlanta.comcast.net
+N10591	xe-10-0-0-0-sur01.n2alpharetta.ga.atlanta.comcast.net
+N10591	xe-10-2-0-0-sur01.n2alpharetta.ga.atlanta.comcast.net
+N10591	xe-10-3-0-0-sur01.n2alpharetta.ga.atlanta.comcast.net
+N10591	xe-11-3-0-0-sur01.n2alpharetta.ga.atlanta.comcast.net
+N10591	xe-9-0-0-0-sur01.n2alpharetta.ga.atlanta.comcast.net
+
+
+N10592	xe-0-0-0-0-sur01.b1kennesaw.ga.atlanta.comcast.net
+N10592	xe-0-1-0-0-sur01.b1kennesaw.ga.atlanta.comcast.net
+N10592	xe-0-3-0-0-sur01.b1kennesaw.ga.atlanta.comcast.net
+N10592	xe-11-3-0-0-sur01.b1kennesaw.ga.atlanta.comcast.net
+N10592	xe-9-2-0-0-sur01.b1kennesaw.ga.atlanta.comcast.net
+N10592	xe-9-3-0-0-sur01.b1kennesaw.ga.atlanta.comcast.net
+
+
+N10593	xe-0-0-0-0-sur02.b3marietta.ga.atlanta.comcast.net
+N10593	xe-10-0-0-0-sur02.b3marietta.ga.atlanta.comcast.net
+N10593	xe-10-1-0-0-sur02.b3marietta.ga.atlanta.comcast.net
+N10593	xe-10-3-0-0-sur02.b3marietta.ga.atlanta.comcast.net
+N10593	xe-11-3-0-0-sur02.b3marietta.ga.atlanta.comcast.net
+N10593	xe-9-0-0-0-sur02.b3marietta.ga.atlanta.comcast.net
+
+
+N10594	xe-0-0-0-0-sur01.b3marietta.ga.atlanta.comcast.net
+N10594	xe-10-0-0-0-sur01.b3marietta.ga.atlanta.comcast.net
+N10594	xe-10-1-0-0-sur01.b3marietta.ga.atlanta.comcast.net
+N10594	xe-10-3-0-0-sur01.b3marietta.ga.atlanta.comcast.net
+N10594	xe-11-3-0-0-sur01.b3marietta.ga.atlanta.comcast.net
+N10594	xe-9-0-0-0-sur01.b3marietta.ga.atlanta.comcast.net
+
+
+N10595	xe-0-0-0-0-sur01.y4cumming.ga.atlanta.comcast.net
+N10595	xe-10-2-0-0-sur01.y4cumming.ga.atlanta.comcast.net
+N10595	xe-10-3-0-0-sur01.y4cumming.ga.atlanta.comcast.net
+N10595	xe-11-3-0-0-sur01.y4cumming.ga.atlanta.comcast.net
+N10595	xe-8-0-0-0-sur01.y4cumming.ga.atlanta.comcast.net
+N10595	xe-9-3-0-0-sur01.y4cumming.ga.atlanta.comcast.net
+
+
+N10596	xe-0-1-0-0-sur01.k2gwinnett.ga.atlanta.comcast.net
+N10596	xe-0-3-0-0-sur01.k2gwinnett.ga.atlanta.comcast.net
+N10596	xe-10-3-0-0-sur01.k2gwinnett.ga.atlanta.comcast.net
+N10596	xe-11-3-0-0-sur01.k2gwinnett.ga.atlanta.comcast.net
+N10596	xe-8-3-0-0-sur01.k2gwinnett.ga.atlanta.comcast.net
+N10596	xe-9-3-0-0-sur01.k2gwinnett.ga.atlanta.comcast.net
+
+
+N10624	he-0-10-0-0-pe03.56marieta.ga.ibone.comcast.net
+N10624	he-0-10-0-1-pe03.56marieta.ga.ibone.comcast.net
+N10624	he-0-11-0-0-pe03.56marieta.ga.ibone.comcast.net
+N10624	he-0-11-0-1-pe03.56marieta.ga.ibone.comcast.net
+N10624	he-0-12-0-0-pe03.56marietta.ga.ibone.comcast.net
+N10624	he-0-12-0-1-pe03.56marietta.ga.ibone.comcast.net
+
+
+N10630	he-0-3-0-0-ar01-d.stonemtn.ga.ndcsouth.comcast.net
+N10630	te-0-5-0-2-ar01-d.stonemtn.ga.ndcsouth.comcast.net
+N10630	te-0-5-0-3-ar01-d.stonemtn.ga.ndcsouth.comcast.net
+N10630	te-0-6-0-1-ar01-d.stonemtn.ga.ndcsouth.comcast.net
+
+
+N10664	xe-10-1-0-0-ur12-d.vinings.ga.ndcsouth.comcast.net
+N10664	xe-10-2-0-0-ur12-d.vinings.ga.ndcsouth.comcast.net
+N10664	xe-10-3-0-0-ur12-d.vinings.ga.ndcsouth.comcast.net
+N10664	xe-5-0-0-0-ur12-d.vinings.ga.ndcsouth.comcast.net
+N10664	xe-5-1-0-0-ur12-d.vinings.ga.ndcsouth.comcast.net
+N10664	xe-5-2-0-0-ur12-d.vinings.ga.ndcsouth.comcast.net
+
+
+N12757	as20940-2-c.56marietta.ga.ibone.comcast.net
+
+
+N13059	ge-1-2-9-32767-sur01.y1rome.ga.atlanta.comcast.net
+N13059	xe-8-0-0-0-sur01.y1rome.ga.atlanta.comcast.net
+N13059	xe-8-1-0-0-sur01.y1rome.ga.atlanta.comcast.net
+N13059	xe-9-2-0-0-sur01.y1rome.ga.atlanta.comcast.net
+N13059	xe-9-3-0-0-sur01.y1rome.ga.atlanta.comcast.net
+
+
+N13070	ge-1-2-2-32767-sur01.a6atlanta.ga.atlanta.comcast.net
+N13070	xe-0-0-0-0-sur01.a6atlanta.ga.atlanta.comcast.net
+N13070	xe-0-1-0-0-sur01.a6atlanta.ga.atlanta.comcast.net
+N13070	xe-11-2-0-0-sur01.a6atlanta.ga.atlanta.comcast.net
+N13070	xe-11-3-0-0-sur01.a6atlanta.ga.atlanta.comcast.net
+
+
+N13074	ge-1-2-2-32767-sur01.g2lilburn.ga.atlanta.comcast.net
+N13074	xe-0-0-0-0-sur01.g2lilburn.ga.atlanta.comcast.net
+N13074	xe-0-1-0-0-sur01.g2lilburn.ga.atlanta.comcast.net
+N13074	xe-0-3-0-0-sur01.g2lilburn.ga.atlanta.comcast.net
+N13074	xe-10-3-0-0-sur01.g2lilburn.ga.atlanta.comcast.net
+
+
+N14207	xe-10-0-0-0-ur11-d.vinings.ga.ndcsouth.comcast.net
+N14207	xe-10-1-0-0-ur11-d.vinings.ga.ndcsouth.comcast.net
+N14207	xe-10-2-0-0-ur11-d.vinings.ga.ndcsouth.comcast.net
+N14207	xe-5-1-0-0-ur11-d.vinings.ga.ndcsouth.comcast.net
+N14207	xe-5-2-0-0-ur11-d.vinings.ga.ndcsouth.comcast.net
+
+
+N17875	xe-0-0-0-0-sur01.g6lilburn.ga.atlanta.comcast.net
+N17875	xe-0-3-0-0-sur01.g6lilburn.ga.atlanta.comcast.net
+
+
+N20341	xe-0-0-0-0-sur01.l2douglas.ga.atlanta.comcast.net
+N20341	xe-0-1-0-0-sur01.l2douglas.ga.atlanta.comcast.net
+N20341	xe-10-3-0-0-sur01.l2douglas.ga.atlanta.comcast.net
+N20341	xe-11-3-0-0-sur01.l2douglas.ga.atlanta.comcast.net
+
+
+N20342	xe-0-0-0-0-sur01.b7powsprings.ga.atlanta.comcast.net
+N20342	xe-0-3-0-0-sur01.b7powsprings.ga.atlanta.comcast.net
+N20342	xe-11-2-0-0-sur01.b7powsprings.ga.atlanta.comcast.net
+N20342	xe-11-3-0-0-sur01.b7powsprings.ga.atlanta.comcast.net
+
+
+N20343	xe-0-0-0-0-sur01.g3lilburn.ga.atlanta.comcast.net
+N20343	xe-10-3-0-0-sur01.g3lilburn.ga.atlanta.comcast.net
+N20343	xe-11-3-0-0-sur01.g3lilburn.ga.atlanta.comcast.net
+N20343	xe-9-0-0-0-sur01.g3lilburn.ga.atlanta.comcast.net
+
+
+N20344	xe-10-2-0-0-sur01.w1monroe.ga.atlanta.comcast.net
+N20344	xe-10-3-0-0-sur01.w1monroe.ga.atlanta.comcast.net
+N20344	xe-11-2-0-0-sur01.w1monroe.ga.atlanta.comcast.net
+N20344	xe-11-3-0-0-sur01.w1monroe.ga.atlanta.comcast.net
+
+
+N20345	xe-0-0-0-0-sur01.d1stonemtn.ga.atlanta.comcast.net
+N20345	xe-0-1-0-0-sur01.d1stonemtn.ga.atlanta.comcast.net
+N20345	xe-10-3-0-0-sur01.d1stonemtn.ga.atlanta.comcast.net
+N20345	xe-11-3-0-0-sur01.d1stonemtn.ga.atlanta.comcast.net
+
+
+N20346	xe-0-1-0-0-sur02.d1stonemtn.ga.atlanta.comcast.net
+N20346	xe-10-3-0-0-sur02.d1stonemtn.ga.atlanta.comcast.net
+N20346	xe-11-2-0-0-sur02.d1stonemtn.ga.atlanta.comcast.net
+N20346	xe-11-3-0-0-sur02.d1stonemtn.ga.atlanta.comcast.net
+
+
+N20347	xe-0-0-0-0-sur01.b6powsprings.ga.atlanta.comcast.net
+N20347	xe-0-1-0-0-sur01.b6powsprings.ga.atlanta.comcast.net
+N20347	xe-11-2-0-0-sur01.b6powsprings.ga.atlanta.comcast.net
+N20347	xe-11-3-0-0-sur01.b6powsprings.ga.atlanta.comcast.net
+
+
+N20348	xe-0-0-0-0-sur02.g2lilburn.ga.atlanta.comcast.net
+N20348	xe-0-1-0-0-sur02.g2lilburn.ga.atlanta.comcast.net
+N20348	xe-10-2-0-0-sur02.g2lilburn.ga.atlanta.comcast.net
+N20348	xe-10-3-0-0-sur02.g2lilburn.ga.atlanta.comcast.net
+
+
+N20349	xe-0-0-0-0-sur01.b5mableton.ga.atlanta.comcast.net
+N20349	xe-0-1-0-0-sur01.b5mableton.ga.atlanta.comcast.net
+N20349	xe-10-2-0-0-sur01.b5mableton.ga.atlanta.comcast.net
+N20349	xe-11-3-0-0-sur01.b5mableton.ga.atlanta.comcast.net
+
+
+N20350	xe-0-0-0-0-sur01.n1alpharetta.ga.atlanta.comcast.net
+N20350	xe-0-1-0-0-sur01.n1alpharetta.ga.atlanta.comcast.net
+N20350	xe-10-3-0-0-sur01.n1alpharetta.ga.atlanta.comcast.net
+N20350	xe-11-2-0-0-sur01.n1alpharetta.ga.atlanta.comcast.net
+
+
+N20351	xe-0-0-0-0-sur01.g4snellville.ga.atlanta.comcast.net
+N20351	xe-0-1-0-0-sur01.g4snellville.ga.atlanta.comcast.net
+N20351	xe-10-3-0-0-sur01.g4snellville.ga.atlanta.comcast.net
+N20351	xe-11-3-0-0-sur01.g4snellville.ga.atlanta.comcast.net
+
+
+N20352	xe-0-0-0-0-sur01.f2peachtree.ga.atlanta.comcast.net
+N20352	xe-0-1-0-0-sur01.f2peachtree.ga.atlanta.comcast.net
+N20352	xe-11-2-0-0-sur01.f2peachtree.ga.atlanta.comcast.net
+N20352	xe-11-3-0-0-sur01.f2peachtree.ga.atlanta.comcast.net
+
+
+N20353	xe-0-0-0-0-sur01.f1fayette.ga.atlanta.comcast.net
+N20353	xe-10-2-0-0-sur01.f1fayette.ga.atlanta.comcast.net
+N20353	xe-5-0-0-0-sur01.f1fayette.ga.atlanta.comcast.net
+N20353	xe-9-3-0-0-sur01.f1fayette.ga.atlanta.comcast.net
+
+
+N20354	xe-0-0-0-0-sur01.c3riverdale.ga.atlanta.comcast.net
+N20354	xe-0-1-0-0-sur01.c3riverdale.ga.atlanta.comcast.net
+N20354	xe-11-2-0-0-sur01.c3riverdale.ga.atlanta.comcast.net
+N20354	xe-11-3-0-0-sur01.c3riverdale.ga.atlanta.comcast.net
+
+
+N20355	xe-0-0-0-0-sur01.c1morrow.ga.atlanta.comcast.net
+N20355	xe-0-1-0-0-sur01.c1morrow.ga.atlanta.comcast.net
+N20355	xe-11-2-0-0-sur01.c1morrow.ga.atlanta.comcast.net
+N20355	xe-11-3-0-0-sur01.c1morrow.ga.atlanta.comcast.net
+
+
+N20356	xe-0-0-0-0-sur01.d3stonemtn.ga.atlanta.comcast.net
+N20356	xe-0-3-0-0-sur01.d3stonemtn.ga.atlanta.comcast.net
+N20356	xe-10-2-0-0-sur01.d3stonemtn.ga.atlanta.comcast.net
+N20356	xe-10-3-0-0-sur01.d3stonemtn.ga.atlanta.comcast.net
+
+
+N20357	xe-0-0-0-0-sur01.a5atlanta.ga.atlanta.comcast.net
+N20357	xe-0-1-0-0-sur01.a5atlanta.ga.atlanta.comcast.net
+N20357	xe-11-2-0-0-sur01.a5atlanta.ga.atlanta.comcast.net
+N20357	xe-11-3-0-0-sur01.a5atlanta.ga.atlanta.comcast.net
+
+
+N20358	xe-0-0-0-0-sur01.y3canton.ga.atlanta.comcast.net
+N20358	xe-0-1-0-0-sur01.y3canton.ga.atlanta.comcast.net
+N20358	xe-10-1-0-0-sur01.y3canton.ga.atlanta.comcast.net
+N20358	xe-11-3-0-0-sur01.y3canton.ga.atlanta.comcast.net
+
+
+N20359	xe-0-0-0-0-sur01.d8decatur.ga.atlanta.comcast.net
+N20359	xe-0-1-0-0-sur01.d8decatur.ga.atlanta.comcast.net
+N20359	xe-11-2-0-0-sur01.d8decatur.ga.atlanta.comcast.net
+N20359	xe-11-3-0-0-sur01.d8decatur.ga.atlanta.comcast.net
+
+
+N20360	xe-0-0-0-0-sur01.b2marietta.ga.atlanta.comcast.net
+N20360	xe-0-1-0-0-sur01.b2marietta.ga.atlanta.comcast.net
+N20360	xe-10-2-0-0-sur01.b2marietta.ga.atlanta.comcast.net
+N20360	xe-10-3-0-0-sur01.b2marietta.ga.atlanta.comcast.net
+
+
+N20361	xe-0-0-0-0-sur01.d7decatur.ga.atlanta.comcast.net
+N20361	xe-0-1-0-0-sur01.d7decatur.ga.atlanta.comcast.net
+N20361	xe-11-2-0-0-sur01.d7decatur.ga.atlanta.comcast.net
+N20361	xe-11-3-0-0-sur01.d7decatur.ga.atlanta.comcast.net
+
+
+N20362	xe-0-0-0-0-sur01.f3sfulton.ga.atlanta.comcast.net
+N20362	xe-0-1-0-0-sur01.f3sfulton.ga.atlanta.comcast.net
+N20362	xe-11-2-0-0-sur01.f3sfulton.ga.atlanta.comcast.net
+N20362	xe-11-3-0-0-sur01.f3sfulton.ga.atlanta.comcast.net
+
+
+N20415	he-0-10-0-0-pe04.56marietta.ga.ibone.comcast.net
+N20415	he-0-10-0-1-pe04.56marietta.ga.ibone.comcast.net
+N20415	he-0-11-0-0-pe04.56marietta.ga.ibone.comcast.net
+N20415	he-0-11-0-1-pe04.56marietta.ga.ibone.comcast.net
+
+
+N20425	te-4-1-ar01.augusta.ga.augusta.comcast.net
+N20425	te-4-3-ar01.augusta.ga.augusta.comcast.net
+N20425	te-7-1-ar01.augusta.ga.augusta.comcast.net
+N20425	te-7-3-ar01.augusta.ga.augusta.comcast.net
+
+
+N20426	te-4-1-ar02.augusta.ga.augusta.comcast.net
+N20426	te-4-3-ar02.augusta.ga.augusta.comcast.net
+N20426	te-7-1-ar02.augusta.ga.augusta.comcast.net
+N20426	te-7-3-ar02.augusta.ga.augusta.comcast.net
+
+
+N20435	xe-0-0-0-0-sur01.l1douglas.ga.atlanta.comcast.net
+N20435	xe-0-1-0-0-sur01.l1douglas.ga.atlanta.comcast.net
+N20435	xe-10-0-0-0-sur01.l1douglas.ga.atlanta.comcast.net
+N20435	xe-10-3-0-0-sur01.l1douglas.ga.atlanta.comcast.net
+
+
+N20436	xe-0-0-0-0-sur01.g5snellville.ga.atlanta.comcast.net
+N20436	xe-0-1-0-0-sur01.g5snellville.ga.atlanta.comcast.net
+N20436	xe-11-2-0-0-sur01.g5snellville.ga.atlanta.comcast.net
+N20436	xe-11-3-0-0-sur01.g5snellville.ga.atlanta.comcast.net
+
+
+N20437	xe-0-0-0-0-sur01.g7lilburn.ga.atlanta.comcast.net
+N20437	xe-0-1-0-0-sur01.g7lilburn.ga.atlanta.comcast.net
+N20437	xe-11-2-0-0-sur01.g7lilburn.ga.atlanta.comcast.net
+N20437	xe-11-3-0-0-sur01.g7lilburn.ga.atlanta.comcast.net
+
+
+N20472	te-8-3-ur01.savannah.ga.savannah.comcast.net
+N20472	te-8-4-ur01.savannah.ga.savannah.comcast.net
+N20472	te-9-1-ur01.savannah.ga.savannah.comcast.net
+N20472	te-9-3-ur01.savannah.ga.savannah.comcast.net
+
+
+N28717	xe-0-3-0-0-sr02.j1griffin.ga.atlanta.comcast.net
+
+
+N31940	xe-0-0-0-0-sur01.n3alpharetta.ga.atlanta.comcast.net
+N31940	xe-0-1-0-0-sur01.n3alpharetta.ga.atlanta.comcast.net
+N31940	xe-11-2-0-0-sur01.n3alpharetta.ga.atlanta.comcast.net
+
+
+N31941	xe-0-0-0-0-sur01.n4atlanta.ga.atlanta.comcast.net
+N31941	xe-0-1-0-0-sur01.n4atlanta.ga.atlanta.comcast.net
+N31941	xe-11-3-0-0-sur01.n4atlanta.ga.atlanta.comcast.net
+
+
+N31942	xe-0-0-0-0-sur01.r2conyers.ga.atlanta.comcast.net
+N31942	xe-0-1-0-0-sur01.r2conyers.ga.atlanta.comcast.net
+N31942	xe-11-2-0-0-sur01.r2conyers.ga.atlanta.comcast.net
+
+
+N32002	te-8-1-ur01.brunswick.ga.jacksvil.comcast.net
+N32002	te-8-3-ur01.brunswick.ga.jacksvil.comcast.net
+N32002	te-9-3-ur01.brunswick.ga.jacksvil.comcast.net
+
+
+N32012	pos-0-11-0-0-pe01.56marietta.ga.ibone.comcast.net
+N32012	pos-0-2-0-0-pe01.56marietta.ga.ibone.comcast.net
+N32012	pos-0-3-0-0-pe01.56marietta.ga.ibone.comcast.net
+
+
+N32035	te-9-2-ur01.augusta.ga.augusta.comcast.net
+N32035	te-9-3-ur01.augusta.ga.augusta.comcast.net
+N32035	te-9-4-ur01.augusta.ga.augusta.comcast.net
+
+
+N32036	te-9-2-ur02.augusta.ga.augusta.comcast.net
+N32036	te-9-3-ur02.augusta.ga.augusta.comcast.net
+N32036	te-9-4-ur02.augusta.ga.augusta.comcast.net
+
+
+N32062	te-8-1-ur02.savannah.ga.savannah.comcast.net
+N32062	te-9-1-ur02.savannah.ga.savannah.comcast.net
+N32062	te-9-3-ur02.savannah.ga.savannah.comcast.net
+
+
+N32269	xe-0-0-0-0-sur01.springfield.ga.savannah.comcast.net
+N32269	xe-0-1-0-0-sur01.springfield.ga.savannah.comcast.net
+N32269	xe-11-2-0-0-sur01.springfield.ga.savannah.comcast.net
+
+
+N32270	xe-0-0-0-0-sur01.pooler.ga.savannah.comcast.net
+N32270	xe-11-0-0-0-sur01.pooler.ga.savannah.comcast.net
+N32270	xe-11-3-0-0-sur01.pooler.ga.savannah.comcast.net
+
+
+N5969	ge-1-2-5-32767-sur02.d9chamblee.ga.atlanta.comcast.net
+N5969	ge-1-2-7-32767-sur02.d9chamblee.ga.atlanta.comcast.net
+N5969	xe-0-0-0-0-sur02.d9chamblee.ga.atlanta.comcast.net
+N5969	xe-0-2-0-0-sur02.d9chamblee.ga.atlanta.comcast.net
+N5969	xe-11-0-0-0-sur02.d9chamblee.ga.atlanta.comcast.net
+N5969	xe-11-1-0-0-sur02.d9chamblee.ga.atlanta.comcast.net
+N5969	xe-11-3-0-0-sur02.d9chamblee.ga.atlanta.comcast.net
+N5969	xe-9-1-0-0-sur02.d9chamblee.ga.atlanta.comcast.net
+
+
+N5971	ge-1-3-5-32767-sur01.a3atlanta.ga.atlanta.comcast.net
+N5971	xe-0-0-0-0-sur01.a3atlanta.ga.atlanta.comcast.net
+N5971	xe-11-2-0-0-sur01.a3atlanta.ga.atlanta.comcast.net
+N5971	xe-11-3-0-0-sur01.a3atlanta.ga.atlanta.comcast.net
+N5971	xe-8-0-0-0-sur01.a3atlanta.ga.atlanta.comcast.net
+N5971	xe-8-1-0-32767-sur01.a3atlanta.ga.atlanta.comcast.net
+N5971	xe-9-0-0-0-sur01.a3atlanta.ga.atlanta.comcast.net
+N5971	xe-9-1-0-0-sur01.a3atlanta.ga.atlanta.comcast.net
+
+
+N5972	ge-3-1-5-32767-sur01.d9chamblee.ga.atlanta.comcast.net
+N5972	xe-0-0-0-0-sur01.d9chamblee.ga.atlanta.comcast.net
+N5972	xe-11-0-0-0-sur01.d9chamblee.ga.atlanta.comcast.net
+N5972	xe-11-1-0-0-sur01.d9chamblee.ga.atlanta.comcast.net
+N5972	xe-11-2-0-0-sur01.d9chamblee.ga.atlanta.comcast.net
+N5972	xe-9-0-0-0-sur01.d9chamblee.ga.atlanta.comcast.net
+N5972	xe-9-1-0-0-sur01.d9chamblee.ga.atlanta.comcast.net
+
+
+N6458	te-0-2-0-10-ur06.b0atlanta.ga.atlanta.comcast.net
+N6458	te-0-2-0-15-ur06.b0atlanta.ga.atlanta.comcast.net
+N6458	te-0-7-0-0-ur06.b0atlanta.ga.atlanta.comcast.net
+N6458	te-0-7-0-1-ur06.b0atlanta.ga.atlanta.comcast.net
+N6458	te-0-7-0-2-ur06.b0atlanta.ga.atlanta.comcast.net
+N6458	te-0-7-0-3-ur06.b0atlanta.ga.atlanta.comcast.net
+N6458	te-0-7-0-4-ur06.b0atlanta.ga.atlanta.comcast.net
+N6458	te-0-7-0-5-ur06.b0atlanta.ga.atlanta.comcast.net
+
+
+N7748	xe-0-1-0-0-sur01.y2cartersvil.ga.atlanta.comcast.net
+N7748	xe-0-3-0-0-sur01.y2cartersvil.ga.atlanta.comcast.net
+N7748	xe-10-1-0-0-sur01.y2cartersvil.ga.atlanta.comcast.net
+N7748	xe-11-2-0-0-sur01.y2cartersvil.ga.atlanta.comcast.net
+N7748	xe-9-1-0-0-sur01.y2cartersvil.ga.atlanta.comcast.net
+N7748	xe-9-2-0-0-sur01.y2cartersvil.ga.atlanta.comcast.net
+
+
+N7868	ge-3-0-6-32767-sur01.p1dallas.ga.atlanta.comcast.net
+N7868	xe-0-0-0-0-sur01.p1dallas.ga.atlanta.comcast.net
+N7868	xe-0-1-0-0-sur01.p1dallas.ga.atlanta.comcast.net
+N7868	xe-10-2-0-0-sur01.p1dallas.ga.atlanta.comcast.net
+N7868	xe-11-2-0-0-sur01.p1dallas.ga.atlanta.comcast.net
+N7868	xe-8-0-0-0-sur01.p1dallas.ga.atlanta.comcast.net
+N7868	xe-9-3-0-0-sur01.p1dallas.ga.atlanta.comcast.net
+
+
+N8331	xe-0-0-0-0-sur02.b0atlanta.ga.atlanta.comcast.net
+N8331	xe-0-1-0-0-sur02.b0atlanta.ga.atlanta.comcast.net
+N8331	xe-0-3-0-0-sur02.b0atlanta.ga.atlanta.comcast.net
+N8331	xe-11-2-0-0-sur02.b0atlanta.ga.atlanta.comcast.net
+N8331	xe-7-1-0-0-sur02.b0atlanta.ga.atlanta.comcast.net
+N8331	xe-8-0-0-0-sur02.b0atlanta.ga.atlanta.comcast.net
+N8331	xe-8-1-0-0-sur02.b0atlanta.ga.atlanta.comcast.net
+
+
+N8332	xe-0-0-0-0-sur02.s1marietta.ga.atlanta.comcast.net
+N8332	xe-0-1-0-0-sur02.s1marietta.ga.atlanta.comcast.net
+N8332	xe-0-2-0-0-sur02.s1marietta.ga.atlanta.comcast.net
+N8332	xe-0-3-0-0-sur02.s1marietta.ga.atlanta.comcast.net
+N8332	xe-10-2-0-0-sur02.s1marietta.ga.atlanta.comcast.net
+N8332	xe-10-3-0-0-sur02.s1marietta.ga.atlanta.comcast.net
+N8332	xe-11-3-0-0-sur02.s1marietta.ga.atlanta.comcast.net
+
+
+N8984	te-0-2-0-12-ur05.b0atlanta.ga.atlanta.comcast.net
+N8984	te-0-7-0-0-ur05.b0atlanta.ga.atlanta.comcast.net
+N8984	te-0-7-0-1-ur05.b0atlanta.ga.atlanta.comcast.net
+N8984	te-0-7-0-2-ur05.b0atlanta.ga.atlanta.comcast.net
+N8984	te-0-7-0-3-ur05.b0atlanta.ga.atlanta.comcast.net
+N8984	te-0-7-0-4-ur05.b0atlanta.ga.atlanta.comcast.net
+N8984	te-0-7-0-5-ur05.b0atlanta.ga.atlanta.comcast.net
+
+
+N9739	ge-5-0-2-32767-sur01.g1norcross.ga.atlanta.comcast.net
+N9739	xe-0-0-0-0-sur01.g1norcross.ga.atlanta.comcast.net
+N9739	xe-0-1-0-0-sur01.g1norcross.ga.atlanta.comcast.net
+N9739	xe-10-3-0-0-sur01.g1norcross.ga.atlanta.comcast.net
+N9739	xe-11-2-0-0-sur01.g1norcross.ga.atlanta.comcast.net
+
+
+
+
+N12603	as2906-c-0.ashburn.ibone.comcast.net
+
+
+N1845	as2906-c-0.newyork.ibone.comcast.net
+
+
+N3603	as2906-c-2.ashburn.ibone.comcast.net
+
+
+N4950	as2906-c-2.newyork.ibone.comcast.net
+
+
+N5814	as2906-c-0.sanjose.ibone.comcast.net
+
+
+
+
+N10608	te-0-0-0-0-sur01.springfield.il.chicago.comcast.net
+N10608	te-0-0-0-1-sur01.springfield.il.chicago.comcast.net
+N10608	te-0-0-0-2-sur01.springfield.il.chicago.comcast.net
+N10608	te-0-7-0-1-sur01.springfield.il.chicago.comcast.net
+N10608	te-0-7-0-2-sur01.springfield.il.chicago.comcast.net
+
+
+N10639	te-0-0-0-0-sur02.mendota.il.chicago.comcast.net
+N10639	te-0-0-0-1-sur02.mendota.il.chicago.comcast.net
+N10639	te-0-0-0-2-sur02.mendota.il.chicago.comcast.net
+N10639	te-0-0-0-3-sur02.mendota.il.chicago.comcast.net
+N10639	te-0-7-0-0-sur02.mendota.il.chicago.comcast.net
+N10639	te-0-7-0-3-sur02.mendota.il.chicago.comcast.net
+
+
+N10645	te-0-0-0-0-sur03.chicago201.il.chicago.comcast.net
+N10645	te-0-0-0-1-sur03.chicago201.il.chicago.comcast.net
+N10645	te-0-0-0-6-sur03.chicago201.il.chicago.comcast.net
+N10645	te-0-5-0-0-sur03.chicago201.il.chicago.comcast.net
+N10645	te-0-5-0-1-sur03.chicago201.il.chicago.comcast.net
+N10645	te-0-5-0-2-sur03.chicago201.il.chicago.comcast.net
+
+
+N10646	te-0-0-0-0-sur03.chicago301.il.chicago.comcast.net
+N10646	te-0-0-0-1-sur03.chicago301.il.chicago.comcast.net
+N10646	te-0-7-0-0-sur03.chicago301.il.chicago.comcast.net
+N10646	te-0-7-0-1-sur03.chicago301.il.chicago.comcast.net
+N10646	te-0-7-0-23-sur03.chicago301.il.chicago.comcast.net
+
+
+N11769	xe-4-0-0-0-ur10-d.northlake.il.ndcchgo.comcast.net
+N11769	xe-4-0-1-0-ur10-d.northlake.il.ndcchgo.comcast.net
+N11769	xe-4-0-2-0-ur10-d.northlake.il.ndcchgo.comcast.net
+N11769	xe-4-0-3-0-ur10-d.northlake.il.ndcchgo.comcast.net
+N11769	xe-4-1-0-0-ur10-d.northlake.il.ndcchgo.comcast.net
+N11769	xe-4-1-1-0-ur10-d.northlake.il.ndcchgo.comcast.net
+
+
+N12768	ge-0-5-4-0-3532-sur01.homewood.il.chicago.comcast.net
+N12768	te-0-0-0-0-sur01.homewood.il.chicago.comcast.net
+N12768	te-0-1-0-0-3550-sur01.homewood.il.chicago.comcast.net
+N12768	te-0-7-0-0-sur01.homewood.il.chicago.comcast.net
+
+
+N13062	ge-0-4-3-6-3519-sur01.algonquin.il.chicago.comcast.net
+N13062	ge-0-4-3-7-3591-sur01.algonquin.il.chicago.comcast.net
+N13062	ge-0-5-0-2-3514-sur01.algonquin.il.chicago.comcast.net
+N13062	te-0-0-0-0-sur01.algonquin.il.chicago.comcast.net
+N13062	te-0-7-0-0-sur01.algonquin.il.chicago.comcast.net
+
+
+N14136	te-3-2-ur02.champaign.il.chicago.comcast.net
+N14136	te-3-3-ur02.champaign.il.chicago.comcast.net
+N14136	te-3-4-ur02.champaign.il.chicago.comcast.net
+N14136	te-8-1-ur02.champaign.il.chicago.comcast.net
+N14136	te-8-3-ur02.champaign.il.chicago.comcast.net
+
+
+N14138	te-0-0-0-0-sur02.springfield.il.chicago.comcast.net
+N14138	te-0-0-0-1-sur02.springfield.il.chicago.comcast.net
+N14138	te-0-0-0-2-sur02.springfield.il.chicago.comcast.net
+N14138	te-0-7-0-1-sur02.springfield.il.chicago.comcast.net
+N14138	te-0-7-0-2-sur02.springfield.il.chicago.comcast.net
+
+
+N14149	te-0-5-0-1-ar02.northlake.il.ndcchgo.comcast.net
+N14149	te-0-6-0-3-ar02.northlake.il.ndcchgo.comcast.net
+
+
+N14151	te-4-1-ur01.mtprospect.il.chicago.comcast.net
+N14151	te-6-2-ur01.mtprospect.il.chicago.comcast.net
+N14151	te-7-1-ur01.mtprospect.il.chicago.comcast.net
+N14151	te-8-2-ur01.mtprospect.il.chicago.comcast.net
+N14151	te-8-4-ur01.mtprospect.il.chicago.comcast.net
+
+
+N14152	ge-7-10-ur01.romeoville.il.chicago.comcast.net
+N14152	te-3-1-ur01.romeoville.il.chicago.comcast.net
+N14152	te-3-3-ur01.romeoville.il.chicago.comcast.net
+N14152	te-8-2-ur01.romeoville.il.chicago.comcast.net
+N14152	te-8-4-ur01.romeoville.il.chicago.comcast.net
+
+
+N14160	te-0-0-0-0-sur05.area4.il.chicago.comcast.net
+N14160	te-0-0-0-1-sur05.area4.il.chicago.comcast.net
+N14160	te-0-0-0-2-sur05.area4.il.chicago.comcast.net
+N14160	te-0-0-0-3-sur05.area4.il.chicago.comcast.net
+N14160	te-0-7-0-3-sur05.area4.il.chicago.comcast.net
+
+
+N14161	te-0-0-0-0-sur06.elmhurst.il.chicago.comcast.net
+N14161	te-0-0-0-2-sur06.elmhurst.il.chicago.comcast.net
+N14161	te-0-0-0-3-sur06.elmhurst.il.chicago.comcast.net
+N14161	te-0-0-0-4-sur06.elmhurst.il.chicago.comcast.net
+N14161	te-0-0-0-5-sur06.elmhurst.il.chicago.comcast.net
+
+
+N14162	te-0-0-0-0-sur04.mchenry.il.chicago.comcast.net
+N14162	te-0-0-0-1-sur04.mchenry.il.chicago.comcast.net
+N14162	te-0-0-0-2-sur04.mchenry.il.chicago.comcast.net
+N14162	te-0-0-0-3-sur04.mchenry.il.chicago.comcast.net
+N14162	te-0-0-0-4-sur04.mchenry.il.chicago.comcast.net
+
+
+N14170	te-0-0-0-0-sur04.chicago301.il.chicago.comcast.net
+N14170	te-0-0-0-1-sur04.chicago301.il.chicago.comcast.net
+N14170	te-0-7-0-0-sur04.chicago301.il.chicago.comcast.net
+N14170	te-0-7-0-1-sur04.chicago301.il.chicago.comcast.net
+
+
+N14208	xe-4-1-0-0-ur12-d.mtprospect.il.ndcnorth.comcast.net
+N14208	xe-4-2-0-0-ur12-d.mtprospect.il.ndcnorth.comcast.net
+N14208	xe-4-3-0-0-ur12-d.mtprospect.il.ndcnorth.comcast.net
+N14208	xe-5-0-0-0-ur12-d.mtprospect.il.ndcnorth.comcast.net
+N14208	xe-5-1-0-0-ur12-d.mtprospect.il.ndcnorth.comcast.net
+
+
+N15613	te-0-0-0-0-sur01.dekalb.il.chicago.comcast.net
+N15613	te-0-0-0-1-sur01.dekalb.il.chicago.comcast.net
+N15613	te-0-0-0-2-sur01.dekalb.il.chicago.comcast.net
+N15613	te-0-7-0-0-sur01.dekalb.il.chicago.comcast.net
+N15613	te-0-7-0-2-sur01.dekalb.il.chicago.comcast.net
+
+
+N17855	ge-0-4-0-4-3770-sur01.romeoville.il.chicago.comcast.net
+N17855	ge-0-4-5-5-3570-sur01.romeoville.il.chicago.comcast.net
+N17855	te-0-0-0-0-sur01.romeoville.il.chicago.comcast.net
+N17855	te-0-7-0-0-sur01.romeoville.il.chicago.comcast.net
+
+
+N17860	te-0-0-0-0-sur01.mtprospect.il.chicago.comcast.net
+N17860	te-0-6-0-1-3653-sur01.mtprospect.il.chicago.comcast.net
+N17860	te-0-7-0-0-sur01.mtprospect.il.chicago.comcast.net
+
+
+N17865	ge-0-4-0-1-3725-sur01.mchenry.il.chicago.comcast.net
+N17865	ge-0-4-2-4-3519-sur01.mchenry.il.chicago.comcast.net
+N17865	te-0-0-0-0-sur01.mchenry.il.chicago.comcast.net
+N17865	te-0-7-0-0-sur01.mchenry.il.chicago.comcast.net
+
+
+N17867	ge-0-3-3-3-3518-sur01.chicago302.il.chicago.comcast.net
+N17867	ge-0-3-3-4-3510-sur01.chicago302.il.chicago.comcast.net
+N17867	te-0-0-0-0-sur01.chicago302.il.chicago.comcast.net
+N17867	te-0-7-0-0-sur01.chicago302.il.chicago.comcast.net
+
+
+N20387	te-3-2-ur02.mendota.il.chicago.comcast.net
+N20387	te-4-3-ur02.mendota.il.chicago.comcast.net
+N20387	te-8-1-ur02.mendota.il.chicago.comcast.net
+N20387	te-8-3-ur02.mendota.il.chicago.comcast.net
+
+
+N20388	te-3-1-ur02.peoria.il.chicago.comcast.net
+N20388	te-3-4-ur02.peoria.il.chicago.comcast.net
+N20388	te-8-1-ur02.peoria.il.chicago.comcast.net
+N20388	te-8-3-ur02.peoria.il.chicago.comcast.net
+
+
+N20416	be-10-cr01.350ecermak.il.ibone.comcast.net
+N20416	be-11-cr01.350ecermak.il.ibone.comcast.net
+N20416	he-2-14-0-0-cr01.chicago.il.ibone.comcast.net
+N20416	he-2-15-0-0-cr01.chicago.il.ibone.comcast.net
+
+
+N20422	be-20-3508-pe01.350ecermak.il.ibone.comcast.net
+N20422	pos-1-2-0-0-pe01.350ecermak.il.ibone.comcast.net
+N20422	pos-1-3-0-0-pe01.350ecermak.il.ibone.comcast.net
+
+
+N20438	te-3-1-ur03.elmhurst.il.chicago.comcast.net
+N20438	te-3-2-ur03.elmhurst.il.chicago.comcast.net
+N20438	te-3-3-ur03.elmhurst.il.chicago.comcast.net
+N20438	te-8-2-ur03.elmhurst.il.chicago.comcast.net
+
+
+N20462	te-3-1-ur03.homewood.il.chicago.comcast.net
+N20462	te-3-3-ur03.homewood.il.chicago.comcast.net
+N20462	te-8-2-ur03.homewood.il.chicago.comcast.net
+N20462	te-8-4-ur03.homewood.il.chicago.comcast.net
+
+
+N20463	te-1-1-ur03.nchicago.il.chicago.comcast.net
+N20463	te-3-1-ur03.nchicago.il.chicago.comcast.net
+N20463	te-3-4-ur03.nchicago.il.chicago.comcast.net
+N20463	te-8-1-ur03.nchicago.il.chicago.comcast.net
+
+
+N20464	te-0-0-0-0-sur04.mortongrove.il.chicago.comcast.net
+N20464	te-0-0-0-1-sur04.mortongrove.il.chicago.comcast.net
+N20464	te-0-0-0-2-sur04.mortongrove.il.chicago.comcast.net
+N20464	te-0-0-0-3-sur04.mortongrove.il.chicago.comcast.net
+
+
+N20465	te-3-4-ur05.wchicago.il.chicago.comcast.net
+N20465	te-6-1-ur05.wchicago.il.chicago.comcast.net
+N20465	te-8-1-ur05.wchicago.il.chicago.comcast.net
+N20465	te-8-3-ur05.wchicago.il.chicago.comcast.net
+
+
+N20467	te-0-0-0-0-sur01.epeoria.il.chicago.comcast.net
+N20467	te-0-0-0-1-sur01.epeoria.il.chicago.comcast.net
+N20467	te-0-7-0-0-sur01.epeoria.il.chicago.comcast.net
+N20467	te-0-7-0-1-sur01.epeoria.il.chicago.comcast.net
+
+
+N20486	te-8-2-ur05-d.area4.il.chicago.comcast.net
+N20486	te-8-4-ur05-d.area4.il.chicago.comcast.net
+N20486	te-9-2-ur05-d.area4.il.chicago.comcast.net
+N20486	te-9-4-ur05-d.area4.il.chicago.comcast.net
+
+
+N24040	te-0-0-0-0-sur01.kankakee.il.chicago.comcast.net
+N24040	te-0-0-0-1-sur01.kankakee.il.chicago.comcast.net
+N24040	te-0-7-0-0-sur01.kankakee.il.chicago.comcast.net
+N24040	te-0-7-0-1-sur01.kankakee.il.chicago.comcast.net
+
+
+N27723	as7272-1-c.chicago.il.ibone.comcast.net
+
+
+N28707	ge-0-4-1-4-2620-sur01.rollingmdws.il.chicago.comcast.net
+N28707	te-0-1-0-0-3533-sur01.rollingmdws.il.chicago.comcast.net
+N28707	te-0-5-0-0-sur01.rollingmdws.il.chicago.comcast.net
+
+
+N28734	ge-0-3-5-0-3511-sur01.chicago201.il.chicago.comcast.net
+N28734	te-0-0-0-0-sur01.chicago201.il.chicago.comcast.net
+N28734	te-0-7-0-0-sur01.chicago201.il.chicago.comcast.net
+
+
+N2963	pos-1-10-0-0-cr01.350ecermak.il.ibone.comcast.net
+N2963	pos-1-12-0-0-cr01.350ecermak.il.ibone.comcast.net
+
+
+N31969	po-90-ur14.area4.il.chicago.comcast.net
+N31969	te-8-1-ur14.area4.il.chicago.comcast.net
+N31969	te-8-3-ur14.area4.il.chicago.comcast.net
+
+
+N31970	te-3-1-ur02.pekin.il.chicago.comcast.net
+N31970	te-3-3-ur02.pekin.il.chicago.comcast.net
+N31970	te-8-1-ur02.pekin.il.chicago.comcast.net
+
+
+N31971	te-3-1-ur02.decatur.il.chicago.comcast.net
+N31971	te-3-3-ur02.decatur.il.chicago.comcast.net
+N31971	te-3-4-ur02.decatur.il.chicago.comcast.net
+
+
+N31973	te-3-1-ur01.rockford.il.chicago.comcast.net
+N31973	te-3-4-ur01.rockford.il.chicago.comcast.net
+N31973	te-8-1-ur01.rockford.il.chicago.comcast.net
+
+
+N32013	he-0-3-0-0-ar01-d.mtprospect.il.ndcnorth.comcast.net
+N32013	te-0-0-0-1-ar01-d.mtprospect.il.ndcnorth.comcast.net
+N32013	te-0-7-0-3-ar01-d.mtprospect.il.ndcnorth.comcast.net
+
+
+N32016	te-0-5-0-1-ar01.northlake.il.ndcchgo.comcast.net
+N32016	te-0-6-0-3-ar01.northlake.il.ndcchgo.comcast.net
+
+
+N32026	te-8-1-ur10.area4.il.chicago.comcast.net
+N32026	te-8-2-ur10.area4.il.chicago.comcast.net
+N32026	te-8-3-ur10.area4.il.chicago.comcast.net
+
+
+N32048	te-4-4-ur06.wchicago.il.chicago.comcast.net
+N32048	te-6-1-ur06.wchicago.il.chicago.comcast.net
+N32048	te-6-3-ur06.wchicago.il.chicago.comcast.net
+
+
+N32079	te-8-1-ur08-d.area4.il.chicago.comcast.net
+N32079	te-8-3-ur08-d.area4.il.chicago.comcast.net
+N32079	te-9-3-ur08-d.area4.il.chicago.comcast.net
+
+
+N32080	te-0-0-0-0-sur04.chicago201.il.chicago.comcast.net
+N32080	te-0-0-0-1-sur04.chicago201.il.chicago.comcast.net
+N32080	te-0-0-0-6-sur04.chicago201.il.chicago.comcast.net
+
+
+N32081	te-3-3-ur09.mtprospect.il.chicago.comcast.net
+N32081	te-8-2-ur09.mtprospect.il.chicago.comcast.net
+N32081	te-8-4-ur09.mtprospect.il.chicago.comcast.net
+
+
+N32082	po-20-ur05.mtprospect.il.chicago.comcast.net
+N32082	te-3-1-ur05.mtprospect.il.chicago.comcast.net
+N32082	te-3-3-ur05.mtprospect.il.chicago.comcast.net
+
+
+N32261	xe-4-0-0-0-ur01-d.northlake.il.ndcchgo.comcast.net
+N32261	xe-4-2-0-0-ur01-d.northlake.il.ndcchgo.comcast.net
+N32261	xe-7-2-0-0-ur01-d.northlake.il.ndcchgo.comcast.net
+
+
+N32273	te-1-1-ur04.nchicago.il.chicago.comcast.net
+N32273	te-3-1-ur04.nchicago.il.chicago.comcast.net
+N32273	te-3-4-ur04.nchicago.il.chicago.comcast.net
+
+
+N3349	pos-0-10-0-0-cr01.350ecermak.il.ibone.comcast.net
+N3349	pos-0-8-0-0-cr01.350ecermak.il.ibone.comcast.net
+N3349	pos-0-9-0-0-cr01.350ecermak.il.ibone.comcast.net
+N3349	shaw-cr01.chicago.il.ibone.comcast.net
+
+
+N3353	te-0-0-0-0-sur04.rollingmdws.il.chicago.comcast.net
+N3353	te-0-0-0-1-sur04.rollingmdws.il.chicago.comcast.net
+N3353	te-0-0-0-2-sur04.rollingmdws.il.chicago.comcast.net
+N3353	te-0-0-0-3-sur04.rollingmdws.il.chicago.comcast.net
+N3353	te-0-7-0-0-sur04.rollingmdws.il.chicago.comcast.net
+N3353	te-0-7-0-1-sur04.rollingmdws.il.chicago.comcast.net
+N3353	te-0-7-0-2-sur04.rollingmdws.il.chicago.comcast.net
+N3353	te-0-7-0-3-sur04.rollingmdws.il.chicago.comcast.net
+
+
+N3356	te-0-0-0-0-sur04.homewood.il.chicago.comcast.net
+N3356	te-0-0-0-1-sur04.homewood.il.chicago.comcast.net
+N3356	te-0-0-0-2-sur04.homewood.il.chicago.comcast.net
+N3356	te-0-0-0-3-sur04.homewood.il.chicago.comcast.net
+N3356	te-0-0-0-4-sur04.homewood.il.chicago.comcast.net
+N3356	te-0-0-0-5-sur04.homewood.il.chicago.comcast.net
+N3356	te-0-0-0-6-sur04.homewood.il.chicago.comcast.net
+N3356	te-0-0-0-7-sur04.homewood.il.chicago.comcast.net
+N3356	te-0-7-0-3-sur04.homewood.il.chicago.comcast.net
+
+
+N3605	rogers-pe01.350ecermak.il.ibone.comcast.net
+
+
+N3810	te-0-0-0-0-sur01.champaign.il.chicago.comcast.net
+N3810	te-0-0-0-1-sur01.champaign.il.chicago.comcast.net
+N3810	te-0-0-0-2-sur01.champaign.il.chicago.comcast.net
+N3810	te-0-0-0-3-sur01.champaign.il.chicago.comcast.net
+N3810	te-0-0-0-4-sur01.champaign.il.chicago.comcast.net
+N3810	te-0-0-0-5-sur01.champaign.il.chicago.comcast.net
+N3810	te-0-7-0-1-sur01.champaign.il.chicago.comcast.net
+N3810	te-0-7-0-2-sur01.champaign.il.chicago.comcast.net
+N3810	te-0-7-0-5-sur01.champaign.il.chicago.comcast.net
+
+
+N3812	te-0-0-0-0-sur01.normal.il.chicago.comcast.net
+N3812	te-0-0-0-1-sur01.normal.il.chicago.comcast.net
+N3812	te-0-0-0-2-sur01.normal.il.chicago.comcast.net
+N3812	te-0-0-0-3-sur01.normal.il.chicago.comcast.net
+N3812	te-0-7-0-1-sur01.normal.il.chicago.comcast.net
+N3812	te-0-7-0-2-sur01.normal.il.chicago.comcast.net
+N3812	te-0-7-0-3-sur01.normal.il.chicago.comcast.net
+
+
+N5332	te-0-0-0-0-sur04.algonquin.il.chicago.comcast.net
+N5332	te-0-0-0-2-sur04.algonquin.il.chicago.comcast.net
+N5332	te-0-0-0-3-sur04.algonquin.il.chicago.comcast.net
+N5332	te-0-0-0-4-sur04.algonquin.il.chicago.comcast.net
+N5332	te-0-0-0-5-sur04.algonquin.il.chicago.comcast.net
+N5332	te-0-7-0-1-sur04.algonquin.il.chicago.comcast.net
+
+
+N5335	te-0-0-0-0-sur06.area4.il.chicago.comcast.net
+N5335	te-0-0-0-1-sur06.area4.il.chicago.comcast.net
+N5335	te-0-0-0-2-sur06.area4.il.chicago.comcast.net
+N5335	te-0-0-0-3-sur06.area4.il.chicago.comcast.net
+N5335	te-0-7-0-0-sur06.area4.il.chicago.comcast.net
+N5335	te-0-7-0-1-sur06.area4.il.chicago.comcast.net
+N5335	te-0-7-0-2-sur06.area4.il.chicago.comcast.net
+N5335	te-0-7-0-3-sur06.area4.il.chicago.comcast.net
+
+
+N5970	ge-0-4-0-1-3789-sur01.wchicago.il.chicago.comcast.net
+N5970	te-0-0-0-0-sur01.wchicago.il.chicago.comcast.net
+N5970	te-0-0-0-3-3815-sur01.wchicago.il.chicago.comcast.net
+N5970	te-0-1-0-3-3710-sur01.wchicago.il.chicago.comcast.net
+N5970	te-0-6-0-0-3521-sur01.wchicago.il.chicago.comcast.net
+N5970	te-0-6-0-0-3563-sur01.wchicago.il.chicago.comcast.net
+N5970	te-0-7-0-0-sur01.wchicago.il.chicago.comcast.net
+N5970	te-0-7-0-2-2555-sur01.wchicago.il.chicago.comcast.net
+
+
+N6415	as1668-pe01.350ecermak.il.ibone.comcast.net
+
+
+N6451	te-0-0-0-0-sur02.rockford.il.chicago.comcast.net
+N6451	te-0-0-0-1-sur02.rockford.il.chicago.comcast.net
+N6451	te-0-0-0-2-sur02.rockford.il.chicago.comcast.net
+N6451	te-0-0-0-3-sur02.rockford.il.chicago.comcast.net
+N6451	te-0-0-0-4-sur02.rockford.il.chicago.comcast.net
+N6451	te-0-0-0-5-sur02.rockford.il.chicago.comcast.net
+N6451	te-0-0-0-7-sur02.rockford.il.chicago.comcast.net
+N6451	te-0-7-0-6-sur02.rockford.il.chicago.comcast.net
+
+
+N6454	pos-0-13-0-0-pe01.350ecermak.il.ibone.comcast.net
+N6454	pos-1-8-0-0-pe01.350ecermak.il.ibone.comcast.net
+
+
+N6460	te-0-0-0-1-sur04.nchicago.il.chicago.comcast.net
+N6460	te-0-0-0-2-sur04.nchicago.il.chicago.comcast.net
+N6460	te-0-0-0-5-sur04.nchicago.il.chicago.comcast.net
+N6460	te-0-0-0-6-sur04.nchicago.il.chicago.comcast.net
+N6460	te-0-0-0-7-sur04.nchicago.il.chicago.comcast.net
+N6460	te-0-7-0-1-sur04.nchicago.il.chicago.comcast.net
+
+
+N6461	te-0-0-0-0-sur03.mortongrove.il.chicago.comcast.net
+N6461	te-0-0-0-1-sur03.mortongrove.il.chicago.comcast.net
+N6461	te-0-0-0-2-sur03.mortongrove.il.chicago.comcast.net
+N6461	te-0-0-0-3-sur03.mortongrove.il.chicago.comcast.net
+N6461	te-0-7-0-1-sur03.mortongrove.il.chicago.comcast.net
+N6461	te-0-7-0-2-sur03.mortongrove.il.chicago.comcast.net
+N6461	te-0-7-0-23-sur03.mortongrove.il.chicago.comcast.net
+N6461	te-0-7-0-3-sur03.mortongrove.il.chicago.comcast.net
+
+
+N6462	te-0-0-0-0-sur03.rollingmdws.il.chicago.comcast.net
+N6462	te-0-0-0-1-sur03.rollingmdws.il.chicago.comcast.net
+N6462	te-0-0-0-2-sur03.rollingmdws.il.chicago.comcast.net
+N6462	te-0-0-0-3-sur03.rollingmdws.il.chicago.comcast.net
+N6462	te-0-7-0-0-sur03.rollingmdws.il.chicago.comcast.net
+N6462	te-0-7-0-1-sur03.rollingmdws.il.chicago.comcast.net
+N6462	te-0-7-0-2-sur03.rollingmdws.il.chicago.comcast.net
+N6462	te-0-7-0-3-sur03.rollingmdws.il.chicago.comcast.net
+
+
+N6463	te-0-0-0-0-sur02.normal.il.chicago.comcast.net
+N6463	te-0-0-0-1-sur02.normal.il.chicago.comcast.net
+N6463	te-0-0-0-2-sur02.normal.il.chicago.comcast.net
+N6463	te-0-0-0-3-sur02.normal.il.chicago.comcast.net
+N6463	te-0-7-0-0-sur02.normal.il.chicago.comcast.net
+N6463	te-0-7-0-1-sur02.normal.il.chicago.comcast.net
+N6463	te-0-7-0-2-sur02.normal.il.chicago.comcast.net
+N6463	te-0-7-0-3-sur02.normal.il.chicago.comcast.net
+
+
+N8338	te-0-0-0-0-sur01.mendota.il.chicago.comcast.net
+N8338	te-0-0-0-1-sur01.mendota.il.chicago.comcast.net
+N8338	te-0-0-0-2-sur01.mendota.il.chicago.comcast.net
+N8338	te-0-0-0-3-sur01.mendota.il.chicago.comcast.net
+N8338	te-0-7-0-1-sur01.mendota.il.chicago.comcast.net
+N8338	te-0-7-0-2-sur01.mendota.il.chicago.comcast.net
+
+
+N8371	te-0-0-0-0-sur05.mtprospect.il.chicago.comcast.net
+N8371	te-0-7-0-0-sur05.mtprospect.il.chicago.comcast.net
+N8371	te-0-7-0-1-sur05.mtprospect.il.chicago.comcast.net
+N8371	te-0-7-0-4-sur05.mtprospect.il.chicago.comcast.net
+N8371	te-0-7-0-5-sur05.mtprospect.il.chicago.comcast.net
+N8371	te-0-7-0-7-sur05.mtprospect.il.chicago.comcast.net
+N8371	te-0-7-0-8-sur05.mtprospect.il.chicago.comcast.net
+
+
+N9532	as20940-1-c.350ecermak.il.ibone.comcast.net
+
+
+N9737	te-0-0-0-0-sur01.nchicago.il.chicago.comcast.net
+N9737	te-0-0-0-2-3547-sur01.nchicago.il.chicago.comcast.net
+N9737	te-0-6-0-0-3515-sur01.nchicago.il.chicago.comcast.net
+N9737	te-0-6-0-1-3860-sur01.nchicago.il.chicago.comcast.net
+N9737	te-0-7-0-0-sur01.nchicago.il.chicago.comcast.net
+N9737	te-0-7-0-2-3608-sur01.nchicago.il.chicago.comcast.net
+
+
+
+
+N10607	te-3-2-ur02.greenwood.in.indiana.comcast.net
+N10607	te-3-3-ur02.greenwood.in.indiana.comcast.net
+N10607	te-3-4-ur02.greenwood.in.indiana.comcast.net
+N10607	te-7-1-ur02.greenwood.in.indiana.comcast.net
+N10607	te-8-1-ur02.greenwood.in.indiana.comcast.net
+
+
+N10609	te-5-1-ur01.seymour.in.indiana.comcast.net
+N10609	te-5-3-ur01.seymour.in.indiana.comcast.net
+N10609	te-5-4-ur01.seymour.in.indiana.comcast.net
+N10609	te-7-2-ur01.seymour.in.indiana.comcast.net
+N10609	te-8-2-ur01.seymour.in.indiana.comcast.net
+N10609	te-8-4-ur01.seymour.in.indiana.comcast.net
+
+
+N13061	ge-0-3-0-8-3525-sur01.beechgrove.in.indiana.comcast.net
+N13061	te-0-0-0-0-sur01.beechgrove.in.indiana.comcast.net
+N13061	te-0-0-0-2-sur01.beechgrove.in.indiana.comcast.net
+N13061	te-0-7-0-0-sur01.beechgrove.in.indiana.comcast.net
+N13061	te-0-7-0-2-sur01.beechgrove.in.indiana.comcast.net
+
+
+N14137	te-3-3-ur01.bloomington.in.indiana.comcast.net
+N14137	te-5-4-ur01.bloomington.in.indiana.comcast.net
+N14137	te-8-1-ur01.bloomington.in.indiana.comcast.net
+N14137	te-8-3-ur01.bloomington.in.indiana.comcast.net
+
+
+N14158	te-7-1-ur02.connersville.in.indiana.comcast.net
+N14158	te-7-4-ur02.connersville.in.indiana.comcast.net
+N14158	te-8-1-ur02.connersville.in.indiana.comcast.net
+N14158	te-8-4-ur02.connersville.in.indiana.comcast.net
+N14158	te-9-1-ur02.connersville.in.indiana.comcast.net
+
+
+N14159	te-3-1-ur01.shelbyville.in.indiana.comcast.net
+N14159	te-5-1-ur01.shelbyville.in.indiana.comcast.net
+N14159	te-5-3-ur01.shelbyville.in.indiana.comcast.net
+N14159	te-8-3-ur01.shelbyville.in.indiana.comcast.net
+N14159	te-8-8-ur01.shelbyville.in.indiana.comcast.net
+
+
+N14206	te-0-0-0-0-ur05.main.in.indiana.comcast.net
+N14206	te-0-0-0-1-ur05.main.in.indiana.comcast.net
+N14206	te-0-0-0-2-ur05.main.in.indiana.comcast.net
+N14206	te-0-0-0-3-ur05.main.in.indiana.comcast.net
+N14206	te-0-0-0-4-ur05.main.in.indiana.comcast.net
+
+
+N20386	te-4-1-ur02.lafayette.in.indiana.comcast.net
+N20386	te-4-3-ur02.lafayette.in.indiana.comcast.net
+N20386	te-8-1-ur02.lafayette.in.indiana.comcast.net
+
+
+N20389	te-3-1-ur02.kokomo.in.indiana.comcast.net
+N20389	te-3-2-ur02.kokomo.in.indiana.comcast.net
+N20389	te-3-3-ur02.kokomo.in.indiana.comcast.net
+N20389	te-9-1-ur02.kokomo.in.indiana.comcast.net
+
+
+N20390	te-4-2-ur01.monticello.in.indiana.comcast.net
+N20390	te-4-3-ur01.monticello.in.indiana.comcast.net
+N20390	te-5-1-ur01.monticello.in.indiana.comcast.net
+N20390	te-5-3-ur01.monticello.in.indiana.comcast.net
+
+
+N20487	te-0-0-0-0-sur03.hammond.in.chicago.comcast.net
+N20487	te-0-0-0-1-sur03.hammond.in.chicago.comcast.net
+N20487	te-0-7-0-0-sur03.hammond.in.chicago.comcast.net
+N20487	te-0-7-0-1-sur03.hammond.in.chicago.comcast.net
+
+
+N20489	te-0-0-0-0-sur01.lawrence.in.indiana.comcast.net
+N20489	te-0-0-0-2-sur01.lawrence.in.indiana.comcast.net
+N20489	te-0-7-0-1-3509-sur01.lawrence.in.indiana.comcast.net
+N20489	te-0-7-0-2-sur01.lawrence.in.indiana.comcast.net
+
+
+N20490	te-0-0-0-0-sur01.speedway.in.indiana.comcast.net
+N20490	te-0-0-0-1-sur01.speedway.in.indiana.comcast.net
+N20490	te-0-7-0-0-sur01.speedway.in.indiana.comcast.net
+N20490	te-0-7-0-1-sur01.speedway.in.indiana.comcast.net
+
+
+N20491	te-0-0-0-0-sur01.peru.in.indiana.comcast.net
+N20491	te-0-0-0-5-sur01.peru.in.indiana.comcast.net
+N20491	te-0-7-0-0-sur01.peru.in.indiana.comcast.net
+N20491	te-0-7-0-5-sur01.peru.in.indiana.comcast.net
+
+
+N20564	te-3-1-ur02.muncie.in.indiana.comcast.net
+N20564	te-3-3-ur02.muncie.in.indiana.comcast.net
+N20564	te-7-1-ur02.muncie.in.indiana.comcast.net
+N20564	te-7-3-ur02.muncie.in.indiana.comcast.net
+
+
+N2368	te-0-0-0-2-sur01.indianapolis.in.indiana.comcast.net
+N2368	te-0-0-0-3-sur01.indianapolis.in.indiana.comcast.net
+N2368	te-0-0-0-4-sur01.indianapolis.in.indiana.comcast.net
+N2368	te-0-7-0-0-sur01.indianapolis.in.indiana.comcast.net
+N2368	te-0-7-0-1-sur01.indianapolis.in.indiana.comcast.net
+N2368	te-0-7-0-2-sur01.indianapolis.in.indiana.comcast.net
+N2368	te-0-7-0-3-sur01.indianapolis.in.indiana.comcast.net
+N2368	te-0-7-0-4-sur01.indianapolis.in.indiana.comcast.net
+N2368	te-0-7-0-5-sur01.indianapolis.in.indiana.comcast.net
+
+
+N28697	ge-0-4-2-0-3555-sur01.hammond.in.chicago.comcast.net
+N28697	te-0-0-0-0-sur01.hammond.in.chicago.comcast.net
+N28697	te-0-7-0-0-sur01.hammond.in.chicago.comcast.net
+
+
+N28699	ge-0-3-0-6-3975-sur01.elkhart.in.sbend.comcast.net
+N28699	te-0-0-0-0-sur01.elkhart.in.sbend.comcast.net
+N28699	te-0-7-0-0-sur01.elkhart.in.sbend.comcast.net
+
+
+N2962	he-0-13-0-0-ar01.kokomo.in.indiana.comcast.net
+N2962	he-0-14-0-0-ar01.kokomo.in.indiana.comcast.net
+N2962	he-0-15-0-0-ar01.kokomo.in.indiana.comcast.net
+N2962	pos-0-0-0-0-ar01.kokomo.in.indiana.comcast.net
+N2962	pos-0-1-0-0-ar01.kokomo.in.indiana.comcast.net
+N2962	pos-0-2-0-0-ar01.kokomo.in.indiana.comcast.net
+N2962	te-0-11-0-3-ar01.kokomo.in.indiana.comcast.net
+
+
+N31968	te-6-2-ur02.main.in.indiana.comcast.net
+N31968	te-6-3-ur02.main.in.indiana.comcast.net
+N31968	te-7-4-ur02.main.in.indiana.comcast.net
+
+
+N31972	te-3-2-ur02.richmond.in.indiana.comcast.net
+N31972	te-8-1-ur02.richmond.in.indiana.comcast.net
+N31972	te-8-3-ur02.richmond.in.indiana.comcast.net
+
+
+N32047	te-3-4-ur01.columbus.in.indiana.comcast.net
+N32047	te-5-1-ur01.columbus.in.indiana.comcast.net
+N32047	te-5-3-ur01.columbus.in.indiana.comcast.net
+
+
+N32049	te-5-1-ur01.peru.in.indiana.comcast.net
+N32049	te-5-3-ur01.peru.in.indiana.comcast.net
+N32049	te-7-3-ur01.peru.in.indiana.comcast.net
+
+
+N32085	te-0-0-0-0-sur01.northwest.in.indiana.comcast.net
+N32085	te-0-7-0-0-sur01.northwest.in.indiana.comcast.net
+N32085	te-0-7-0-1-sur01.northwest.in.indiana.comcast.net
+
+
+N32268	te-7-1-ur01.greenwood.in.indiana.comcast.net
+N32268	te-7-3-ur01.greenwood.in.indiana.comcast.net
+N32268	te-8-1-ur01.greenwood.in.indiana.comcast.net
+
+
+N32279	te-3-1-ur01.griffith.in.chicago.comcast.net
+N32279	te-3-4-ur01.griffith.in.chicago.comcast.net
+N32279	te-6-3-ur01.griffith.in.chicago.comcast.net
+
+
+N3823	he-1-13-0-0-ar01.indianapolis.in.indiana.comcast.net
+N3823	he-1-14-0-0-ar01.indianapolis.in.indiana.comcast.net
+N3823	he-1-15-0-0-ar01.indianapolis.in.indiana.comcast.net
+
+
+N4194	ge-0-3-0-26-3503-sur01.noblesville.in.indiana.comcast.net
+N4194	te-0-0-0-0-sur01.noblesville.in.indiana.comcast.net
+N4194	te-0-0-0-1-sur01.noblesville.in.indiana.comcast.net
+N4194	te-0-0-0-2-sur01.noblesville.in.indiana.comcast.net
+N4194	te-0-0-0-3-sur01.noblesville.in.indiana.comcast.net
+N4194	te-0-7-0-0-sur01.noblesville.in.indiana.comcast.net
+N4194	te-0-7-0-1-sur01.noblesville.in.indiana.comcast.net
+N4194	te-0-7-0-2-sur01.noblesville.in.indiana.comcast.net
+N4194	te-0-7-0-3-sur01.noblesville.in.indiana.comcast.net
+
+
+N5327	te-3-1-ur01.lafayette.in.indiana.comcast.net
+N5327	te-3-2-ur01.lafayette.in.indiana.comcast.net
+N5327	te-3-3-ur01.lafayette.in.indiana.comcast.net
+N5327	te-3-4-ur01.lafayette.in.indiana.comcast.net
+N5327	te-4-1-ur01.lafayette.in.indiana.comcast.net
+N5327	te-7-8-ur01.lafayette.in.indiana.comcast.net
+N5327	te-8-2-ur01.lafayette.in.indiana.comcast.net
+N5327	te-8-3-ur01.lafayette.in.indiana.comcast.net
+
+
+N5336	te-0-0-0-18-sur03.valparaiso.in.chicago.comcast.net
+N5336	te-0-0-0-19-sur03.valparaiso.in.chicago.comcast.net
+N5336	te-0-0-0-20-sur03.valparaiso.in.chicago.comcast.net
+N5336	te-0-0-0-21-sur03.valparaiso.in.chicago.comcast.net
+N5336	te-0-0-0-22-sur03.valparaiso.in.chicago.comcast.net
+N5336	te-0-3-0-23-sur03.valparaiso.in.chicago.comcast.net
+N5336	te-0-7-0-0-sur03.valparaiso.in.chicago.comcast.net
+N5336	te-0-7-0-1-sur03.valparaiso.in.chicago.comcast.net
+N5336	te-0-7-0-2-sur03.valparaiso.in.chicago.comcast.net
+
+
+N6450	te-0-0-0-0-sur01.griffith.in.chicago.comcast.net
+N6450	te-0-0-0-1-sur01.griffith.in.chicago.comcast.net
+N6450	te-0-0-0-16-sur01.griffith.in.chicago.comcast.net
+N6450	te-0-0-0-17-sur01.griffith.in.chicago.comcast.net
+N6450	te-0-0-0-2-sur01.griffith.in.chicago.comcast.net
+N6450	te-0-0-0-3-sur01.griffith.in.chicago.comcast.net
+N6450	te-0-0-0-4-sur01.griffith.in.chicago.comcast.net
+N6450	te-0-7-0-21-sur01.griffith.in.chicago.comcast.net
+
+
+N6452	te-3-1-ur02.bloomington.in.indiana.comcast.net
+N6452	te-3-2-ur02.bloomington.in.indiana.comcast.net
+N6452	te-3-4-ur02.bloomington.in.indiana.comcast.net
+N6452	te-5-4-ur02.bloomington.in.indiana.comcast.net
+N6452	te-8-1-ur02.bloomington.in.indiana.comcast.net
+N6452	te-8-3-ur02.bloomington.in.indiana.comcast.net
+
+
+N6467	te-0-0-0-0-sur01.mishawaka.in.sbend.comcast.net
+N6467	te-0-0-0-1-sur01.mishawaka.in.sbend.comcast.net
+N6467	te-0-0-0-2-sur01.mishawaka.in.sbend.comcast.net
+N6467	te-0-0-0-3-sur01.mishawaka.in.sbend.comcast.net
+N6467	te-0-0-0-4-sur01.mishawaka.in.sbend.comcast.net
+N6467	te-0-0-0-5-sur01.mishawaka.in.sbend.comcast.net
+N6467	te-0-0-0-6-sur01.mishawaka.in.sbend.comcast.net
+N6467	te-0-0-0-7-sur01.mishawaka.in.sbend.comcast.net
+
+
+N6468	te-0-2-0-2-sur02.kokomo.in.indiana.comcast.net
+N6468	te-0-2-0-3-sur02.kokomo.in.indiana.comcast.net
+N6468	te-0-2-0-4-sur02.kokomo.in.indiana.comcast.net
+N6468	te-0-2-0-5-sur02.kokomo.in.indiana.comcast.net
+N6468	te-0-7-0-4-sur02.kokomo.in.indiana.comcast.net
+N6468	te-0-7-0-5-sur02.kokomo.in.indiana.comcast.net
+N6468	te-0-7-0-6-sur02.kokomo.in.indiana.comcast.net
+N6468	te-0-7-0-7-sur02.kokomo.in.indiana.comcast.net
+
+
+N6469	te-0-0-0-0-sur02.anderson.in.indiana.comcast.net
+N6469	te-0-0-0-1-sur02.anderson.in.indiana.comcast.net
+N6469	te-0-0-0-2-sur02.anderson.in.indiana.comcast.net
+N6469	te-0-0-0-3-sur02.anderson.in.indiana.comcast.net
+N6469	te-0-7-0-0-sur02.anderson.in.indiana.comcast.net
+N6469	te-0-7-0-1-sur02.anderson.in.indiana.comcast.net
+N6469	te-0-7-0-2-sur02.anderson.in.indiana.comcast.net
+N6469	te-0-7-0-3-sur02.anderson.in.indiana.comcast.net
+
+
+N8334	te-3-1-ur02.columbus.in.indiana.comcast.net
+N8334	te-3-2-ur02.columbus.in.indiana.comcast.net
+N8334	te-3-3-ur02.columbus.in.indiana.comcast.net
+N8334	te-4-3-ur02.columbus.in.indiana.comcast.net
+N8334	te-5-1-ur02.columbus.in.indiana.comcast.net
+N8334	te-5-3-ur02.columbus.in.indiana.comcast.net
+N8334	te-5-4-ur02.columbus.in.indiana.comcast.net
+
+
+N8339	te-0-0-0-0-sur01.anderson.in.indiana.comcast.net
+N8339	te-0-0-0-4-sur01.anderson.in.indiana.comcast.net
+N8339	te-0-0-0-6-sur01.anderson.in.indiana.comcast.net
+N8339	te-0-0-0-7-sur01.anderson.in.indiana.comcast.net
+N8339	te-0-2-0-3-sur01.anderson.in.indiana.comcast.net
+N8339	te-0-2-0-5-sur01.anderson.in.indiana.comcast.net
+
+
+N8340	te-0-0-0-0-sur01.kokomo.in.indiana.comcast.net
+N8340	te-0-0-0-2-sur01.kokomo.in.indiana.comcast.net
+N8340	te-0-0-0-3-sur01.kokomo.in.indiana.comcast.net
+N8340	te-0-2-0-2-sur01.kokomo.in.indiana.comcast.net
+N8340	te-0-2-0-4-sur01.kokomo.in.indiana.comcast.net
+N8340	te-0-2-0-5-sur01.kokomo.in.indiana.comcast.net
+
+
+N8353	te-0-0-0-18-sur04.valparaiso.in.chicago.comcast.net
+N8353	te-0-0-0-19-sur04.valparaiso.in.chicago.comcast.net
+N8353	te-0-0-0-20-sur04.valparaiso.in.chicago.comcast.net
+N8353	te-0-0-0-21-sur04.valparaiso.in.chicago.comcast.net
+N8353	te-0-0-0-22-sur04.valparaiso.in.chicago.comcast.net
+N8353	te-0-7-0-2-sur04.valparaiso.in.chicago.comcast.net
+
+
+
+
+N31949	ge-2-16-sr01.paducah.ky.nash.comcast.net
+N31949	te-3-2-sr01.paducah.ky.nash.comcast.net
+N31949	te-3-3-sr01.paducah.ky.nash.comcast.net
+
+
+
+
+N12767	ge-0-2-3-1-2612-sur01.cambridge.ma.boston.comcast.net
+N12767	te-0-0-0-0-sur01.cambridge.ma.boston.comcast.net
+N12767	te-0-7-0-0-sur01.cambridge.ma.boston.comcast.net
+
+
+N13063	ge-0-2-4-1-3513-sur01.maynard.ma.boston.comcast.net
+N13063	ge-0-5-4-3-3689-sur01.maynard.ma.boston.comcast.net
+N13063	ge-0-5-5-6-3500-sur01.maynard.ma.boston.comcast.net
+N13063	te-0-0-0-0-sur01.maynard.ma.boston.comcast.net
+N13063	te-0-7-0-0-sur01.maynard.ma.boston.comcast.net
+
+
+N13064	be-1-sur02.needham.ma.boston.comcast.net
+N13064	be-39-sur02.needham.ma.boston.comcast.net
+N13064	ge-0-1-0-32-3340-sur02.needham.ma.boston.comcast.net
+N13064	ge-0-4-0-25-2845-sur02.needham.ma.boston.comcast.net
+N13064	ge-0-4-0-32-2620-sur02.needham.ma.boston.comcast.net
+
+
+N14133	ge-3-1-ur05-d.chelmsfdrdc2.ma.boston.comcast.net
+N14133	te-4-1-ur05-d.chelmsfdrdc2.ma.boston.comcast.net
+N14133	te-4-3-ur05-d.chelmsfdrdc2.ma.boston.comcast.net
+N14133	te-6-1-ur05-d.chelmsfdrdc2.ma.boston.comcast.net
+N14133	te-6-3-ur05-d.chelmsfdrdc2.ma.boston.comcast.net
+
+
+N17285	ge-0-5-0-6-4000-sur01.beverly.ma.boston.comcast.net
+N17285	te-0-0-0-0-sur01.beverly.ma.boston.comcast.net
+N17285	te-0-7-0-0-sur01.beverly.ma.boston.comcast.net
+
+
+N17854	be-110-sur02.boston.ma.boston.comcast.net
+N17854	be-60-sur02.boston.ma.boston.comcast.net
+N17854	ge-0-3-0-27-3186-sur02.boston.ma.boston.comcast.net
+N17854	ge-0-3-0-27-3187-sur02.boston.ma.boston.comcast.net
+
+
+N17862	ge-0-4-4-3-3511-sur01.rehoboth.ma.boston.comcast.net
+N17862	te-0-0-0-0-sur01.rehoboth.ma.boston.comcast.net
+N17862	te-0-7-0-0-sur01.rehoboth.ma.boston.comcast.net
+
+
+N17869	ge-0-4-3-5-2671-sur01.peabody.ma.boston.comcast.net
+N17869	ge-0-4-3-7-2775-sur01.peabody.ma.boston.comcast.net
+N17869	te-0-0-0-0-sur01.peabody.ma.boston.comcast.net
+N17869	te-0-7-0-0-sur01.peabody.ma.boston.comcast.net
+
+
+N19760	as33748.onesummer.ma.ibone.comcast.net
+
+
+N20372	ge-1-2-ur02-d.chelmsfdrdc2.ma.boston.comcast.net
+N20372	te-6-1-ur02-d.chelmsfdrdc2.ma.boston.comcast.net
+N20372	te-6-3-ur02-d.chelmsfdrdc2.ma.boston.comcast.net
+N20372	te-9-2-ur02-d.chelmsfdrdc2.ma.boston.comcast.net
+
+
+N20567	be-1-sur01.needham.ma.boston.comcast.net
+N20567	be-39-sur01.needham.ma.boston.comcast.net
+N20567	ge-0-2-3-6-3687-sur01.needham.ma.boston.comcast.net
+
+
+N28701	ge-0-4-3-0-3171-sur01.framingham.ma.boston.comcast.net
+N28701	te-0-0-0-0-sur01.framingham.ma.boston.comcast.net
+N28701	te-0-7-0-0-sur01.framingham.ma.boston.comcast.net
+
+
+N28709	ge-0-3-2-5-3284-sur01.groveland.ma.boston.comcast.net
+N28709	te-0-0-0-0-sur01.groveland.ma.boston.comcast.net
+N28709	te-0-7-0-0-sur01.groveland.ma.boston.comcast.net
+
+
+N28712	be-20-sur01.lowell.ma.boston.comcast.net
+N28712	be-63-sur01.lowell.ma.boston.comcast.net
+N28712	ge-0-3-0-2-2923-sur01.lowell.ma.boston.comcast.net
+
+
+N28724	ge-0-3-1-4-3511-sur01.natick.ma.boston.comcast.net
+N28724	te-0-0-0-0-sur01.natick.ma.boston.comcast.net
+N28724	te-0-7-0-0-sur01.natick.ma.boston.comcast.net
+
+
+N31648	xe-0-0-0-0-pe01.onesummer.ma.ibone.comcast.net
+N31648	xe-0-1-0-0-pe01.onesummer.ma.ibone.comcast.net
+N31648	xe-2-0-0-0-pe01.onesummer.ma.ibone.comcast.net
+
+
+N31937	ge-0-4-3-5-3651-sur01.quincy.ma.boston.comcast.net
+N31937	te-0-0-0-4-sur01.quincy.ma.quincy.comcast.net
+N31937	te-0-7-0-1-sur01.quincy.ma.quincy.comcast.net
+
+
+N31964	te-8-1-ur02.brockton.ma.boston.comcast.net
+N31964	te-8-4-ur02.brockton.ma.boston.comcast.net
+N31964	te-9-1-ur02.brockton.ma.boston.comcast.net
+
+
+N32065	te-5-4-ur01.brockton.ma.boston.comcast.net
+N32065	te-8-2-ur01.brockton.ma.boston.comcast.net
+N32065	te-9-1-ur01.brockton.ma.boston.comcast.net
+
+
+
+
+N13066	ge-10-2-8-32767-sur01.lanham.md.bad.comcast.net
+N13066	ge-2-1-1-32767-sur01.lanham.md.bad.comcast.net
+
+
+N14121	te-1-1-ur05.capitolhghts.md.bad.comcast.net
+N14121	te-1-3-ur05.capitolhghts.md.bad.comcast.net
+N14121	te-7-2-ur05.capitolhghts.md.bad.comcast.net
+N14121	te-7-4-ur05.capitolhghts.md.bad.comcast.net
+N14121	te-8-4-ur05.capitolhghts.md.bad.comcast.net
+
+
+N17856	ae-0-0-sur01.howardcounty.md.bad.comcast.net
+N17856	ae-1-0-sur01.howardcounty.md.bad.comcast.net
+
+
+N20334	po-45-ur02.frederick.md.bad.comcast.net
+N20334	po-75-ur02.frederick.md.bad.comcast.net
+N20334	te-4-1-ur02.frederick.md.bad.comcast.net
+N20334	te-8-1-ur02.frederick.md.bad.comcast.net
+
+
+N20473	te-3-1-ur01.princefrdrck.md.bad.comcast.net
+N20473	te-7-1-ur01.princefrdrck.md.bad.comcast.net
+N20473	te-8-4-ur01.princefrdrck.md.bad.comcast.net
+N20473	te-9-2-ur01.princefrdrck.md.bad.comcast.net
+
+
+N28710	ae-0-0-sur01.churchville.md.bad.comcast.net
+N28710	ae-1-0-sur01.churchville.md.bad.comcast.net
+N28710	ge-1-3-7-32767-sur01.churchville.md.bad.comcast.net
+
+
+N28731	ge-2-2-9-32767-sur01.aberdeen.md.bad.comcast.net
+N28731	xe-0-0-0-0-sur01.aberdeen.md.bad.comcast.net
+N28731	xe-11-0-0-0-sur01.aberdeen.md.bad.comcast.net
+
+
+N28733	ae-0-0-sur01.gaithersburg.md.bad.comcast.net
+N28733	ae-1-0-sur01.gaithersburg.md.bad.comcast.net
+
+
+N28740	xe-0-3-0-0-sur01.whitemarsh.md.bad.comcast.net
+N28740	xe-11-0-0-0-sur01.whitemarsh.md.bad.comcast.net
+
+
+N28745	ae-0-0-sur01.newtowson.md.bad.comcast.net
+N28745	ae-1-0-sur01.newtowson.md.bad.comcast.net
+
+
+N31927	te-1-1-ur01.westminster.md.bad.comcast.net
+N31927	te-1-3-ur01.westminster.md.bad.comcast.net
+N31927	te-8-2-ur01.westminster.md.bad.comcast.net
+
+
+N31931	ge-1-24-ur02.kirkave.md.bad.comcast.net
+N31931	te-6-2-ur02.kirkave.md.bad.comcast.net
+N31931	te-6-3-ur02.kirkave.md.bad.comcast.net
+
+
+N31943	ae-0-0-sur01.capitolhghts.md.bad.comcast.net
+N31943	ae-1-0-sur01.capitolhghts.md.bad.comcast.net
+N31943	ge-10-0-7-32767-sur01.capitolhghts.md.bad.comcast.net
+
+
+N31944	ae-0-0-sur01.rockville.md.bad.comcast.net
+N31944	ae-1-0-sur01.rockville.md.bad.comcast.net
+
+
+N4432	pos-0-11-0-0-ar03.capitolhghts.md.bad.comcast.net
+N4432	pos-0-15-0-0-ar03.whitemarsh.md.bad.comcast.net
+
+
+N5320	so-10-0-0-0-ar04.howardcounty.md.bad.comcast.net
+N5320	so-10-1-0-0-ar04.howardcounty.md.bad.comcast.net
+N5320	so-11-0-0-0-ar04.howardcounty.md.bad.comcast.net
+N5320	so-12-0-0-0-ar04.howardcounty.md.bad.comcast.net
+N5320	so-12-1-0-0-ar04.howardcounty.md.bad.comcast.net
+N5320	so-13-1-0-0-ar04.howardcounty.md.bad.comcast.net
+N5320	so-14-0-0-0-ar04.howardcounty.md.bad.comcast.net
+N5320	so-15-0-0-0-ar04.howardcounty.md.bad.comcast.net
+N5320	so-15-1-0-0-ar04.howardcounty.md.bad.comcast.net
+
+
+
+
+N10615	xe-0-1-0-0-sur02.newhaven.mi.michigan.comcast.net
+N10615	xe-0-2-0-0-sur02.newhaven.mi.michigan.comcast.net
+N10615	xe-11-0-0-0-sur01.newhaven.mi.michigan.comcast.net
+N10615	xe-4-0-0-0-sur02.newhaven.mi.michigan.comcast.net
+N10615	xe-4-1-0-0-sur02.newhaven.mi.michigan.comcast.net
+N10615	xe-4-2-0-0-sur02.newhaven.mi.michigan.comcast.net
+
+
+N10616	xe-0-0-0-0-sur01.stclairshors.mi.michigan.comcast.net
+N10616	xe-0-1-0-0-sur01.stclairshors.mi.michigan.comcast.net
+N10616	xe-0-2-0-0-sur01.stclairshors.mi.michigan.comcast.net
+N10616	xe-11-0-0-0-sur01.stclairshors.mi.michigan.comcast.net
+N10616	xe-11-1-0-0-sur01.stclairshors.mi.michigan.comcast.net
+N10616	xe-11-2-0-0-sur01.stclairshors.mi.michigan.comcast.net
+
+
+N10617	xe-0-0-0-0-sur01.sannarbor.mi.michigan.comcast.net
+N10617	xe-10-0-0-0-sur01.sannarbor.mi.michigan.comcast.net
+N10617	xe-10-1-0-0-sur01.sannarbor.mi.michigan.comcast.net
+N10617	xe-11-0-0-0-sur01.sannarbor.mi.michigan.comcast.net
+N10617	xe-11-1-0-0-sur01.sannarbor.mi.michigan.comcast.net
+N10617	xe-11-2-0-0-sur01.sannarbor.mi.michigan.comcast.net
+
+
+N10618	te-7-1-ur03.macomb.mi.michigan.comcast.net
+N10618	te-7-2-ur03.macomb.mi.michigan.comcast.net
+N10618	te-7-3-ur03.macomb.mi.michigan.comcast.net
+N10618	te-8-7-ur03.macomb.mi.michigan.comcast.net
+N10618	te-9-1-ur03.macomb.mi.michigan.comcast.net
+N10618	te-9-4-ur03.macomb.mi.michigan.comcast.net
+
+
+N10619	xe-0-0-0-0-sur01.flint.mi.michigan.comcast.net
+N10619	xe-0-1-0-0-sur01.flint.mi.michigan.comcast.net
+N10619	xe-0-2-0-0-sur01.flint.mi.michigan.comcast.net
+N10619	xe-4-0-0-0-sur01.flint.mi.michigan.comcast.net
+N10619	xe-4-1-0-0-sur01.flint.mi.michigan.comcast.net
+N10619	xe-4-2-0-0-sur01.flint.mi.michigan.comcast.net
+
+
+N10634	xe-0-0-0-0-sur02.flint.mi.michigan.comcast.net
+N10634	xe-0-1-0-0-sur02.flint.mi.michigan.comcast.net
+N10634	xe-0-2-0-0-sur02.flint.mi.michigan.comcast.net
+N10634	xe-4-0-0-0-sur02.flint.mi.michigan.comcast.net
+N10634	xe-4-1-0-0-sur02.flint.mi.michigan.comcast.net
+N10634	xe-4-2-0-0-sur02.flint.mi.michigan.comcast.net
+
+
+N10635	xe-0-0-0-0-sur02.jackson.mi.michigan.comcast.net
+N10635	xe-0-1-0-0-sur02.jackson.mi.michigan.comcast.net
+N10635	xe-0-3-0-0-sur02.jackson.mi.michigan.comcast.net
+N10635	xe-10-2-0-0-sur02.jackson.mi.michigan.comcast.net
+N10635	xe-11-1-0-0-sur02.jackson.mi.michigan.comcast.net
+N10635	xe-8-1-0-0-sur02.jackson.mi.michigan.comcast.net
+
+
+N10636	xe-0-0-1-0-sur02.lyndon.mi.michigan.comcast.net
+N10636	xe-0-0-2-0-sur02.lyndon.mi.michigan.comcast.net
+N10636	xe-0-0-3-0-sur02.lyndon.mi.michigan.comcast.net
+N10636	xe-1-1-3-0-sur02.lyndon.mi.michigan.comcast.net
+
+
+N14145	te-0-0-0-0-ur07.warren1.mi.michigan.comcast.net
+N14145	te-0-7-0-6-ur07.warren1.mi.michigan.comcast.net
+N14145	te-0-7-0-7-ur07.warren1.mi.michigan.comcast.net
+
+
+N14153	te-0-0-0-0-ur04.westlandotn.mi.michigan.comcast.net
+N14153	te-0-0-0-1-ur04.westlandotn.mi.michigan.comcast.net
+N14153	te-0-7-0-6-ur04.westlandotn.mi.michigan.comcast.net
+N14153	te-0-7-0-7-ur04.westlandotn.mi.michigan.comcast.net
+
+
+N20391	ge-5-47-ur05.grandrapids.mi.michigan.comcast.net
+N20391	te-8-4-ur05.grandrapids.mi.michigan.comcast.net
+N20391	te-9-1-ur05.grandrapids.mi.michigan.comcast.net
+N20391	te-9-4-ur05.grandrapids.mi.michigan.comcast.net
+
+
+N20404	te-8-2-ur01.lawton.mi.michigan.comcast.net
+N20404	te-8-3-ur01.lawton.mi.michigan.comcast.net
+N20404	te-9-1-ur01.lawton.mi.michigan.comcast.net
+N20404	te-9-3-ur01.lawton.mi.michigan.comcast.net
+
+
+N20405	xe-0-0-0-0-sur01.pontiac.mi.michigan.comcast.net
+N20405	xe-0-1-0-0-sur01.pontiac.mi.michigan.comcast.net
+N20405	xe-10-0-0-0-sur01.pontiac.mi.michigan.comcast.net
+N20405	xe-11-0-0-0-sur01.pontiac.mi.michigan.comcast.net
+
+
+N20406	te-8-2-ur03.adrian.mi.michigan.comcast.net
+N20406	te-8-3-ur03.adrian.mi.michigan.comcast.net
+N20406	te-9-3-ur03.adrian.mi.michigan.comcast.net
+N20406	te-9-4-ur03.adrian.mi.michigan.comcast.net
+
+
+N20407	xe-0-0-0-0-sur02.muskegon.mi.michigan.comcast.net
+N20407	xe-0-1-0-0-sur02.muskegon.mi.michigan.comcast.net
+N20407	xe-4-0-0-0-sur02.muskegon.mi.michigan.comcast.net
+N20407	xe-4-1-0-0-sur02.muskegon.mi.michigan.comcast.net
+
+
+N20408	xe-0-0-0-0-sur01.wannarbor.mi.michigan.comcast.net
+N20408	xe-0-1-0-0-sur01.wannarbor.mi.michigan.comcast.net
+N20408	xe-11-0-0-0-sur01.wannarbor.mi.michigan.comcast.net
+N20408	xe-11-1-0-0-sur01.wannarbor.mi.michigan.comcast.net
+
+
+N20439	te-9-1-ur03.walledlake.mi.michigan.comcast.net
+N20439	xe-0-0-0-0-sur02.walledlake.mi.michigan.comcast.net
+N20439	xe-0-1-0-0-sur02.walledlake.mi.michigan.comcast.net
+N20439	xe-4-2-0-0-sur02.walledlake.mi.michigan.comcast.net
+
+
+N20440	xe-0-0-0-0-sur01.muskegon.mi.michigan.comcast.net
+N20440	xe-0-1-0-0-sur01.muskegon.mi.michigan.comcast.net
+N20440	xe-4-0-0-0-sur01.muskegon.mi.michigan.comcast.net
+N20440	xe-4-1-0-0-sur01.muskegon.mi.michigan.comcast.net
+
+
+N20441	xe-0-0-0-0-sur01.birmingham.mi.michigan.comcast.net
+N20441	xe-0-2-0-0-sur01.birmingham.mi.michigan.comcast.net
+N20441	xe-11-0-0-0-sur01.birmingham.mi.michigan.comcast.net
+N20441	xe-9-2-0-0-sur01.birmingham.mi.michigan.comcast.net
+
+
+N20482	te-9-1-ur02.southfield.mi.michigan.comcast.net
+N20482	xe-0-0-0-0-sur01.southfield.mi.michigan.comcast.net
+N20482	xe-11-0-0-0-sur01.southfield.mi.michigan.comcast.net
+
+
+N28698	ge-1-0-3-32767-sur01.dearborn.mi.michigan.comcast.net
+N28698	xe-0-0-0-0-sur01.dearborn.mi.michigan.comcast.net
+N28698	xe-11-0-0-0-sur01.dearborn.mi.michigan.comcast.net
+
+
+N31994	te-4-1-ur02.battlecreek.mi.michigan.comcast.net
+N31994	te-4-4-ur02.battlecreek.mi.michigan.comcast.net
+N31994	te-9-2-ur02.battlecreek.mi.michigan.comcast.net
+
+
+N31996	ge-1-46-ur03.taylor.mi.michigan.comcast.net
+N31996	te-4-2-ur03.taylor.mi.michigan.comcast.net
+N31996	te-8-2-ur03.taylor.mi.michigan.comcast.net
+
+
+N31997	te-8-1-ur02.macomb.mi.michigan.comcast.net
+N31997	te-9-1-ur02.macomb.mi.michigan.comcast.net
+N31997	te-9-4-ur02.macomb.mi.michigan.comcast.net
+
+
+N31999	te-3-3-ur05.westlandhe.mi.michigan.comcast.net
+N31999	te-3-4-ur05.westlandhe.mi.michigan.comcast.net
+N31999	te-9-1-ur05.westlandhe.mi.michigan.comcast.net
+
+
+N32000	te-8-3-ur03.brighton.mi.michigan.comcast.net
+N32000	te-9-1-ur03.brighton.mi.michigan.comcast.net
+N32000	te-9-4-ur03.brighton.mi.michigan.comcast.net
+
+
+N32027	ge-1-46-ur03.pontiac.mi.michigan.comcast.net
+N32027	te-8-2-ur03.pontiac.mi.michigan.comcast.net
+N32027	te-8-3-ur03.pontiac.mi.michigan.comcast.net
+
+
+N32028	te-8-3-ur05.taylor.mi.michigan.comcast.net
+N32028	te-9-2-ur05.taylor.mi.michigan.comcast.net
+N32028	te-9-3-ur05.taylor.mi.michigan.comcast.net
+
+
+N32029	te-7-1-ur03.waterford.mi.michigan.comcast.net
+N32029	te-7-4-ur03.waterford.mi.michigan.comcast.net
+N32029	te-9-3-ur03.waterford.mi.michigan.comcast.net
+
+
+N32030	te-8-4-ur03.newhaven.mi.michigan.comcast.net
+N32030	te-9-1-ur03.newhaven.mi.michigan.comcast.net
+N32030	te-9-3-ur03.newhaven.mi.michigan.comcast.net
+
+
+N32031	xe-10-2-0-0-sur01.holt.mi.michigan.comcast.net
+N32031	xe-3-0-0-0-sur01.holt.mi.michigan.comcast.net
+N32031	xe-5-1-0-0-sur01.holt.mi.michigan.comcast.net
+
+
+N32074	ge-1-1-ur02-d.westlandrdc.mi.michigan.comcast.net
+N32074	ge-6-2-ur02-d.westlandrdc.mi.michigan.comcast.net
+N32074	te-9-4-ur02-d.westlandrdc.mi.michigan.comcast.net
+
+
+N32075	te-8-4-ur02.westlandhe.mi.michigan.comcast.net
+N32075	te-9-1-ur02.westlandhe.mi.michigan.comcast.net
+N32075	te-9-4-ur02.westlandhe.mi.michigan.comcast.net
+
+
+N6459	xe-0-0-0-0-sur01.jackson.mi.michigan.comcast.net
+N6459	xe-0-1-0-0-sur01.jackson.mi.michigan.comcast.net
+N6459	xe-0-3-0-0-sur01.jackson.mi.michigan.comcast.net
+N6459	xe-10-2-0-0-sur01.jackson.mi.michigan.comcast.net
+N6459	xe-10-3-0-0-sur01.jackson.mi.michigan.comcast.net
+N6459	xe-11-1-0-0-sur01.jackson.mi.michigan.comcast.net
+N6459	xe-8-0-0-0-sur01.jackson.mi.michigan.comcast.net
+N6459	xe-9-3-0-0-sur01.jackson.mi.michigan.comcast.net
+
+
+N8342	xe-0-0-0-0-sur01.newhaven.mi.michigan.comcast.net
+N8342	xe-0-1-0-0-sur01.newhaven.mi.michigan.comcast.net
+N8342	xe-0-2-0-0-sur01.newhaven.mi.michigan.comcast.net
+N8342	xe-4-0-0-0-sur01.newhaven.mi.michigan.comcast.net
+N8342	xe-4-1-0-0-sur01.newhaven.mi.michigan.comcast.net
+N8342	xe-4-2-0-0-sur01.newhaven.mi.michigan.comcast.net
+N8342	xe-4-3-0-0-sur01.newhaven.mi.michigan.comcast.net
+
+
+N9740	ae-101-32767-sur01.walledlake.mi.michigan.comcast.net
+N9740	te-9-1-ur02.walledlake.mi.michigan.comcast.net
+N9740	xe-0-0-0-0-sur01.walledlake.mi.michigan.comcast.net
+N9740	xe-0-1-0-0-sur01.walledlake.mi.michigan.comcast.net
+N9740	xe-4-1-0-0-sur01.walledlake.mi.michigan.comcast.net
+N9740	xe-4-2-0-0-sur01.walledlake.mi.michigan.comcast.net
+
+
+
+
+N10641	ge-1-48-ur01.swmpls.mn.minn.comcast.net
+N10641	te-0-2-0-0-sur01.swmpls.mn.minn.comcast.net
+N10641	te-0-2-0-2-sur01.swmpls.mn.minn.comcast.net
+N10641	te-0-5-0-0-sur01.swmpls.mn.minn.comcast.net
+N10641	te-0-5-0-2-sur01.swmpls.mn.minn.comcast.net
+
+
+N14163	te-0-2-0-0-sur02.eagan.mn.minn.comcast.net
+N14163	te-0-2-0-2-sur02.eagan.mn.minn.comcast.net
+N14163	te-0-5-0-0-sur02.eagan.mn.minn.comcast.net
+N14163	te-0-5-0-2-sur02.eagan.mn.minn.comcast.net
+
+
+N20469	te-2-1-ur01.shakopee.mn.minn.comcast.net
+N20469	te-2-4-ur01.shakopee.mn.minn.comcast.net
+N20469	te-8-1-ur01.shakopee.mn.minn.comcast.net
+N20469	te-8-4-ur01.shakopee.mn.minn.comcast.net
+
+
+N20470	ge-1-48-ur02.swmpls.mn.minn.comcast.net
+N20470	te-0-0-0-0-sur02.swmpls.mn.minn.comcast.net
+N20470	te-0-5-0-0-sur01.swmpls.mn.minn.comcast.net
+
+
+N20558	te-0-2-0-0-sur01.crosstown.mn.minn.comcast.net
+N20558	te-0-2-0-2-sur01.crosstown.mn.minn.comcast.net
+N20558	te-0-5-0-0-sur01.crosstown.mn.minn.comcast.net
+N20558	te-0-5-0-2-sur01.crosstown.mn.minn.comcast.net
+
+
+N20565	te-0-2-0-0-sur01.nempls.mn.minn.comcast.net
+N20565	te-0-2-0-1-sur01.nempls.mn.minn.comcast.net
+N20565	te-0-5-0-0-sur01.nempls.mn.minn.comcast.net
+N20565	te-0-5-0-1-sur01.nempls.mn.minn.comcast.net
+
+
+N20566	te-0-2-0-0-sur01.smpls.mn.minn.comcast.net
+N20566	te-0-2-0-2-sur01.smpls.mn.minn.comcast.net
+N20566	te-0-5-0-1-sur01.smpls.mn.minn.comcast.net
+N20566	te-0-5-0-2-sur01.smpls.mn.minn.comcast.net
+
+
+N28742	ge-0-7-0-25-3348-sur01.brooklynpark.mn.minn.comcast.net
+N28742	te-0-2-0-0-sur01.brooklynpark.mn.minn.comcast.net
+N28742	te-0-5-0-0-sur01.brooklynpark.mn.minn.comcast.net
+
+
+N31975	te-2-1-ur01.martin.mn.minn.comcast.net
+N31975	te-2-3-ur01.martin.mn.minn.comcast.net
+N31975	te-8-3-ur01.martin.mn.minn.comcast.net
+
+
+N31976	te-2-3-ur01.newport.mn.minn.comcast.net
+N31976	te-8-1-ur01.newport.mn.minn.comcast.net
+N31976	te-8-3-ur01.newport.mn.minn.comcast.net
+
+
+N32055	te-2-2-ur05.roseville.mn.minn.comcast.net
+N32055	te-2-3-ur05.roseville.mn.minn.comcast.net
+N32055	te-4-2-ur05.roseville.mn.minn.comcast.net
+
+
+N32056	te-2-2-ur06.roseville.mn.minn.comcast.net
+N32056	te-2-3-ur06.roseville.mn.minn.comcast.net
+N32056	te-4-2-ur06.roseville.mn.minn.comcast.net
+
+
+N32071	te-2-2-ur01.webster.mn.minn.comcast.net
+N32071	te-2-4-ur01.webster.mn.minn.comcast.net
+N32071	te-7-1-ur01.webster.mn.minn.comcast.net
+
+
+N32072	te-2-2-ur02.newport.mn.minn.comcast.net
+N32072	te-2-4-ur02.newport.mn.minn.comcast.net
+N32072	te-7-4-ur02.newport.mn.minn.comcast.net
+
+
+N32073	ge-1-46-ur03.roseville.mn.minn.comcast.net
+N32073	te-6-1-ur03.roseville.mn.minn.comcast.net
+N32073	vl-715-ur03.roseville.mn.minn.comcast.net
+
+
+N32275	te-0-0-0-2-sur02.smpls.mn.minn.comcast.net
+N32275	te-0-5-0-0-sur01.smpls.mn.minn.comcast.net
+N32275	te-0-7-0-1-sur02.smpls.mn.minn.comcast.net
+
+
+N3819	he-0-13-0-0-ar01.crosstown.mn.minn.comcast.net
+N3819	he-0-14-0-0-ar01.crosstown.mn.minn.comcast.net
+N3819	he-0-15-0-0-ar01.crosstown.mn.minn.comcast.net
+N3819	pos-0-0-0-0-ar01.crosstown.mn.minn.comcast.net
+N3819	pos-0-1-0-0-ar01.crosstown.mn.minn.comcast.net
+
+
+N3821	he-0-13-0-0-ar01.roseville.mn.minn.comcast.net
+N3821	he-0-14-0-0-ar01.roseville.mn.minn.comcast.net
+N3821	he-0-15-0-0-ar01.roseville.mn.minn.comcast.net
+N3821	pos-0-0-0-0-ar01.roseville.mn.minn.comcast.net
+N3821	pos-0-1-0-0-ar01.roseville.mn.minn.comcast.net
+N3821	te-0-7-0-1-ar01.roseville.mn.minn.comcast.net
+
+
+
+
+N10628	te-1-1-ar01.independence.mo.indepen.comcast.net
+N10628	te-3-1-ar01.independence.mo.indepen.comcast.net
+N10628	te-3-2-ar01.independence.mo.indepen.comcast.net
+N10628	te-3-3-ar01.independence.mo.indepen.comcast.net
+N10628	te-3-4-ar01.independence.mo.indepen.comcast.net
+
+
+N1916	te-0-0-0-0-sur01.independence.mo.indepen.comcast.net
+N1916	te-0-0-0-1-sur01.independence.mo.indepen.comcast.net
+N1916	te-7-1-ur01.independence.mo.indepen.comcast.net
+N1916	te-7-2-ur01.independence.mo.indepen.comcast.net
+N1916	te-7-5-ur01.independence.mo.indepen.comcast.net
+N1916	te-7-6-ur01.independence.mo.indepen.comcast.net
+
+
+N6455	te-1-1-ar02.independence.mo.indepen.comcast.net
+N6455	te-3-1-ar02.independence.mo.indepen.comcast.net
+N6455	te-3-2-ar02.independence.mo.indepen.comcast.net
+N6455	te-3-3-ar02.independence.mo.indepen.comcast.net
+N6455	te-3-4-ar02.independence.mo.indepen.comcast.net
+N6455	te-4-1-ar02.independence.mo.indepen.comcast.net
+
+
+
+
+N10610	ge-2-46-ur01.hattiesburg.ms.malt.comcast.net
+N10610	te-6-1-ur01.hattiesburg.ms.malt.comcast.net
+N10610	te-6-2-ur01.hattiesburg.ms.malt.comcast.net
+N10610	te-6-3-ur01.hattiesburg.ms.malt.comcast.net
+N10610	te-9-1-ur01.hattiesburg.ms.malt.comcast.net
+N10610	te-9-4-ur01.hattiesburg.ms.malt.comcast.net
+
+
+N20396	te-8-1-ur01.laurel.ms.malt.comcast.net
+N20396	te-8-3-ur01.laurel.ms.malt.comcast.net
+N20396	te-9-1-ur01.laurel.ms.malt.comcast.net
+N20396	te-9-3-ur01.laurel.ms.malt.comcast.net
+
+
+N32059	te-1-2-ur01.meridian.ms.malt.comcast.net
+N32059	te-5-1-ur01.meridian.ms.malt.comcast.net
+N32059	te-5-4-ur01.meridian.ms.malt.comcast.net
+
+
+N5334	te-0-0-0-1-ur05.jacksonnorth.ms.malt.comcast.net
+N5334	te-0-0-0-2-ur05.jacksonnorth.ms.malt.comcast.net
+N5334	te-0-0-0-3-ur05.jacksonnorth.ms.malt.comcast.net
+N5334	te-0-0-0-4-ur05.jacksonnorth.ms.malt.comcast.net
+N5334	te-0-7-0-0-ur05.jacksonnorth.ms.malt.comcast.net
+N5334	te-0-7-0-1-ur05.jacksonnorth.ms.malt.comcast.net
+N5334	te-0-7-0-2-ur05.jacksonnorth.ms.malt.comcast.net
+N5334	te-0-7-0-3-ur05.jacksonnorth.ms.malt.comcast.net
+N5334	te-0-7-0-4-ur05.jacksonnorth.ms.malt.comcast.net
+
+
+N8341	ge-2-45-ur02.hattiesburg.ms.malt.comcast.net
+N8341	te-4-1-ur02.hattiesburg.ms.malt.comcast.net
+N8341	te-4-4-ur02.hattiesburg.ms.malt.comcast.net
+N8341	te-8-3-ur02.hattiesburg.ms.malt.comcast.net
+N8341	te-9-1-ur02.hattiesburg.ms.malt.comcast.net
+N8341	te-9-2-ur02.hattiesburg.ms.malt.comcast.net
+N8341	te-9-4-ur02.hattiesburg.ms.malt.comcast.net
+
+
+
+
+N4432	pos-0-11-0-0-cr01.charlotte.nc.ibone.comcast.net
+N4432	pos-0-12-0-0-cr01.charlotte.nc.ibone.comcast.net
+
+
+
+
+N20335	te-0-0-0-0-sur01.nashua.nh.boston.comcast.net
+N20335	te-0-0-0-1-sur01.nashua.nh.boston.comcast.net
+N20335	te-0-7-0-0-sur01.nashua.nh.boston.comcast.net
+N20335	te-0-7-0-1-sur01.nashua.nh.boston.comcast.net
+
+
+
+
+N10582	ae-0-0-ar03.absecon.nj.panjde.comcast.net
+N10582	ae-1-0-ar03.absecon.nj.panjde.comcast.net
+N10582	ae-2-0-ar03.absecon.nj.panjde.comcast.net
+N10582	ae-3-0-ar03.absecon.nj.panjde.comcast.net
+N10582	so-1-0-0-0-ar03.absecon.nj.panjde.comcast.net
+N10582	so-5-1-0-0-ar03.absecon.nj.panjde.comcast.net
+
+
+N14122	ae-2-0-ar03.eastwindsor.nj.panjde.comcast.net
+N14122	ae-3-0-ar03.eastwindsor.nj.panjde.comcast.net
+N14122	et-1-0-0-0-ar03.eastwindsor.nj.panjde.comcast.net
+N14122	et-1-1-0-0-ar03.eastwindsor.nj.panjde.comcast.net
+N14122	so-6-1-0-0-ar03.eastwindsor.nj.panjde.comcast.net
+
+
+N14128	ge-6-2-ur01.dover.nj.panjde.comcast.net
+N14128	te-1-1-ur01.dover.nj.panjde.comcast.net
+N14128	te-1-3-ur01.dover.nj.panjde.comcast.net
+N14128	te-9-1-ur01.dover.nj.panjde.comcast.net
+N14128	te-9-3-ur01.dover.nj.panjde.comcast.net
+
+
+N17287	ae-1-0-sur01.union.nj.panjde.comcast.net
+N17287	ae-10-0-sur01.union.nj.panjde.comcast.net
+N17287	ge-5-1-4-32767-sur01.union.nj.panjde.comcast.net
+
+
+N17846	ge-1-0-5-32767-sur01.jerseycity.nj.panjde.comcast.net
+
+
+N17847	ge-1-0-4-32767-sur01.arneysmount.nj.panjde.comcast.net
+N17847	xe-0-0-0-0-sur01.arneysmount.nj.panjde.comcast.net
+N17847	xe-11-0-0-0-sur01.arneysmount.nj.panjde.comcast.net
+N17847	xe-11-3-0-32767-sur01.arneysmount.nj.panjde.comcast.net
+
+
+N17864	ae-0-0-sur01.mtlaurel.nj.panjde.comcast.net
+N17864	ae-1-0-sur01.mtlaurel.nj.panjde.comcast.net
+N17864	ge-3-3-7-32767-sur01.mtlaurel.nj.panjde.comcast.net
+N17864	xe-4-1-0-32767-sur01.mtlaurel.nj.panjde.comcast.net
+
+
+N17870	ge-1-1-5-32767-sur01.atlanticcity.nj.panjde.comcast.net
+N17870	ge-1-2-0-32767-sur01.atlanticcity.nj.panjde.comcast.net
+N17870	xe-0-0-0-0-sur01.atlanticcity.nj.panjde.comcast.net
+N17870	xe-11-0-0-0-sur01.atlanticcity.nj.panjde.comcast.net
+
+
+N20241	te-4-3-ur02.absecon.nj.panjde.comcast.net
+N20241	te-9-1-ur04.absecon.nj.panjde.comcast.net
+N20241	te-9-2-ur04.absecon.nj.panjde.comcast.net
+
+
+N20243	te-8-1-ur01.jerseycity.nj.panjde.comcast.net
+N20243	te-8-4-ur01.jerseycity.nj.panjde.comcast.net
+N20243	te-9-1-ur01.jerseycity.nj.panjde.comcast.net
+N20243	te-9-3-ur01.jerseycity.nj.panjde.comcast.net
+
+
+N20244	te-1-1-ur01.portmurray.nj.panjde.comcast.net
+N20244	te-1-3-ur01.portmurray.nj.panjde.comcast.net
+N20244	te-7-3-ur01.portmurray.nj.panjde.comcast.net
+N20244	te-8-1-ur01.portmurray.nj.panjde.comcast.net
+
+
+N20316	ge-6-20-ur01.union.nj.panjde.comcast.net
+N20316	ge-6-21-ur01.union.nj.panjde.comcast.net
+N20316	te-1-1-ur01.union.nj.panjde.comcast.net
+N20316	te-1-3-ur01.union.nj.panjde.comcast.net
+
+
+N20317	te-1-1-ur01.longhill.nj.panjde.comcast.net
+N20317	te-1-3-ur01.longhill.nj.panjde.comcast.net
+N20317	te-9-1-ur01.longhill.nj.panjde.comcast.net
+N20317	te-9-3-ur01.longhill.nj.panjde.comcast.net
+
+
+N20318	te-1-1-ur01.brick2.nj.panjde.comcast.net
+N20318	te-1-3-ur01.brick2.nj.panjde.comcast.net
+N20318	te-9-1-ur01.brick2.nj.panjde.comcast.net
+N20318	te-9-3-ur01.brick2.nj.panjde.comcast.net
+
+
+N20393	te-1-3-ur01.trenton.nj.panjde.comcast.net
+N20393	te-1-4-ur01.trenton.nj.panjde.comcast.net
+N20393	te-9-3-ur01.trenton.nj.panjde.comcast.net
+N20393	te-9-4-ur01.trenton.nj.panjde.comcast.net
+
+
+N27715	xe-0-0-0-0-sur01.cherryhillw.nj.panjde.comcast.net
+N27715	xe-11-0-0-0-sur01.cherryhillw.nj.panjde.comcast.net
+
+
+N27722	ae-0-0-sur01.verona.nj.panjde.comcast.net
+N27722	ae-1-0-sur01.verona.nj.panjde.comcast.net
+
+
+N28746	ae-0-0-sur01.burlington.nj.panjde.comcast.net
+N28746	ae-1-0-sur01.burlington.nj.panjde.comcast.net
+N28746	ae-101-32767-sur01.burlington.nj.panjde.comcast.net
+
+
+N31778	te-1-1-ur03.absecon.nj.panjde.comcast.net
+N31778	te-1-2-ur03.absecon.nj.panjde.comcast.net
+N31778	te-9-4-ur03.absecon.nj.panjde.comcast.net
+
+
+N31779	po-20-ur01.mayslanding.nj.panjde.comcast.net
+N31779	te-9-1-ur01.mayslanding.nj.panjde.comcast.net
+N31779	te-9-3-ur01.mayslanding.nj.panjde.comcast.net
+
+
+N31781	te-1-1-ur02.woodbury.nj.panjde.comcast.net
+N31781	te-1-3-ur02.woodbury.nj.panjde.comcast.net
+N31781	te-4-4-ur02.woodbury.nj.panjde.comcast.net
+
+
+N31782	te-1-1-ur01.woodbury.nj.panjde.comcast.net
+N31782	te-1-3-ur01.woodbury.nj.panjde.comcast.net
+N31782	te-4-4-ur01.woodbury.nj.panjde.comcast.net
+
+
+N31904	te-7-2-ur04.hillsboro.nj.panjde.comcast.net
+N31904	te-7-4-ur04.hillsboro.nj.panjde.comcast.net
+N31904	te-9-1-ur04.hillsboro.nj.panjde.comcast.net
+
+
+N31905	ge-7-7-ur01.plainfield.nj.panjde.comcast.net
+N31905	te-9-1-ur01.plainfield.nj.panjde.comcast.net
+N31905	te-9-3-ur01.plainfield.nj.panjde.comcast.net
+
+
+N31906	te-1-1-ur01.swedesboro.nj.panjde.comcast.net
+N31906	te-1-3-ur01.swedesboro.nj.panjde.comcast.net
+N31906	te-9-1-ur01.swedesboro.nj.panjde.comcast.net
+
+
+N31907	te-1-3-ur02.absecon.nj.panjde.comcast.net
+N31907	te-9-1-ur02.absecon.nj.panjde.comcast.net
+N31907	te-9-3-ur02.absecon.nj.panjde.comcast.net
+
+
+N31908	te-1-3-ur02.audubon.nj.panjde.comcast.net
+N31908	te-9-3-ur02.audubon.nj.panjde.comcast.net
+N31908	te-9-4-ur02.audubon.nj.panjde.comcast.net
+
+
+N31923	ae-0-0-sur01.eastwindsor.nj.panjde.comcast.net
+N31923	ae-3-0-sur01.eastwindsor.nj.panjde.comcast.net
+N31923	ge-1-1-3-32767-sur01.eastwindsor.nj.panjde.comcast.net
+
+
+N31930	ge-6-1-ur01.middletown.nj.panjde.comcast.net
+N31930	ge-6-3-ur01.middletown.nj.panjde.comcast.net
+N31930	te-8-4-ur01.middletown.nj.panjde.comcast.net
+
+
+N31961	te-3-1-ur02.longhill.nj.panjde.comcast.net
+N31961	te-9-1-ur02.longhill.nj.panjde.comcast.net
+N31961	te-9-3-ur02.longhill.nj.panjde.comcast.net
+
+
+N31962	te-1-1-ur01.hillsboro.nj.panjde.comcast.net
+N31962	te-1-3-ur01.hillsboro.nj.panjde.comcast.net
+N31962	te-9-3-ur01.hillsboro.nj.panjde.comcast.net
+
+
+N31963	te-1-3-ur02.hillsboro.nj.panjde.comcast.net
+N31963	te-9-1-ur02.hillsboro.nj.panjde.comcast.net
+N31963	te-9-3-ur02.hillsboro.nj.panjde.comcast.net
+
+
+N32041	te-1-1-ur01.lambertville.nj.panjde.comcast.net
+N32041	te-9-1-ur01.lambertville.nj.panjde.comcast.net
+N32041	te-9-3-ur01.lambertville.nj.panjde.comcast.net
+
+
+N6442	ge-6-41-ur01.manahawkin.nj.panjde.comcast.net
+
+
+N9736	ae-6-0-sur01.audubon.nj.panjde.comcast.net
+N9736	ae-7-0-sur01.audubon.nj.panjde.comcast.net
+N9736	ge-1-0-6-32767-sur01.audubon.nj.panjde.comcast.net
+N9736	ge-1-1-4-32767-sur01.audubon.nj.panjde.comcast.net
+N9736	ge-1-2-6-32767-sur01.audubon.nj.panjde.comcast.net
+
+
+
+
+N14123	te-0-0-0-0-ur05.albuquerque.nm.albuq.comcast.net
+N14123	te-0-0-0-7-ur05.albuquerque.nm.albuq.comcast.net
+N14123	te-0-7-0-1-ur05.albuquerque.nm.albuq.comcast.net
+N14123	te-0-7-0-3-ur05.albuquerque.nm.albuq.comcast.net
+
+
+N14124	te-0-0-0-0-ur06.albuquerque.nm.albuq.comcast.net
+N14124	te-0-0-0-7-ur06.albuquerque.nm.albuq.comcast.net
+N14124	te-0-7-0-1-ur06.albuquerque.nm.albuq.comcast.net
+N14124	te-0-7-0-3-ur06.albuquerque.nm.albuq.comcast.net
+
+
+N20332	te-4-4-ur01.broadway.nm.albuq.comcast.net
+N20332	te-9-1-ur01.broadway.nm.albuq.comcast.net
+N20332	te-9-3-ur01.broadway.nm.albuq.comcast.net
+N20332	te-9-4-ur01.broadway.nm.albuq.comcast.net
+
+
+N20333	te-8-1-ur01.albuquerque.nm.albuq.comcast.net
+N20333	te-8-2-ur01.albuquerque.nm.albuq.comcast.net
+N20333	te-9-1-ur01.albuquerque.nm.albuq.comcast.net
+N20333	te-9-2-ur01.albuquerque.nm.albuq.comcast.net
+
+
+N20461	te-8-1-ur01.montbel.nm.albuq.comcast.net
+N20461	te-8-3-ur01.montbel.nm.albuq.comcast.net
+N20461	te-9-1-ur01.montbel.nm.albuq.comcast.net
+N20461	te-9-3-ur01.montbel.nm.albuq.comcast.net
+
+
+N31925	te-8-1-ur01.lascruces.nm.albuq.comcast.net
+N31925	te-9-1-ur01.lascruces.nm.albuq.comcast.net
+N31925	te-9-4-ur01.lascruces.nm.albuq.comcast.net
+
+
+N31926	te-8-2-ur02.albuquerque.nm.albuq.comcast.net
+N31926	te-9-1-ur02.albuquerque.nm.albuq.comcast.net
+N31926	te-9-2-ur02.albuquerque.nm.albuq.comcast.net
+
+
+N32046	te-5-3-ur01.santafe.nm.albuq.comcast.net
+N32046	te-9-1-ur01.santafe.nm.albuq.comcast.net
+N32046	te-9-3-ur01.santafe.nm.albuq.comcast.net
+
+
+N3818	te-0-1-0-7-ar04.albuquerque.nm.albuq.comcast.net
+N3818	te-0-6-0-5-ar04.albuquerque.nm.albuq.comcast.net
+N3818	te-0-7-0-0-ar04.albuquerque.nm.albuq.comcast.net
+N3818	te-0-7-0-1-ar04.albuquerque.nm.albuq.comcast.net
+N3818	te-0-7-0-2-ar04.albuquerque.nm.albuq.comcast.net
+N3818	te-0-7-0-3-ar04.albuquerque.nm.albuq.comcast.net
+N3818	te-0-7-0-4-ar04.albuquerque.nm.albuq.comcast.net
+N3818	te-0-7-0-6-ar04.albuquerque.nm.albuq.comcast.net
+N3818	te-0-7-0-7-ar04.albuquerque.nm.albuq.comcast.net
+
+
+N6456	te-0-1-0-7-ar03.albuquerque.nm.albuq.comcast.net
+N6456	te-0-6-0-5-ar03.albuquerque.nm.albuq.comcast.net
+N6456	te-2-3-ar01.albuquerque.nm.albuq.comcast.net
+N6456	te-2-4-ar01.albuquerque.nm.albuq.comcast.net
+N6456	te-5-2-ar01.albuquerque.nm.albuq.comcast.net
+N6456	te-7-1-ar01.albuquerque.nm.albuq.comcast.net
+N6456	te-7-4-ar01.albuquerque.nm.albuq.comcast.net
+
+
+
+
+N10504	as20940-3-c.111eighthave.ny.ibone.comcast.net
+
+
+N12921	as8001-1-c.newyork.ny.ibone.comcast.net
+
+
+N13834	as20940-4-c.111eighthave.ny.ibone.comcast.net
+
+
+N16836	as4258-1-c.111eighthave.ny.ibone.comcast.net
+
+
+N20939	as5400-pe01.111eighthave.ny.ibone.comcast.net
+
+
+N3164	as6830.111eighthave.ny.ibone.comcast.net
+
+
+N3349	pos-0-6-0-0-cr01.newyork.ny.ibone.comcast.net
+
+
+N5344	as4436-1-c.111eighthave.ny.ibone.comcast.net
+
+
+N5850	as20940-1-c.111eighthave.ny.ibone.comcast.net
+
+
+
+
+N20427	te-8-1-ur01.steubenville.oh.pitt.comcast.net
+N20427	te-8-3-ur01.steubenville.oh.pitt.comcast.net
+N20427	te-9-1-ur01.steubenville.oh.pitt.comcast.net
+N20427	te-9-3-ur01.steubenville.oh.pitt.comcast.net
+
+
+N32272	te-0-0-0-0-sur01.stclairsvill.oh.pitt.comcast.net
+N32272	te-0-0-0-7-3610-sur01.stclairsvill.oh.pitt.comcast.net
+N32272	te-0-7-0-0-sur01.stclairsvill.oh.pitt.comcast.net
+
+
+
+
+N14169	te-7-1-ur01-d.beaverton.or.bverton.comcast.net
+N14169	te-7-4-ur01-d.beaverton.or.bverton.comcast.net
+N14169	te-9-1-ur01-d.beaverton.or.bverton.comcast.net
+
+
+N20413	ge-3-13-ur02.salem.or.bverton.comcast.net
+N20413	ge-5-1-ur02.salem.or.bverton.comcast.net
+N20413	te-8-4-ur02.salem.or.bverton.comcast.net
+N20413	te-9-2-ur02.salem.or.bverton.comcast.net
+
+
+N20414	te-3-1-ur04.beaverton.or.bverton.comcast.net
+N20414	te-8-1-ur04.beaverton.or.bverton.comcast.net
+N20414	te-8-2-ur04.beaverton.or.bverton.comcast.net
+N20414	te-9-1-ur04.beaverton.or.bverton.comcast.net
+
+
+N28747	ae-11-0-sur02.beaverton.or.bverton.comcast.net
+N28747	xe-11-0-0-0-sur02.beaverton.or.bverton.comcast.net
+
+
+N28751	ge-2-1-6-32767-sur01.eugene.or.bverton.comcast.net
+N28751	xe-0-0-0-0-sur01.eugene.or.bverton.comcast.net
+N28751	xe-11-0-0-0-sur01.eugene.or.bverton.comcast.net
+
+
+N31950	ae-13-0-sur01.beaverton.or.bverton.comcast.net
+N31950	ge-2-3-9-32767-sur01.beaverton.or.bverton.comcast.net
+N31950	xe-0-0-0-0-sur01.beaverton.or.bverton.comcast.net
+
+
+N31951	ge-3-2-0-32767-sur01.portlandhub.or.bverton.comcast.net
+N31951	xe-0-2-0-0-sur01.portlandhub.or.bverton.comcast.net
+N31951	xe-11-0-0-0-sur01.portlandhub.or.bverton.comcast.net
+
+
+N32083	ae-2-0-sur03.corvallis.or.bverton.comcast.net
+N32083	ae-50-0-sur03.corvallis.or.bverton.comcast.net
+
+
+
+
+N10561	ge-3-46-ur01.upperdarby.pa.panjde.comcast.net
+N10561	te-1-1-ur01.upperdarby.pa.panjde.comcast.net
+N10561	te-1-3-ur01.upperdarby.pa.panjde.comcast.net
+N10561	te-4-1-ur01.upperdarby.pa.panjde.comcast.net
+N10561	te-7-2-ur01.upperdarby.pa.panjde.comcast.net
+N10561	te-7-3-ur01.upperdarby.pa.panjde.comcast.net
+
+
+N10611	te-1-1-ar01-d.philadelphia.pa.bo.comcast.net
+N10611	te-1-2-ar01-d.philadelphia.pa.bo.comcast.net
+N10611	te-1-4-ar01-d.philadelphia.pa.bo.comcast.net
+N10611	te-8-1-ar01-d.philadelphia.pa.bo.comcast.net
+N10611	te-8-2-ar01-d.philadelphia.pa.bo.comcast.net
+N10611	te-9-4-ar01-d.philadelphia.pa.bo.comcast.net
+
+
+N10631	te-8-3-ur06.blairsville.pa.pitt.comcast.net
+N10631	te-8-4-ur06.blairsville.pa.pitt.comcast.net
+N10631	te-9-3-ur06.blairsville.pa.pitt.comcast.net
+N10631	te-9-4-ur06.blairsville.pa.pitt.comcast.net
+N10631	te-9-7-ur06.blairsville.pa.pitt.comcast.net
+N10631	te-9-8-ur06.blairsville.pa.pitt.comcast.net
+
+
+N10632	te-0-0-0-0-ur13.pittsburgh.pa.pitt.comcast.net
+N10632	te-0-0-0-1-ur13.pittsburgh.pa.pitt.comcast.net
+N10632	te-0-0-0-2-ur13.pittsburgh.pa.pitt.comcast.net
+N10632	te-0-0-0-3-ur13.pittsburgh.pa.pitt.comcast.net
+N10632	te-0-7-0-1-ur13.pittsburgh.pa.pitt.comcast.net
+N10632	te-0-7-0-2-ur13.pittsburgh.pa.pitt.comcast.net
+
+
+N10640	ae-2-0-ar03.norristown.pa.panjde.comcast.net
+N10640	ae-3-0-ar03.norristown.pa.panjde.comcast.net
+N10640	et-1-0-0-0-ar03.norristown.pa.panjde.comcast.net
+N10640	et-1-1-0-0-ar03.norristown.pa.panjde.comcast.net
+N10640	so-6-0-0-0-ar03.norristown.pa.panjde.comcast.net
+N10640	so-6-1-0-0-ar03.norristown.pa.panjde.comcast.net
+
+
+N13067	ge-0-3-0-5-2568-sur01.mckeesport.pa.pitt.comcast.net
+N13067	te-0-0-0-0-sur01.mckeesport.pa.pitt.comcast.net
+N13067	te-0-0-0-3-sur01.mckeesport.pa.pitt.comcast.net
+N13067	te-0-7-0-1-3746-sur01.mckeesport.pa.pitt.comcast.net
+
+
+N14115	te-1-3-ur01.newhanover.pa.panjde.comcast.net
+N14115	te-3-4-ur01.newhanover.pa.panjde.comcast.net
+N14115	te-9-3-ur01.newhanover.pa.panjde.comcast.net
+
+
+N14118	te-0-0-0-0-sur02.scranton.pa.pitt.comcast.net
+N14118	te-0-0-0-1-sur02.scranton.pa.pitt.comcast.net
+N14118	te-0-0-0-3-sur02.scranton.pa.pitt.comcast.net
+N14118	te-0-7-0-1-sur02.scranton.pa.pitt.comcast.net
+N14118	te-0-7-0-2-sur02.scranton.pa.pitt.comcast.net
+
+
+N14131	xe-0-0-0-0-ur06.49thst.pa.panjde.comcast.net
+N14131	xe-0-0-1-0-ur06.49thst.pa.panjde.comcast.net
+N14131	xe-11-0-0-0-ur06.49thst.pa.panjde.comcast.net
+N14131	xe-11-0-1-0-ur06.49thst.pa.panjde.comcast.net
+N14131	xe-2-0-0-0-ur06.49thst.pa.panjde.comcast.net
+
+
+N14132	te-1-3-ur01.torresdale.pa.panjde.comcast.net
+N14132	te-1-4-ur01.torresdale.pa.panjde.comcast.net
+N14132	te-9-3-ur01.torresdale.pa.panjde.comcast.net
+N14132	te-9-4-ur01.torresdale.pa.panjde.comcast.net
+N14132	te-9-7-ur01.torresdale.pa.panjde.comcast.net
+
+
+N17286	te-0-0-0-0-sur01.canonsburg.pa.pitt.comcast.net
+N17286	te-0-7-0-0-sur01.canonsburg.pa.pitt.comcast.net
+
+
+N17288	te-0-0-0-0-sur01.williamsport.pa.pitt.comcast.net
+N17288	te-0-0-0-3-3840-sur01.williamsport.pa.pitt.comcast.net
+N17288	te-0-6-0-0-sur01.williamsport.pa.pitt.comcast.net
+
+
+N17852	be-1-sur01.statecollege.pa.pitt.comcast.net
+N17852	ge-0-3-4-0-3751-sur01.statecollege.pa.pitt.comcast.net
+N17852	ge-0-3-5-5-3814-sur01.statecollege.pa.pitt.comcast.net
+N17852	te-0-0-0-1-3999-sur01.statecollege.pa.pitt.comcast.net
+
+
+N17871	te-0-0-0-0-sur01.tarentum.pa.pitt.comcast.net
+N17871	te-0-0-0-7-2625-sur01.tarentum.pa.pitt.comcast.net
+N17871	te-0-7-0-0-sur01.tarentum.pa.pitt.comcast.net
+
+
+N20242	te-2-1-ur01.willowgrove.pa.panjde.comcast.net
+N20242	te-2-3-ur01.willowgrove.pa.panjde.comcast.net
+N20242	te-3-1-ur01.willowgrove.pa.panjde.comcast.net
+N20242	te-3-3-ur01.willowgrove.pa.panjde.comcast.net
+
+
+N20245	te-3-3-ur01.kennetsquare.pa.panjde.comcast.net
+N20245	te-3-4-ur01.kennetsquare.pa.panjde.comcast.net
+N20245	te-8-1-ur01.kennetsquare.pa.panjde.comcast.net
+N20245	te-8-3-ur01.kennetsquare.pa.panjde.comcast.net
+
+
+N20312	te-1-1-ur02.49thst.pa.panjde.comcast.net
+N20312	te-1-3-ur02.49thst.pa.panjde.comcast.net
+N20312	te-9-1-ur02.49thst.pa.panjde.comcast.net
+N20312	te-9-3-ur02.49thst.pa.panjde.comcast.net
+
+
+N20313	te-1-1-ur01.wallingford.pa.panjde.comcast.net
+N20313	te-1-3-ur01.wallingford.pa.panjde.comcast.net
+N20313	te-9-1-ur01.wallingford.pa.panjde.comcast.net
+N20313	te-9-3-ur01.wallingford.pa.panjde.comcast.net
+
+
+N20315	te-1-3-ur02.bensalem.pa.panjde.comcast.net
+N20315	te-7-1-ur02.bensalem.pa.panjde.comcast.net
+N20315	te-9-1-ur02.bensalem.pa.panjde.comcast.net
+N20315	te-9-3-ur02.bensalem.pa.panjde.comcast.net
+
+
+N20321	ge-3-5-ur02.lowerpaxton.pa.pitt.comcast.net
+N20321	ge-3-6-ur02.lowerpaxton.pa.pitt.comcast.net
+N20321	te-1-3-ur02.lowerpaxton.pa.pitt.comcast.net
+N20321	te-4-1-ur02.lowerpaxton.pa.pitt.comcast.net
+
+
+N20322	ge-2-23-ur01.statecollege.pa.pitt.comcast.net
+N20322	ge-3-23-ur01.statecollege.pa.pitt.comcast.net
+N20322	te-9-1-ur01.statecollege.pa.pitt.comcast.net
+N20322	te-9-3-ur01.statecollege.pa.pitt.comcast.net
+
+
+N20323	te-1-1-ur01.huntingdon.pa.pitt.comcast.net
+N20323	te-1-3-ur01.huntingdon.pa.pitt.comcast.net
+N20323	te-9-1-ur01.huntingdon.pa.pitt.comcast.net
+N20323	te-9-3-ur01.huntingdon.pa.pitt.comcast.net
+
+
+N20324	te-1-1-ur01.highrock.pa.pitt.comcast.net
+N20324	te-1-3-ur01.highrock.pa.pitt.comcast.net
+N20324	te-9-1-ur01.highrock.pa.pitt.comcast.net
+N20324	te-9-3-ur01.highrock.pa.pitt.comcast.net
+
+
+N20325	te-1-1-ur01.westyork.pa.pitt.comcast.net
+N20325	te-1-3-ur01.westyork.pa.pitt.comcast.net
+N20325	te-9-1-ur01.westyork.pa.pitt.comcast.net
+N20325	te-9-3-ur01.westyork.pa.pitt.comcast.net
+
+
+N20326	te-1-1-ur01.elizabethtwn.pa.pitt.comcast.net
+N20326	te-1-3-ur01.elizabethtwn.pa.pitt.comcast.net
+N20326	te-9-1-ur01.elizabethtwn.pa.pitt.comcast.net
+N20326	te-9-3-ur01.elizabethtwn.pa.pitt.comcast.net
+
+
+N20327	te-1-1-ur02.york.pa.pitt.comcast.net
+N20327	te-1-3-ur02.york.pa.pitt.comcast.net
+N20327	te-9-1-ur02.york.pa.pitt.comcast.net
+N20327	te-9-3-ur02.york.pa.pitt.comcast.net
+
+
+N20336	te-8-1-ur01.clarion.pa.pitt.comcast.net
+N20336	te-8-2-ur01.clarion.pa.pitt.comcast.net
+N20336	te-9-1-ur01.clarion.pa.pitt.comcast.net
+N20336	te-9-2-ur01.clarion.pa.pitt.comcast.net
+
+
+N20337	te-8-1-ur01.centralcity.pa.pitt.comcast.net
+N20337	te-8-3-ur01.centralcity.pa.pitt.comcast.net
+N20337	te-9-1-ur01.centralcity.pa.pitt.comcast.net
+N20337	te-9-3-ur01.centralcity.pa.pitt.comcast.net
+
+
+N20339	te-8-3-ur05.blairsville.pa.pitt.comcast.net
+N20339	te-8-4-ur05.blairsville.pa.pitt.comcast.net
+N20339	te-8-7-ur05.blairsville.pa.pitt.comcast.net
+N20339	te-8-8-ur05.blairsville.pa.pitt.comcast.net
+
+
+N20340	te-8-1-ur01.tarentum.pa.pitt.comcast.net
+N20340	te-8-3-ur01.tarentum.pa.pitt.comcast.net
+N20340	te-9-1-ur01.tarentum.pa.pitt.comcast.net
+
+
+N20392	xe-0-0-0-0-sur01.torresdale.pa.panjde.comcast.net
+N20392	xe-0-1-0-0-sur01.torresdale.pa.panjde.comcast.net
+N20392	xe-11-0-0-0-sur01.torresdale.pa.panjde.comcast.net
+N20392	xe-11-1-0-0-sur01.torresdale.pa.panjde.comcast.net
+
+
+N20429	te-8-1-ur01.indiana.pa.pitt.comcast.net
+N20429	te-8-3-ur01.indiana.pa.pitt.comcast.net
+N20429	te-9-1-ur01.indiana.pa.pitt.comcast.net
+N20429	te-9-3-ur01.indiana.pa.pitt.comcast.net
+
+
+N20557	te-0-0-0-0-sur01.greensburg.pa.pitt.comcast.net
+N20557	te-0-0-0-1-sur01.greensburg.pa.pitt.comcast.net
+N20557	te-0-7-0-0-sur01.greensburg.pa.pitt.comcast.net
+N20557	te-0-7-0-1-sur01.greensburg.pa.pitt.comcast.net
+
+
+N20562	xe-0-0-0-0-sur01.upperdarby.pa.panjde.comcast.net
+N20562	xe-0-1-0-0-sur01.upperdarby.pa.panjde.comcast.net
+N20562	xe-11-0-0-0-sur01.upperdarby.pa.panjde.comcast.net
+N20562	xe-11-1-0-0-sur01.upperdarby.pa.panjde.comcast.net
+
+
+N20563	xe-0-0-0-0-sur01.wallingford.pa.panjde.comcast.net
+N20563	xe-0-1-0-0-sur01.wallingford.pa.panjde.comcast.net
+N20563	xe-11-0-0-0-sur01.wallingford.pa.panjde.comcast.net
+N20563	xe-11-1-0-0-sur01.wallingford.pa.panjde.comcast.net
+
+
+N2112	be-1-ar03.mckeesport.pa.pitt.comcast.net
+N2112	he-0-12-0-0-ar03.mckeesport.pa.pitt.comcast.net
+N2112	he-0-13-0-0-ar03.mckeesport.pa.pitt.comcast.net
+N2112	he-0-14-0-0-ar03.mckeesport.pa.pitt.comcast.net
+N2112	he-0-15-0-0-ar01.mckeesport.pa.pitt.comcast.net
+N2112	he-0-15-0-0-ar03.mckeesport.pa.pitt.comcast.net
+N2112	he-0-15-0-1-ar01.mckeesport.pa.pitt.comcast.net
+N2112	he-0-6-0-0-ar03.mckeesport.pa.pitt.comcast.net
+N2112	he-0-7-0-0-ar03.mckeesport.pa.pitt.comcast.net
+
+
+N27723	as7272-1-c.corliss.pa.ibone.comcast.net
+
+
+N28718	ge-0-3-0-12-3845-sur01.bethelpark.pa.pitt.comcast.net
+N28718	te-0-0-0-0-sur01.bethelpark.pa.pitt.comcast.net
+N28718	te-0-7-0-0-sur01.bethelpark.pa.pitt.comcast.net
+
+
+N28744	ge-0-3-2-3-3525-sur01.bluemountain.pa.pitt.comcast.net
+N28744	te-0-0-0-0-sur01.bluemountain.pa.pitt.comcast.net
+N28744	te-0-7-0-0-sur01.bluemountain.pa.pitt.comcast.net
+
+
+N28748	ae-0-0-sur01.norristown.pa.panjde.comcast.net
+N28748	ge-2-3-6-32767-sur01.norristown.pa.panjde.comcast.net
+
+
+N28752	ae-0-0-sur01.49thst.pa.panjde.comcast.net
+N28752	ae-1-0-sur01.49thst.pa.panjde.comcast.net
+N28752	xe-9-2-0-32767-sur01.49thst.pa.panjde.comcast.net
+
+
+N2959	be-1-ar03.pittsburgh.pa.pitt.comcast.net
+N2959	he-0-0-0-0-ar03.pittsburgh.pa.pitt.comcast.net
+N2959	he-0-1-0-0-ar03.pittsburgh.pa.pitt.comcast.net
+N2959	he-0-12-0-0-ar03.pittsburgh.pa.pitt.comcast.net
+N2959	he-0-13-0-0-ar03.pittsburgh.pa.pitt.comcast.net
+N2959	he-0-14-0-0-ar03.pittsburgh.pa.pitt.comcast.net
+N2959	he-0-15-0-0-ar03.pittsburgh.pa.pitt.comcast.net
+N2959	te-8-8-ar01.pittsburgh.pa.pitt.comcast.net
+
+
+N31776	te-2-1-ur01.northeastave.pa.panjde.comcast.net
+N31776	te-2-3-ur01.northeastave.pa.panjde.comcast.net
+N31776	te-2-4-ur01.northeastave.pa.panjde.comcast.net
+
+
+N31783	te-1-1-ur01.fairmountave.pa.panjde.comcast.net
+N31783	te-1-3-ur01.fairmountave.pa.panjde.comcast.net
+N31783	te-3-2-ur01.fairmountave.pa.panjde.comcast.net
+
+
+N31784	te-8-4-ur01.milford.pa.panjde.comcast.net
+N31784	te-9-1-ur01.milford.pa.panjde.comcast.net
+N31784	te-9-3-ur01.milford.pa.panjde.comcast.net
+
+
+N31902	xe-0-0-0-0-ur05.49thst.pa.panjde.comcast.net
+N31902	xe-0-0-1-0-ur05.49thst.pa.panjde.comcast.net
+N31902	xe-11-0-0-0-ur05.49thst.pa.panjde.comcast.net
+
+
+N31911	te-1-1-ur01.lebanon.pa.pitt.comcast.net
+N31911	te-1-3-ur01.lebanon.pa.pitt.comcast.net
+N31911	te-9-3-ur01.lebanon.pa.pitt.comcast.net
+
+
+N31912	ge-5-1-ur02.hanover.pa.pitt.comcast.net
+N31912	te-1-1-ur02.hanover.pa.pitt.comcast.net
+N31912	te-1-3-ur02.hanover.pa.pitt.comcast.net
+
+
+N31915	te-0-7-0-0-sur03.scranton.pa.pitt.comcast.net
+N31915	te-0-7-0-1-sur03.scranton.pa.pitt.comcast.net
+N31915	te-0-7-0-2-sur03.scranton.pa.pitt.comcast.net
+
+
+N31959	te-1-1-ur02.ivyland.pa.panjde.comcast.net
+N31959	te-1-3-ur02.ivyland.pa.panjde.comcast.net
+N31959	te-3-3-ur02.ivyland.pa.panjde.comcast.net
+
+
+N31960	te-2-1-ur01.chestnuthill.pa.panjde.comcast.net
+N31960	te-2-3-ur01.chestnuthill.pa.panjde.comcast.net
+N31960	te-7-1-ur01.chestnuthill.pa.panjde.comcast.net
+
+
+N31991	te-0-0-0-3-ar01-d.comcastcntr.pa.bo.comcast.net
+N31991	te-0-7-0-0-ar01-d.comcastcntr.pa.bo.comcast.net
+N31991	te-0-7-0-1-ar01-d.comcastcntr.pa.bo.comcast.net
+
+
+N32039	te-1-1-ur02.sellersville.pa.panjde.comcast.net
+N32039	te-1-3-ur02.sellersville.pa.panjde.comcast.net
+N32039	te-3-3-ur02.sellersville.pa.panjde.comcast.net
+
+
+N32052	te-0-0-0-0-ar02-d.comcastcntr.pa.bo.comcast.net
+N32052	te-0-0-0-2-ar02-d.comcastcntr.pa.bo.comcast.net
+N32052	te-0-7-0-2-ar02-d.comcastcntr.pa.bo.comcast.net
+
+
+N32053	te-1-3-ar02-d.philadelphia.pa.bo.comcast.net
+N32053	te-9-1-ar02-d.philadelphia.pa.bo.comcast.net
+N32053	te-9-3-ar02-d.philadelphia.pa.bo.comcast.net
+
+
+N32271	ge-0-3-4-0-3666-sur01.lancaster.pa.pitt.comcast.net
+N32271	te-0-0-0-0-sur01.lancaster.pa.pitt.comcast.net
+N32271	te-0-7-0-0-sur01.lancaster.pa.pitt.comcast.net
+
+
+N3341	be-1-ar03.lowerpaxton.pa.pitt.comcast.net
+N3341	te-0-13-0-1-ar03.pittsburgh.pa.pitt.comcast.net
+N3341	te-0-2-0-2-ar03.lowerpaxton.pa.pitt.comcast.net
+N3341	te-0-6-0-0-ar03.lowerpaxton.pa.pitt.comcast.net
+N3341	te-0-6-0-2-ar03.lowerpaxton.pa.pitt.comcast.net
+N3341	te-0-6-0-3-ar03.lowerpaxton.pa.pitt.comcast.net
+
+
+N3345	he-0-2-0-0-ar02-d.westchester.pa.bo.comcast.net
+N3345	te-0-3-0-6-ar02-d.westchester.pa.bo.comcast.net
+N3345	te-0-3-0-7-ar02-d.westchester.pa.bo.comcast.net
+N3345	te-0-4-0-3-ar02-d.westchester.pa.bo.comcast.net
+N3345	te-0-5-0-0-ar02-d.westchester.pa.bo.comcast.net
+N3345	te-0-5-0-1-ar02-d.westchester.pa.bo.comcast.net
+N3345	te-0-5-0-2-ar02-d.westchester.pa.bo.comcast.net
+
+
+N3805	be-2-ur06.norristown.pa.panjde.comcast.net
+N3805	te-0-7-0-3-ur06.norristown.pa.panjde.comcast.net
+N3805	te-0-7-0-4-ur06.norristown.pa.panjde.comcast.net
+N3805	te-0-7-0-5-ur06.norristown.pa.panjde.comcast.net
+N3805	te-0-7-0-6-ur06.norristown.pa.panjde.comcast.net
+N3805	te-0-7-0-7-ur06.norristown.pa.panjde.comcast.net
+
+
+N3806	te-0-0-0-0-sur02.pittsburgh.pa.pitt.comcast.net
+N3806	te-0-0-0-1-sur02.pittsburgh.pa.pitt.comcast.net
+N3806	te-0-0-0-2-sur02.pittsburgh.pa.pitt.comcast.net
+N3806	te-0-0-0-3-sur02.pittsburgh.pa.pitt.comcast.net
+N3806	te-0-0-0-5-sur02.pittsburgh.pa.pitt.comcast.net
+N3806	te-0-7-0-0-sur02.pittsburgh.pa.pitt.comcast.net
+N3806	te-0-7-0-1-sur02.pittsburgh.pa.pitt.comcast.net
+N3806	te-0-7-0-4-sur02.pittsburgh.pa.pitt.comcast.net
+N3806	te-0-7-0-5-sur02.pittsburgh.pa.pitt.comcast.net
+
+
+N5314	be-2-ur05.norristown.pa.panjde.comcast.net
+N5314	ge-8-32-ur02.scranton.pa.pitt.comcast.net
+N5314	te-0-7-0-4-ur05.norristown.pa.panjde.comcast.net
+N5314	te-0-7-0-5-ur05.norristown.pa.panjde.comcast.net
+N5314	te-0-7-0-6-ur05.norristown.pa.panjde.comcast.net
+N5314	te-0-7-0-7-ur05.norristown.pa.panjde.comcast.net
+
+
+N5317	ae-18-0-ar03.ivyland.pa.panjde.comcast.net
+N5317	et-0-0-0-0-ar03.ivyland.pa.panjde.comcast.net
+N5317	et-0-1-0-0-ar03.ivyland.pa.panjde.comcast.net
+N5317	et-1-0-0-0-ar03.ivyland.pa.panjde.comcast.net
+N5317	et-1-1-0-0-ar03.ivyland.pa.panjde.comcast.net
+N5317	et-16-0-0-0-ar03.ivyland.pa.panjde.comcast.net
+N5317	et-16-1-0-0-ar03.ivyland.pa.panjde.comcast.net
+N5317	xe-17-0-1-0-ar03.ivyland.pa.panjde.comcast.net
+N5317	xe-6-1-0-0-ar03.ivyland.pa.panjde.comcast.net
+
+
+N5324	xe-11-3-0-0-ur11-d.westchester.pa.bo.comcast.net
+N5324	xe-3-2-0-0-ur11-d.westchester.pa.bo.comcast.net
+N5324	xe-3-3-0-0-ur11-d.westchester.pa.bo.comcast.net
+N5324	xe-4-0-0-0-ur11-d.westchester.pa.bo.comcast.net
+N5324	xe-4-1-0-0-ur11-d.westchester.pa.bo.comcast.net
+N5324	xe-5-0-0-0-ur11-d.westchester.pa.bo.comcast.net
+N5324	xe-5-1-0-0-ur11-d.westchester.pa.bo.comcast.net
+
+
+N5333	ae-2-0-ar03.coatesville.pa.panjde.comcast.net
+N5333	ae-3-0-ar03.coatesville.pa.panjde.comcast.net
+N5333	ae-7-0-ar03.coatesville.pa.panjde.comcast.net
+N5333	ae-8-0-ar03.coatesville.pa.panjde.comcast.net
+N5333	so-3-0-0-0-ar03.coatesville.pa.panjde.comcast.net
+N5333	so-6-0-0-0-ar03.coatesville.pa.panjde.comcast.net
+N5333	so-6-1-0-0-ar03.coatesville.pa.panjde.comcast.net
+
+
+N8335	xe-10-0-0-0-ur12-d.westchester.pa.bo.comcast.net
+N8335	xe-5-0-0-0-ur12-d.westchester.pa.bo.comcast.net
+N8335	xe-5-1-0-0-ur12-d.westchester.pa.bo.comcast.net
+
+
+N8349	te-0-0-0-0-ur14.pittsburgh.pa.pitt.comcast.net
+N8349	te-0-0-0-1-ur14.pittsburgh.pa.pitt.comcast.net
+N8349	te-0-0-0-2-ur14.pittsburgh.pa.pitt.comcast.net
+N8349	te-0-7-0-0-ur14.pittsburgh.pa.pitt.comcast.net
+N8349	te-0-7-0-1-ur14.pittsburgh.pa.pitt.comcast.net
+N8349	te-0-7-0-2-ur14.pittsburgh.pa.pitt.comcast.net
+N8349	te-0-7-0-3-ur14.pittsburgh.pa.pitt.comcast.net
+
+
+N9733	be-1-sur01.reading.pa.pitt.comcast.net
+N9733	be-3-sur01.reading.pa.pitt.comcast.net
+N9733	ge-0-2-0-4-4000-sur01.reading.pa.pitt.comcast.net
+N9733	ge-0-3-3-2-3766-sur01.reading.pa.pitt.comcast.net
+N9733	ge-0-3-4-0-2144-sur01.reading.pa.pitt.comcast.net
+
+
+N9735	te-0-0-0-0-sur01.york.pa.pitt.comcast.net
+N9735	te-0-1-0-7-sur01.york.pa.pitt.comcast.net
+N9735	te-0-2-0-1-3756-sur01.york.pa.pitt.comcast.net
+N9735	te-0-5-0-5-sur01.york.pa.pitt.comcast.net
+N9735	te-0-5-0-6-sur01.york.pa.pitt.comcast.net
+N9735	te-0-6-0-3-3855-sur01.york.pa.pitt.comcast.net
+
+
+N9738	ge-0-3-0-8-3887-sur02.york.pa.pitt.comcast.net
+N9738	ge-0-4-0-18-3585-sur02.york.pa.pitt.comcast.net
+N9738	te-0-0-0-0-sur02.york.pa.pitt.comcast.net
+N9738	te-0-0-0-1-sur02.york.pa.pitt.comcast.net
+N9738	te-0-7-0-0-sur02.york.pa.pitt.comcast.net
+N9738	te-0-7-0-1-sur02.york.pa.pitt.comcast.net
+
+
+
+
+N14154	ge-1-5-ur01.charleston.sc.chrlstn.comcast.net
+N14154	te-8-1-ur01.charleston.sc.chrlstn.comcast.net
+N14154	te-8-4-ur01.charleston.sc.chrlstn.comcast.net
+N14154	te-9-2-ur01.charleston.sc.chrlstn.comcast.net
+N14154	te-9-3-ur01.charleston.sc.chrlstn.comcast.net
+
+
+N14166	te-3-3-ar01.charleston.sc.chrlstn.comcast.net
+N14166	te-3-4-ar01.charleston.sc.chrlstn.comcast.net
+N14166	te-3-7-ar01.charleston.sc.chrlstn.comcast.net
+N14166	te-3-8-ar01.charleston.sc.chrlstn.comcast.net
+
+
+N20448	te-1-2-ur01.mtpleasant.sc.chrlstn.comcast.net
+N20448	te-8-4-ur01.mtpleasant.sc.chrlstn.comcast.net
+N20448	te-9-1-ur01.mtpleasant.sc.chrlstn.comcast.net
+
+
+N32033	te-1-3-ur01.ladson.sc.chrlstn.comcast.net
+N32033	te-3-1-ur01.ladson.sc.chrlstn.comcast.net
+N32033	te-3-3-ur01.ladson.sc.chrlstn.comcast.net
+
+
+N32038	te-3-1-ur01.ashleyriver.sc.chrlstn.comcast.net
+N32038	te-3-3-ur01.ashleyriver.sc.chrlstn.comcast.net
+N32038	te-7-3-ur01.ashleyriver.sc.chrlstn.comcast.net
+
+
+N6464	te-3-3-ar02.charleston.sc.chrlstn.comcast.net
+N6464	te-3-4-ar02.charleston.sc.chrlstn.comcast.net
+N6464	te-3-7-ar02.charleston.sc.chrlstn.comcast.net
+N6464	te-5-3-ar02.charleston.sc.chrlstn.comcast.net
+N6464	te-5-4-ar02.charleston.sc.chrlstn.comcast.net
+N6464	te-5-8-ar02.charleston.sc.chrlstn.comcast.net
+
+
+
+
+N10579	ge-1-2-5-32767-sur02.williamson.tn.nash.comcast.net
+N10579	xe-0-0-0-0-sur02.williamson.tn.nash.comcast.net
+N10579	xe-0-1-0-0-sur02.williamson.tn.nash.comcast.net
+N10579	xe-11-3-0-0-sur02.williamson.tn.nash.comcast.net
+N10579	xe-9-2-0-0-sur02.williamson.tn.nash.comcast.net
+N10579	xe-9-3-0-32767-sur02.williamson.tn.nash.comcast.net
+
+
+N10638	xe-0-3-0-0-sr01.pennington.tn.nash.comcast.net
+N10638	xe-10-1-0-0-sr01.pennington.tn.nash.comcast.net
+N10638	xe-10-3-0-0-sr01.pennington.tn.nash.comcast.net
+N10638	xe-11-1-0-0-sr01.pennington.tn.nash.comcast.net
+N10638	xe-4-0-0-0-sr01.pennington.tn.nash.comcast.net
+N10638	xe-4-1-0-0-sr01.pennington.tn.nash.comcast.net
+
+
+N10642	te-3-1-ur01.germantown.tn.malt.comcast.net
+N10642	te-3-2-ur01.germantown.tn.malt.comcast.net
+N10642	te-3-3-ur01.germantown.tn.malt.comcast.net
+N10642	te-4-1-ur01.germantown.tn.malt.comcast.net
+N10642	te-4-2-ur01.germantown.tn.malt.comcast.net
+N10642	te-4-3-ur01.germantown.tn.malt.comcast.net
+
+
+N14129	xe-0-0-0-0-sur02.ashgroverd.tn.nash.comcast.net
+N14129	xe-0-3-0-0-sur02.ashgroverd.tn.nash.comcast.net
+N14129	xe-10-0-0-0-sur02.ashgroverd.tn.nash.comcast.net
+N14129	xe-10-2-0-0-sur02.ashgroverd.tn.nash.comcast.net
+N14129	xe-11-2-0-0-sur02.ashgroverd.tn.nash.comcast.net
+
+
+N14134	ae-2-0-ar03.nashville.tn.nash.comcast.net
+N14134	ae-3-0-ar03.nashville.tn.nash.comcast.net
+N14134	et-0-0-0-0-ar03.nashville.tn.nash.comcast.net
+N14134	et-0-1-0-0-ar03.nashville.tn.nash.comcast.net
+N14134	et-5-0-0-0-ar03.nashville.tn.nash.comcast.net
+
+
+N14135	ae-2-0-ar01.goodslettvll.tn.nash.comcast.net
+N14135	ae-3-0-ar01.goodslettvll.tn.nash.comcast.net
+N14135	et-6-0-0-0-ar01.goodslettvll.tn.nash.comcast.net
+N14135	et-6-1-0-0-ar01.goodslettvll.tn.nash.comcast.net
+N14135	et-7-1-0-0-ar01.goodslettvll.tn.nash.comcast.net
+
+
+N14155	xe-0-0-0-0-sur04.murfreesboro.tn.nash.comcast.net
+N14155	xe-0-0-1-0-sur04.murfreesboro.tn.nash.comcast.net
+N14155	xe-0-0-2-0-sur04.murfreesboro.tn.nash.comcast.net
+N14155	xe-0-0-3-0-sur04.murfreesboro.tn.nash.comcast.net
+N14155	xe-11-0-0-0-sur04.murfreesboro.tn.nash.comcast.net
+
+
+N14164	te-0-1-0-0-ur07.winchester.tn.malt.comcast.net
+N14164	te-0-1-0-1-ur07.winchester.tn.malt.comcast.net
+N14164	te-0-7-0-0-ur07.winchester.tn.malt.comcast.net
+N14164	te-0-7-0-1-ur07.winchester.tn.malt.comcast.net
+
+
+N14165	te-7-1-ur01.collierville.tn.malt.comcast.net
+N14165	te-7-3-ur01.collierville.tn.malt.comcast.net
+N14165	te-9-1-ur01.collierville.tn.malt.comcast.net
+N14165	te-9-2-ur01.collierville.tn.malt.comcast.net
+N14165	te-9-3-ur01.collierville.tn.malt.comcast.net
+
+
+N20374	te-3-2-ur01.gray.tn.knox.comcast.net
+N20374	te-7-2-ur01.gray.tn.knox.comcast.net
+N20374	te-8-2-ur01.gray.tn.knox.comcast.net
+N20374	te-8-4-ur01.gray.tn.knox.comcast.net
+
+
+N20375	te-8-3-ur02.gray.tn.knox.comcast.net
+N20375	te-9-1-ur02.gray.tn.knox.comcast.net
+N20375	te-9-2-ur02.gray.tn.knox.comcast.net
+N20375	te-9-3-ur02.gray.tn.knox.comcast.net
+
+
+N20376	te-7-2-ur01.oakridge.tn.knox.comcast.net
+N20376	te-8-1-ur01.oakridge.tn.knox.comcast.net
+N20376	te-9-1-ur01.oakridge.tn.knox.comcast.net
+N20376	te-9-3-ur01.oakridge.tn.knox.comcast.net
+
+
+N20379	xe-0-0-0-0-sur01.tulipgrove.tn.nash.comcast.net
+N20379	xe-0-1-0-0-sur01.tulipgrove.tn.nash.comcast.net
+N20379	xe-10-0-0-0-sur01.tulipgrove.tn.nash.comcast.net
+N20379	xe-11-3-0-0-sur01.tulipgrove.tn.nash.comcast.net
+
+
+N20380	xe-0-1-0-0-sur02.tulipgrove.tn.nash.comcast.net
+N20380	xe-0-2-0-0-sur02.tulipgrove.tn.nash.comcast.net
+N20380	xe-10-0-0-0-sur02.tulipgrove.tn.nash.comcast.net
+N20380	xe-11-3-0-0-sur02.tulipgrove.tn.nash.comcast.net
+
+
+N20381	xe-0-0-0-0-sur01.gallatin.tn.nash.comcast.net
+N20381	xe-0-1-0-0-sur01.gallatin.tn.nash.comcast.net
+N20381	xe-11-2-0-0-sur01.gallatin.tn.nash.comcast.net
+N20381	xe-11-3-0-0-sur01.gallatin.tn.nash.comcast.net
+
+
+N20382	xe-0-0-0-0-sur02.gallatin.tn.nash.comcast.net
+N20382	xe-0-1-0-0-sur02.gallatin.tn.nash.comcast.net
+N20382	xe-11-2-0-0-sur02.gallatin.tn.nash.comcast.net
+N20382	xe-11-3-0-0-sur02.gallatin.tn.nash.comcast.net
+
+
+N20383	xe-0-0-0-0-sur01.goodslettvll.tn.nash.comcast.net
+N20383	xe-0-1-0-0-sur01.goodslettvll.tn.nash.comcast.net
+N20383	xe-11-1-0-0-sur01.goodslettvll.tn.nash.comcast.net
+N20383	xe-11-3-0-0-sur01.goodslettvll.tn.nash.comcast.net
+
+
+N20384	xe-0-1-0-0-sur01.blairblvd.tn.nash.comcast.net
+N20384	xe-10-0-0-0-sur01.blairblvd.tn.nash.comcast.net
+N20384	xe-11-3-0-0-sur01.blairblvd.tn.nash.comcast.net
+N20384	xe-7-0-0-0-sur01.blairblvd.tn.nash.comcast.net
+
+
+N20385	xe-0-0-0-0-sur02.blairblvd.tn.nash.comcast.net
+N20385	xe-0-1-0-0-sur02.blairblvd.tn.nash.comcast.net
+N20385	xe-10-1-0-0-sur02.blairblvd.tn.nash.comcast.net
+N20385	xe-11-3-0-0-sur02.blairblvd.tn.nash.comcast.net
+
+
+N20398	te-3-1-ur02.greeneville.tn.knox.comcast.net
+N20398	te-3-3-ur02.greeneville.tn.knox.comcast.net
+N20398	te-9-1-ur02.greeneville.tn.knox.comcast.net
+N20398	te-9-3-ur02.greeneville.tn.knox.comcast.net
+
+
+N20450	xe-0-0-0-0-sur03.murfreesboro.tn.nash.comcast.net
+N20450	xe-0-0-1-0-sur03.murfreesboro.tn.nash.comcast.net
+N20450	xe-0-0-2-0-sur03.murfreesboro.tn.nash.comcast.net
+N20450	xe-0-0-3-0-sur03.murfreesboro.tn.nash.comcast.net
+
+
+N20466	te-7-4-ur02.polymer.tn.chatta.comcast.net
+N20466	te-8-3-ur02.polymer.tn.chatta.comcast.net
+N20466	te-9-1-ur02.polymer.tn.chatta.comcast.net
+N20466	te-9-4-ur02.polymer.tn.chatta.comcast.net
+
+
+N20471	te-0-1-0-0-ur08.winchester.tn.malt.comcast.net
+N20471	te-0-1-0-1-ur08.winchester.tn.malt.comcast.net
+N20471	te-0-7-0-0-ur08.winchester.tn.malt.comcast.net
+N20471	te-0-7-0-1-ur08.winchester.tn.malt.comcast.net
+
+
+N2115	pos-0-11-0-0-ar02.winchester.tn.malt.comcast.net
+N2115	pos-0-12-0-0-ar02.winchester.tn.malt.comcast.net
+N2115	pos-0-13-0-0-ar02.winchester.tn.malt.comcast.net
+N2115	pos-0-14-0-0-ar02.winchester.tn.malt.comcast.net
+N2115	te-0-7-0-0-ar02.winchester.tn.malt.comcast.net
+N2115	te-0-7-0-2-ar02.winchester.tn.malt.comcast.net
+N2115	te-0-7-0-4-ar02.winchester.tn.malt.comcast.net
+N2115	te-0-7-0-6-ar02.winchester.tn.malt.comcast.net
+
+
+N24038	xe-0-0-0-0-sur03.nashville.tn.nash.comcast.net
+N24038	xe-0-0-1-0-sur03.nashville.tn.nash.comcast.net
+N24038	xe-0-0-2-0-sur03.nashville.tn.nash.comcast.net
+N24038	xe-0-0-3-0-sur03.nashville.tn.nash.comcast.net
+
+
+N24039	xe-0-0-0-0-sur04.nashville.tn.nash.comcast.net
+N24039	xe-0-0-1-0-sur04.nashville.tn.nash.comcast.net
+N24039	xe-0-0-2-0-sur04.nashville.tn.nash.comcast.net
+N24039	xe-0-0-3-0-sur04.nashville.tn.nash.comcast.net
+
+
+N31948	xe-0-0-0-0-sur01.hicksrd.tn.nash.comcast.net
+N31948	xe-0-3-0-0-sur01.hicksrd.tn.nash.comcast.net
+N31948	xe-11-3-0-0-sur01.hicksrd.tn.nash.comcast.net
+
+
+N31965	xe-0-0-0-0-sur01.ashgroverd.tn.nash.comcast.net
+N31965	xe-10-2-0-0-sur01.ashgroverd.tn.nash.comcast.net
+N31965	xe-11-3-0-0-sur01.ashgroverd.tn.nash.comcast.net
+
+
+N31966	xe-0-0-0-0-sur01.dickson.tn.nash.comcast.net
+N31966	xe-0-1-0-0-sur01.dickson.tn.nash.comcast.net
+N31966	xe-11-3-0-0-sur01.dickson.tn.nash.comcast.net
+
+
+N31967	xe-0-0-0-0-sur02.dickson.tn.nash.comcast.net
+N31967	xe-0-1-0-0-sur02.dickson.tn.nash.comcast.net
+N31967	xe-11-3-0-0-sur02.dickson.tn.nash.comcast.net
+
+
+N31986	te-3-1-ur01.bullsgap.tn.knox.comcast.net
+N31986	te-3-4-ur01.bullsgap.tn.knox.comcast.net
+N31986	te-9-1-ur01.bullsgap.tn.knox.comcast.net
+
+
+N32058	te-8-1-ur01.bartlett.tn.malt.comcast.net
+N32058	te-9-2-ur01.bartlett.tn.malt.comcast.net
+N32058	te-9-4-ur01.bartlett.tn.malt.comcast.net
+
+
+N32060	te-3-1-ur02.germantown.tn.malt.comcast.net
+N32060	te-3-2-ur02.germantown.tn.malt.comcast.net
+N32060	te-3-3-ur02.germantown.tn.malt.comcast.net
+
+
+N32061	te-5-1-ur01.summerave.tn.malt.comcast.net
+N32061	te-5-4-ur01.summerave.tn.malt.comcast.net
+N32061	te-8-4-ur01.summerave.tn.malt.comcast.net
+
+
+N3820	pos-0-11-0-0-ar02.dannythomas.tn.malt.comcast.net
+N3820	pos-0-12-0-0-ar02.dannythomas.tn.malt.comcast.net
+N3820	pos-0-13-0-0-ar02.dannythomas.tn.malt.comcast.net
+N3820	pos-0-14-0-0-ar02.dannythomas.tn.malt.comcast.net
+N3820	te-0-5-0-0-ar02.dannythomas.tn.malt.comcast.net
+N3820	te-0-5-0-2-ar02.dannythomas.tn.malt.comcast.net
+N3820	te-0-6-0-0-ar02.dannythomas.tn.malt.comcast.net
+N3820	te-0-6-0-2-ar02.dannythomas.tn.malt.comcast.net
+
+
+N5078	xe-11-2-0-0-sur02.murfreesboro.tn.nash.comcast.net
+N5078	xe-11-3-0-0-sur02.murfreesboro.tn.nash.comcast.net
+N5078	xe-4-1-0-0-sur02.murfreesboro.tn.nash.comcast.net
+N5078	xe-4-2-0-0-sur02.murfreesboro.tn.nash.comcast.net
+
+
+N5322	xe-0-1-0-0-sur01.nashville.tn.nash.comcast.net
+N5322	xe-0-3-0-0-sur01.nashville.tn.nash.comcast.net
+N5322	xe-11-1-0-0-sur01.nashville.tn.nash.comcast.net
+N5322	xe-11-2-0-0-sur01.nashville.tn.nash.comcast.net
+N5322	xe-11-3-0-0-sur01.nashville.tn.nash.comcast.net
+N5322	xe-9-0-0-0-sur01.nashville.tn.nash.comcast.net
+N5322	xe-9-1-0-0-sur01.nashville.tn.nash.comcast.net
+N5322	xe-9-2-0-0-sur01.nashville.tn.nash.comcast.net
+N5322	xe-9-3-0-0-sur01.nashville.tn.nash.comcast.net
+
+
+N6449	xe-11-2-0-0-sur01.murfreesboro.tn.nash.comcast.net
+N6449	xe-11-3-0-0-sur01.murfreesboro.tn.nash.comcast.net
+N6449	xe-7-0-0-0-sur01.murfreesboro.tn.nash.comcast.net
+N6449	xe-7-1-0-0-sur01.murfreesboro.tn.nash.comcast.net
+
+
+N7863	ge-3-0-2-32767-sur01.williamson.tn.nash.comcast.net
+N7863	ge-3-0-3-32767-sur01.williamson.tn.nash.comcast.net
+N7863	xe-0-0-0-0-sur01.williamson.tn.nash.comcast.net
+N7863	xe-0-1-0-0-sur01.williamson.tn.nash.comcast.net
+N7863	xe-11-3-0-0-sur01.williamson.tn.nash.comcast.net
+N7863	xe-7-2-0-0-sur01.williamson.tn.nash.comcast.net
+
+
+
+
+N10622	ae-0-0-ar01.bearcreek.tx.houston.comcast.net
+N10622	ae-1-0-ar01.bearcreek.tx.houston.comcast.net
+N10622	et-8-1-0-0-ar01.bearcreek.tx.houston.comcast.net
+N10622	et-8-3-0-0-ar01.bearcreek.tx.houston.comcast.net
+N10622	et-9-1-0-0-ar01.bearcreek.tx.houston.comcast.net
+N10622	et-9-3-0-0-ar01.bearcreek.tx.houston.comcast.net
+
+
+N10625	he-0-10-0-0-pe03.1950stemmons.tx.ibone.comcast.net
+N10625	he-0-11-0-0-pe03.1950stemmons.tx.ibone.comcast.net
+
+
+N17845	ae-1-0-sur02.royalton.tx.houston.comcast.net
+N17845	ae-12-0-sur02.royalton.tx.houston.comcast.net
+N17845	ge-7-1-9-32767-sur01.royalton.tx.houston.comcast.net
+
+
+N17858	ae-4-0-sur01.cinco.tx.houston.comcast.net
+N17858	ae-5-0-sur01.cinco.tx.houston.comcast.net
+
+
+N17863	ae-1-0-sur01.pasadena.tx.houston.comcast.net
+N17863	ae-21-0-sur01.pasadena.tx.houston.comcast.net
+N17863	ge-10-0-3-32767-sur01.pasadena.tx.houston.comcast.net
+
+
+N17866	ae-11-0-sur01.leaguecity.tx.houston.comcast.net
+N17866	ae-3-0-sur01.leaguecity.tx.houston.comcast.net
+N17866	ge-10-2-4-32767-sur01.leaguecity.tx.houston.comcast.net
+N17866	ge-2-3-0-32767-sur01.leaguecity.tx.houston.comcast.net
+
+
+N17874	ae-5-0-sur01.egypt.tx.houston.comcast.net
+N17874	ae-6-0-sur01.egypt.tx.houston.comcast.net
+N17874	ge-3-0-7-32767-sur01.egypt.tx.houston.comcast.net
+N17874	ge-9-0-8-32767-sur01.egypt.tx.houston.comcast.net
+
+
+N27721	ae-15-0-sur01.pike.tx.houston.comcast.net
+N27721	ae-9-0-sur01.pike.tx.houston.comcast.net
+
+
+N28723	ae-22-0-sur01.lamarque.tx.houston.comcast.net
+N28723	ae-25-0-sur01.lamarque.tx.houston.comcast.net
+N28723	xe-0-2-0-32767-sur01.lamarque.tx.houston.comcast.net
+
+
+N28730	ae-14-0-sur01.almeda.tx.houston.comcast.net
+N28730	ae-16-0-sur01.almeda.tx.houston.comcast.net
+N28730	ge-10-0-0-32767-sur01.almeda.tx.houston.comcast.net
+
+
+N28756	xe-0-0-0-0-sur01.strack.tx.houston.comcast.net
+N28756	xe-11-0-0-0-sur01.strack.tx.houston.comcast.net
+
+
+N2963	pos-0-13-0-0-cr01.santateresa.tx.ibone.comcast.net
+
+
+N32010	ae-10-0-sur01.rosenberg.tx.houston.comcast.net
+N32010	ae-19-0-sur01.rosenberg.tx.houston.comcast.net
+N32010	ge-1-2-8-32767-sur01.rosenberg.tx.houston.comcast.net
+
+
+N32011	be-20-pe01.houston.tx.ibone.comcast.net
+N32011	be-21-pe01.houston.tx.ibone.comcast.net
+N32011	be-22-pe01.houston.tx.ibone.comcast.net
+
+
+N3349	pos-0-7-0-0-cr01.dallas.tx.ibone.comcast.net
+
+
+N4128	be-10-pe02.1950stemmons.tx.ibone.comcast.net
+N4128	be-11-pe02.1950stemmons.tx.ibone.comcast.net
+N4128	be-12-pe02.1950stemmons.tx.ibone.comcast.net
+N4128	be-13-pe02.1950stemmons.tx.ibone.comcast.net
+N4128	be-14-pe02.1950stemmons.tx.ibone.comcast.net
+N4128	be-15-pe02.1950stemmons.tx.ibone.comcast.net
+N4128	be-16-pe02.1950stemmons.tx.ibone.comcast.net
+N4128	be-17-pe02.1950stemmons.tx.ibone.comcast.net
+
+
+N5275	as6762-pe01.1950stemmons.tx.ibone.comcast.net
+
+
+N7809	as12989-1-c.1950stemmons.tx.ibone.comcast.net
+
+
+N7864	ae-7-0-sur01.grant.tx.houston.comcast.net
+N7864	ae-8-0-sur01.grant.tx.houston.comcast.net
+N7864	ge-1-1-3-32767-sur01.grant.tx.houston.comcast.net
+N7864	ge-2-0-9-32767-sur01.grant.tx.houston.comcast.net
+N7864	ge-2-1-0-32767-sur01.grant.tx.houston.comcast.net
+
+
+N7866	ae-18-0-sur01.luthe.tx.houston.comcast.net
+N7866	ae-20-0-sur01.luthe.tx.houston.comcast.net
+N7866	ge-2-2-9-32767-sur01.luthe.tx.houston.comcast.net
+N7866	ge-3-0-3-32767-sur01.luthe.tx.houston.comcast.net
+N7866	ge-3-1-7-32767-sur01.luthe.tx.houston.comcast.net
+N7866	ge-3-3-4-32767-sur01.luthe.tx.houston.comcast.net
+
+
+N8343	ae-1-0-sur02.alief.tx.houston.comcast.net
+N8343	ae-20-0-sur02.alief.tx.houston.comcast.net
+N8343	xe-0-2-1-32767-sur02.alief.tx.houston.comcast.net
+N8343	xe-0-2-2-32767-sur02.alief.tx.houston.comcast.net
+N8343	xe-0-3-0-32767-sur02.alief.tx.houston.comcast.net
+
+
+N9557	ge-4-2-6-32767-sur01.alief.tx.houston.comcast.net
+N9557	xe-0-0-0-0-sur03.alief.tx.houston.comcast.net
+N9557	xe-11-0-0-0-sur02.alief.tx.houston.comcast.net
+
+
+
+
+N15614	te-0-0-0-0-sur03.orem.ut.utah.comcast.net
+N15614	te-0-0-0-1-sur03.orem.ut.utah.comcast.net
+N15614	te-0-0-0-2-sur03.orem.ut.utah.comcast.net
+N15614	te-0-0-0-3-sur03.orem.ut.utah.comcast.net
+N15614	te-0-0-0-4-sur03.orem.ut.utah.comcast.net
+
+
+N27719	te-0-6-0-4-sur01.saltlakecity.ut.utah.comcast.net
+
+
+N32045	te-0-0-0-0-sur01.orem.ut.utah.comcast.net
+N32045	te-0-0-0-1-sur01.orem.ut.utah.comcast.net
+N32045	te-0-7-0-2-sur01.orem.ut.utah.comcast.net
+
+
+N32068	te-0-0-0-1-sur01.sandy.ut.utah.comcast.net
+N32068	te-0-0-0-2-sur01.sandy.ut.utah.comcast.net
+N32068	te-0-0-0-3-sur01.sandy.ut.utah.comcast.net
+
+
+N32069	te-0-0-0-1-sur02.sandy.ut.utah.comcast.net
+N32069	te-0-0-0-2-sur02.sandy.ut.utah.comcast.net
+N32069	te-0-0-0-3-sur02.sandy.ut.utah.comcast.net
+
+
+N32070	ge-1-1-ur03.saltlakecity.ut.utah.comcast.net
+N32070	ge-3-23-ur03.saltlakecity.ut.utah.comcast.net
+N32070	te-9-3-ur03.saltlakecity.ut.utah.comcast.net
+
+
+N4432	te-5-4-ar02.saltlakecity.ut.utah.comcast.net
+
+
+N5636	te-0-0-0-0-sur03.ogden.ut.utah.comcast.net
+N5636	te-0-0-0-1-sur03.ogden.ut.utah.comcast.net
+N5636	te-0-0-0-2-sur03.ogden.ut.utah.comcast.net
+N5636	te-0-0-0-4-sur03.ogden.ut.utah.comcast.net
+N5636	te-0-0-0-5-sur03.ogden.ut.utah.comcast.net
+N5636	te-0-7-0-0-sur03.ogden.ut.utah.comcast.net
+N5636	te-0-7-0-1-sur03.ogden.ut.utah.comcast.net
+N5636	te-0-7-0-2-sur03.ogden.ut.utah.comcast.net
+
+
+N9734	ge-0-4-5-6-3692-sur01.ogden.ut.utah.comcast.net
+N9734	te-0-0-0-0-sur01.ogden.ut.utah.comcast.net
+N9734	te-0-0-0-2-sur01.ogden.ut.utah.comcast.net
+N9734	te-0-5-0-5-sur01.ogden.ut.utah.comcast.net
+N9734	te-0-5-0-7-sur01.ogden.ut.utah.comcast.net
+N9734	te-0-7-0-0-sur01.ogden.ut.utah.comcast.net
+
+
+
+
+N13069	xe-0-0-0-0-sur01.sterling.va.richmond.comcast.net
+N13069	xe-0-1-0-0-sur01.sterling.va.richmond.comcast.net
+N13069	xe-11-0-0-0-sur01.sterling.va.richmond.comcast.net
+N13069	xe-11-1-0-0-sur01.sterling.va.richmond.comcast.net
+
+
+N16877	as15224-1-c.ashburn.va.ibone.comcast.net
+
+
+N16912	as53605-1-c.ashburn.va.ibone.comcast.net
+
+
+N17661	as32161-1-c.ashburn.va.ibone.comcast.net
+
+
+N17851	ge-1-3-7-32767-sur01.valley.va.richmond.comcast.net
+N17851	xe-0-0-0-0-sur01.valley.va.richmond.comcast.net
+N17851	xe-11-0-0-0-sur01.valley.va.richmond.comcast.net
+
+
+N20368	te-2-1-ur03-d.manassascc.va.bad.comcast.net
+N20368	xe-11-0-0-ur13-d.manassascc.va.bad.comcast.net
+N20368	xe-11-0-1-ur14-d.manassascc.va.bad.comcast.net
+
+
+N20373	te-3-1-ur01.abingdon.va.knox.comcast.net
+N20373	te-3-4-ur01.abingdon.va.knox.comcast.net
+N20373	te-9-1-ur01.abingdon.va.knox.comcast.net
+N20373	te-9-4-ur01.abingdon.va.knox.comcast.net
+
+
+N20378	te-3-1-ur01.gladespring.va.knox.comcast.net
+N20378	te-3-2-ur01.gladespring.va.knox.comcast.net
+N20378	te-4-1-ur01.gladespring.va.knox.comcast.net
+N20378	te-4-2-ur01.gladespring.va.knox.comcast.net
+
+
+N20442	xe-0-0-0-0-sur01.winchester.va.richmond.comcast.net
+N20442	xe-1-1-0-0-sur01.winchester.va.richmond.comcast.net
+N20442	xe-11-0-0-0-sur01.winchester.va.richmond.comcast.net
+N20442	xe-11-2-0-0-sur01.winchester.va.richmond.comcast.net
+
+
+N20456	xe-0-0-0-0-sur01.spotsylvania.va.richmond.comcast.net
+N20456	xe-0-3-0-0-sur01.spotsylvania.va.richmond.comcast.net
+N20456	xe-11-0-0-0-sur01.spotsylvania.va.richmond.comcast.net
+N20456	xe-11-3-0-0-sur01.spotsylvania.va.richmond.comcast.net
+
+
+N20457	te-1-1-ur01.stafford.va.richmond.comcast.net
+N20457	te-1-3-ur01.stafford.va.richmond.comcast.net
+N20457	te-9-1-ur01.stafford.va.richmond.comcast.net
+N20457	te-9-4-ur01.stafford.va.richmond.comcast.net
+
+
+N20458	xe-0-0-0-0-sur01.chesterfield.va.richmond.comcast.net
+N20458	xe-11-0-0-0-sur01.chesterfield.va.richmond.comcast.net
+N20458	xe-2-0-0-0-sur01.chesterfield.va.richmond.comcast.net
+N20458	xe-9-3-0-0-sur01.chesterfield.va.richmond.comcast.net
+
+
+N20459	te-1-1-ur02.winchester.va.richmond.comcast.net
+N20459	te-9-1-ur02.winchester.va.richmond.comcast.net
+N20459	te-9-3-ur02.winchester.va.richmond.comcast.net
+
+
+N20460	te-7-1-ur02.staunton.va.richmond.comcast.net
+N20460	te-7-3-ur02.staunton.va.richmond.comcast.net
+N20460	te-8-1-ur02.staunton.va.richmond.comcast.net
+N20460	te-8-3-ur02.staunton.va.richmond.comcast.net
+
+
+N27723	as7272-1-c.ashburn.va.ibone.comcast.net
+
+
+N28695	ae-0-0-sur01.alexandria.va.bad.comcast.net
+N28695	ae-1-0-sur01.alexandria.va.bad.comcast.net
+N28695	ge-10-1-7-32767-sur01.alexandria.va.bad.comcast.net
+
+
+N28715	ae-1-0-sur02.alexandria.va.bad.comcast.net
+N28715	ae-110-32767-sur02.alexandria.va.bad.comcast.net
+N28715	xe-11-1-0-0-sur02.alexandria.va.bad.comcast.net
+
+
+N28728	ge-1-2-6-32767-sur01.churchrd.va.richmond.comcast.net
+N28728	xe-0-0-0-0-sur01.churchrd.va.richmond.comcast.net
+N28728	xe-11-0-0-0-sur01.churchrd.va.richmond.comcast.net
+
+
+N31646	as40428-2-c.ashburn.va.ibone.comcast.net
+
+
+N31932	te-8-1-ur07.manassascc.va.bad.comcast.net
+N31932	te-8-3-ur07.manassascc.va.bad.comcast.net
+N31932	te-9-3-ur07.manassascc.va.bad.comcast.net
+
+
+N31987	ge-1-1-ur04.alexandria.va.bad.comcast.net
+N31987	ge-2-3-ur04.alexandria.va.bad.comcast.net
+N31987	te-9-3-ur04.alexandria.va.bad.comcast.net
+
+
+N32032	ge-5-2-ur01.spotsylvania.va.richmond.comcast.net
+N32032	te-9-1-ur01.spotsylvania.va.richmond.comcast.net
+N32032	te-9-3-ur01.spotsylvania.va.richmond.comcast.net
+
+
+N3816	be-102-pe06.ashburn.va.ibone.comcast.net
+N3816	be-20-pe06.ashburn.va.ibone.comcast.net
+N3816	be-21-pe06.ashburn.va.ibone.comcast.net
+N3816	be-22-pe06.ashburn.va.ibone.comcast.net
+N3816	be-23-pe06.ashburn.va.ibone.comcast.net
+N3816	be-24-pe06.ashburn.va.ibone.comcast.net
+N3816	be-25-pe06.ashburn.va.ibone.comcast.net
+N3816	be-26-pe06.ashburn.va.ibone.comcast.net
+N3816	be-27-pe06.ashburn.va.ibone.comcast.net
+
+
+N4403	he-0-10-0-0-pe07.ashburn.va.ibone.comcast.net
+N4403	he-0-10-0-1-pe07.ashburn.va.ibone.comcast.net
+N4403	he-0-11-0-0-pe07.ashburn.va.ibone.comcast.net
+N4403	he-0-11-0-1-pe07.ashburn.va.ibone.comcast.net
+N4403	he-0-12-0-0-pe07.ashburn.va.ibone.comcast.net
+N4403	he-0-12-0-1-pe07.ashburn.va.ibone.comcast.net
+
+
+N5968	ge-1-0-2-32767-sur01.charlville.va.richmond.comcast.net
+N5968	xe-0-0-0-0-sur01.charlville.va.richmond.comcast.net
+N5968	xe-0-1-0-0-sur01.charlville.va.richmond.comcast.net
+N5968	xe-11-0-0-0-sur01.charlville.va.richmond.comcast.net
+N5968	xe-11-1-0-0-sur01.charlville.va.richmond.comcast.net
+
+
+N6420	as3549-pe01.ashburn.va.ibone.comcast.net
+
+
+N6441	so-0-0-0-0-ar04.manassascc.va.bad.comcast.net
+N6441	so-1-0-0-0-ar04.manassascc.va.bad.comcast.net
+N6441	so-1-1-0-0-ar04.manassascc.va.bad.comcast.net
+N6441	so-15-0-0-0-ar04.manassascc.va.bad.comcast.net
+N6441	so-2-1-0-0-ar04.manassascc.va.bad.comcast.net
+N6441	so-6-1-0-0-ar04.manassascc.va.bad.comcast.net
+N6441	so-7-0-0-0-ar04.manassascc.va.bad.comcast.net
+N6441	so-7-1-0-0-ar04.manassascc.va.bad.comcast.net
+
+
+N8253	as20940-1-c.ashburn.va.ibone.comcast.net
+
+
+N8347	so-0-1-0-0-ar02.charlvilleco.va.richmond.comcast.net
+N8347	so-1-0-0-0-ar02.charlvilleco.va.richmond.comcast.net
+N8347	so-1-1-0-0-ar02.charlvilleco.va.richmond.comcast.net
+N8347	so-14-0-0-0-ar02.charlvilleco.va.richmond.comcast.net
+N8347	so-2-0-0-0-ar02.charlvilleco.va.richmond.comcast.net
+N8347	so-2-1-0-0-ar02.charlvilleco.va.richmond.comcast.net
+N8347	so-7-1-0-0-ar02.charlvilleco.va.richmond.comcast.net
+
+
+N8348	so-0-1-0-0-ar02.staplesmllrd.va.richmond.comcast.net
+N8348	so-1-0-0-0-ar02.staplesmllrd.va.richmond.comcast.net
+N8348	so-1-1-0-0-ar02.staplesmllrd.va.richmond.comcast.net
+N8348	so-14-0-0-0-ar02.staplesmllrd.va.richmond.comcast.net
+N8348	so-2-0-0-0-ar02.staplesmllrd.va.richmond.comcast.net
+N8348	so-2-1-0-0-ar02.staplesmllrd.va.richmond.comcast.net
+N8348	so-7-1-0-0-ar02.staplesmllrd.va.richmond.comcast.net
+
+
+
+
+N13073	xe-0-0-0-0-sur01.seattle.wa.seattle.comcast.net
+N13073	xe-11-0-0-0-sur01.seattle.wa.seattle.comcast.net
+N13073	xe-11-1-0-32767-sur01.seattle.wa.seattle.comcast.net
+
+
+N14149	pos-0-8-0-0-cr01.seattle.wa.ibone.comcast.net
+
+
+N1763	ae-1-0-ar03.seattle.wa.seattle.comcast.net
+N1763	ae-2-0-ar03.seattle.wa.seattle.comcast.net
+N1763	ae-20-0-ar03.seattle.wa.seattle.comcast.net
+N1763	xe-20-1-2-0-ar03.seattle.wa.seattle.comcast.net
+
+
+N17848	xe-0-0-0-0-sur01.burien.wa.seattle.comcast.net
+N17848	xe-11-0-0-0-sur01.burien.wa.seattle.comcast.net
+
+
+N17857	ae-1-0-sur01.bellevue.wa.seattle.comcast.net
+N17857	ae-2-0-sur01.bellevue.wa.seattle.comcast.net
+N17857	ge-2-0-3-32767-sur01.bellevue.wa.seattle.comcast.net
+N17857	ge-4-2-4-32767-sur01.bellevue.wa.seattle.comcast.net
+
+
+N20412	be-38-sur04.federalway.wa.seattle.comcast.net
+N20412	te-0-0-0-0-sur04.federalway.wa.seattle.comcast.net
+N20412	te-0-0-0-6-sur04.federalway.wa.seattle.comcast.net
+N20412	te-0-0-0-7-sur04.federalway.wa.seattle.comcast.net
+
+
+N20485	be-1-ur07.seattle.wa.seattle.comcast.net
+N20485	be-20-ur07.seattle.wa.seattle.comcast.net
+N20485	te-0-2-0-6-ur07.seattle.wa.seattle.comcast.net
+
+
+N2118	ae-1-0-ar03.burien.wa.seattle.comcast.net
+N2118	ae-18-0-ar03.burien.wa.seattle.comcast.net
+N2118	ae-2-0-ar03.burien.wa.seattle.comcast.net
+
+
+N2266	as11404-1-c.seattle.wa.ibone.comcast.net
+
+
+N27191	as32590-1-c.seattle.wa.ibone.comcast.net
+
+
+N28696	ae-1-0-sur01.tacoma.wa.seattle.comcast.net
+N28696	ae-2-0-sur01.tacoma.wa.seattle.comcast.net
+
+
+N28716	xe-0-0-0-0-sur01.redmond.wa.seattle.comcast.net
+N28716	xe-11-0-0-0-sur01.redmond.wa.seattle.comcast.net
+
+
+N28722	xe-0-0-0-0-sur02.federalway.wa.seattle.comcast.net
+N28722	xe-11-0-0-0-sur02.federalway.wa.seattle.comcast.net
+
+
+N28757	ge-3-1-2-32767-sur01.bremerton.wa.seattle.comcast.net
+N28757	xe-0-1-0-0-sur01.bremerton.wa.seattle.comcast.net
+N28757	xe-11-0-0-0-sur01.bremerton.wa.seattle.comcast.net
+
+
+N3163	as577.seattle.wa.ibone.comcast.net
+
+
+N32009	po-10-ur02.bellevue.wa.seattle.comcast.net
+N32009	po-50-ur02.bellevue.wa.seattle.comcast.net
+N32009	te-9-4-ur02.bellevue.wa.seattle.comcast.net
+
+
+N32016	pos-0-7-0-0-cr01.seattle.wa.ibone.comcast.net
+
+
+N32020	ae-1-0-sur01.everett.wa.seattle.comcast.net
+N32020	ae-2-0-sur01.everett.wa.seattle.comcast.net
+N32020	ge-5-1-8-32767-sur01.everett.wa.seattle.comcast.net
+
+
+N32021	be-1-sur03.tacoma.wa.seattle.comcast.net
+N32021	be-28-sur03.tacoma.wa.seattle.comcast.net
+N32021	te-0-4-0-2-sur03.tacoma.wa.seattle.comcast.net
+
+
+N32078	be-1-ur08.seattle.wa.seattle.comcast.net
+N32078	be-20-ur08.seattle.wa.seattle.comcast.net
+N32078	te-0-2-0-6-ur08.seattle.wa.seattle.comcast.net
+
+
+N4390	as852.seattle.wa.ibone.comcast.net
+
+
+N5807	as4258-1-c.seattle.wa.ibone.comcast.net
+
+
+N5851	as12989-1-c.seattle.wa.ibone.comcast.net
+
+
+N7673	as4258-2-c.seattle.wa.ibone.comcast.net
+
+
+N8308	as174.seattle.wa.ibone.comcast.net
+
+
+N9513	as4323.seattle.wa.ibone.comcast.net
+
+
+N9741	be-101-pe04.seattle.wa.ibone.comcast.net
+N9741	he-0-10-0-0-pe04.seattle.wa.ibone.comcast.net
+N9741	he-0-10-0-1-pe04.seattle.wa.ibone.comcast.net
+N9741	he-0-11-0-0-pe04.seattle.wa.ibone.comcast.net
+N9741	he-0-11-0-1-pe04.seattle.wa.ibone.comcast.net
+
+
+
+
+N20402	te-4-2-ur02.huntington.wv.richmond.comcast.net
+N20402	te-6-1-ur02.huntington.wv.richmond.comcast.net
+N20402	te-7-4-ur02.huntington.wv.richmond.comcast.net
+N20402	te-8-4-ur02.huntington.wv.richmond.comcast.net
+
+
+N20449	te-8-1-ur02.morgantown.wv.pitt.comcast.net
+N20449	te-8-3-ur02.morgantown.wv.pitt.comcast.net
+N20449	te-9-1-ur02.morgantown.wv.pitt.comcast.net
+N20449	te-9-3-ur02.morgantown.wv.pitt.comcast.net
+
+
+N31947	ge-2-21-sr01.hedgesville.wv.bad.comcast.net
+N31947	te-1-1-sr01.hedgesville.wv.bad.comcast.net
+N31947	te-1-4-sr01.hedgesville.wv.bad.comcast.net
+
+
+N7865	ge-0-3-0-20-1537-sur01.morgantown.wv.pitt.comcast.net
+N7865	ge-0-3-0-28-3585-sur01.morgantown.wv.pitt.comcast.net
+N7865	te-0-0-0-0-sur01.morgantown.wv.pitt.comcast.net
+N7865	te-0-0-0-3-sur01.morgantown.wv.pitt.comcast.net
+N7865	te-0-7-0-0-sur01.morgantown.wv.pitt.comcast.net
+N7865	te-0-7-0-3-sur01.morgantown.wv.pitt.comcast.net

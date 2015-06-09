@@ -1,0 +1,122 @@
+The public suffix library can be found here:
+    https://publicsuffix.org/learn/
+
+The ITDK can be found mounted at /data/topology/ITDK on apollo. You want to use the
+midar-iff.nodes.bz2 and midar-run-20140421-dns-names.txt.bz2 files. 
+
+midar-iff.nodes.bz2 - lists the sets of IP addresses which belong to each router
+    format: node N<node id>: <ip0> <ip1> ...
+
+    Each lines indicates that a node node_id has interfaces i_1 to i_n.
+    Interface addresses in 224.0.0.0/3 (IANA reserved space for multicast)
+    are not real addresses.  They were artificially generated to identify
+    potentially unique non-responding interfaces in traceroute paths. Since
+    these placeholder IP addresses do not have hostnames, they aren't so 
+    important to you.
+
+       NOTE: In ITDK release 2013-04 and earlier, we used addresses in
+             0.0.0.0/8 instead of 224.0.0.0/3 for these non-real addresses.
+    
+    
+midar-run-20140421-dns-names.txt.bz2 - map between
+    format:<timestamp>    <ip> <hostname>
+    
+    Hostnames *.in-addr.arpa should be ignored. These show that no hostname
+    was found.
+
+Project: Router Naming
+
+High level goal: Given a set of IP addresses, determine which belong to the same router.
+
+Samle application: Determine which IPv4 and IPv6 addresses belong to the same router/host.
+
+Data sets: provided on caida.org's MIDAR project (http://www.caida.org/tools/measurement/midar/#downloads)
+- Node file (midar-iff.nodes)
+	This file contains a series of node ids along with their associated traced IPs. All IP addresses mapped to the same node ID are suggested to be on the same router.
+	Ex: 
+	nodeN1: 42.61.0.81	42.61.122.187
+	nodeN2:	12.34.5.75
+- Host file (midar-run-20140421-dns-names.txt)
+	This file contains a series of timestamps and IP addresses mapped to their respective hostnames. The timestamps will be ignored while studying the data and the hostnames will be 'sanitized' using a library called publicsuffix (https://publicsuffix.org/learn/). 
+	Ex:
+	1398912564      1.21.178.5      c5.178.21.1.ipda.vectant.ne.jp
+
+Procedures:
+1. Extract data
+- Related files: extract.py, midar-iff.nodes, midar-run-20140421-dns-names.txt
+- extract.py:
+	A. Runs through the hostfile and creates a mapping of IP addresses to their respective hostnames
+	B. Runs through the nodefile and for each node ID:
+		- runs through this node's list of associated IP addresses and for each of these IP addresses:
+			- insert into a sqlite3 database a relation called NodeHost with the following schema 
+			IP address | hostname (sanitized with publicsuffix) | hostname (original) | node ID | node ID (int)
+		- insert into a sqlite3 database a relation called NodeDegree with the following schema
+		# of IP addresses on this node | # of IP addresses that are also in the mapping in A. | node ID | node ID (int)
+	C. The resulting database is called router-naming.db
+
+2. Determine most quality data to further examine
+- Related files: analyze_top.py, router-naming.db
+- analyze_top.py:
+	A. Runs through the database and count the frequencies of each hostnames
+	B. Map these hostnames to their frequencies and sort by descending frequencies. Output this list of most popular hostnames (note that this only needs to be run once after the list is obtained)
+	C. From the list of most popular hostnames, runs through the database and retrive all record that correspond to the selected hostname. The query needs to be modified everytime a different hostname input changes. Output into a text file for further examination.
+	Ex: find all records for yahoo.com:
+	Change the SQL query to only look for records whose public suffix is 'yahoo.com'
+	python analyze_top.py > yahoo.txt
+
+3. Derive regex from quality data
+- Related files: analyze_regex.py, *.txt
+- This is the primary challenge of this project. For each host, study the naming convention of the hostnames and attempt to derive a regular expression that matches with such a convention. The ultimate goal is a set of good regular expressions that could take any set of unknown IP addresses and determine which originate from the same router. 
+- analyze_regex.py:
+	A. Reads in the data text files to study
+	B. Come up with a regular expression to match the naming convention. The regular expression(s) should be able to capture as many hostnames of the same host as possible and also distinguish those hostnames that originate from the same router. 
+
+	This is validated by deriving a router ID from the regular expression. Router ID should be unique to a router; all of the interfaces on the same routers should have the same router ID. 
+	C. Creates 4 mappings:
+		- Router ID to Node ID (rid_nid), obtained after running the regex on the original data
+		- Node ID to Router ID (nid_rid), obtained after running the regex on the original data
+		- Node ID to host count original (count how many hostnames this Node ID has in the original data)
+		- Node ID to host count from supposed regex (count how many hostnames this Node ID has as a result of the reg ex)
+	D. Validate the quality of regular expression by counting the following:
+		- Perfect: when # of hostnames count from original data equals # of hostnames count from supposed regex for the same Node ID
+                - Partial: when # of hostnames count from original data less than # of hostnames count from supposed regex for the same Node ID
+		- Missed: when node ID has no routers associated with it (nid_rid[key] == 0)
+		- Mixed: when a router ID is mapped to more than one Node ID
+		- Split: when a Node ID is mapped to more than one Router ID
+		- No router: when a router ID is not mapped to any Node ID
+		- Accuracy: perfect / (perfect + partial + missed + mixed + split + no router)
+
+4. Observations from data examnination
+alter.net (93.1%):
+- There are obvious inconsistency in the naming convention on several nodes. This causes a a good amount of split and partial errors. 
+Ex:
+N30978          0.so-0-0-0.xt4.sju2.alter.net
+N30978          0.so-0-1-0.xt4.sju2.alter.net
+N30978          0.xe-11-2-0.64.116.32.145.alter.net
+It is clear that the last interface's hostname doesn't correspond to the naming convention for the majority of the other interfaces. This is usally due to an unupdated interface for this router. I have decided to ignore these cases since there is not likely a regex that could take care of these irregular hostnames. In addition, when cases like this happen, it is often easy to identify the obsolete interface (usually the only different interface).
+
+yahoo.com (84.92%):
+- There are a few unknowns hostnames for about 27 routers. This causes the partial error to be relatively high. I haven't decided whether to ignore these in the validation process. 
+Ex:
+N6767           unknown-98-138-97-x.yahoo.com
+N6767           xe-4-0-0.clr2-a-sat.ne1.yahoo.com
+N6767           xe-8-0-0.clr2-a-sat.ne1.yahoo.com
+The regular expression can match all of these hostnames, but the router ID for the latter two will be (clr2-a-sat, ne1) and for the unknown will be (98, 138). This happens throughout the dataset, dropping accuracy by a good amount. Next step is to try to ignore these unknowns to see if a better result could be obtained. 
+
+rr.net (77%):
+- Working on this. 
+
+virginmedia.net (99.47%):
+- Host with best result. The only partial error observed is most likely due to an unupdated naming convention in the dataset.
+
+cogentco.com
+comcast.net
+telia.net
+tinet.net
+ntt.net
+
+
+
+
+
+
